@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "How I Met Your Mother",
+    "release_year": "2005",
+    "genre_1": "Comedy",
+    "genre_2": "Romance",
+    "emoji": "👨‍🦰👩🌂🍺🚕",
+    "short_plot_summary": "Ted Mosby recounts the story of how he met his children's mother to his son and daughter, while recounting his adventures in New York City with his friends.",
+    "explanation": [
+        [
+            "👨‍🦰",
+            "Ted Mosby, the main character"
+        ],
+        [
+            "👩",
+            "The mother, the central mystery of the show"
+        ],
+        [
+            "🌂",
+            "A yellow umbrella, symbolizes the fateful meeting between Ted and the Mother"
+        ],
+        [
+            "🍺",
+            "A beer, representing the friends hanging out at the bar, MacLaren's"
+        ],
+        [
+            "🚕",
+            "A taxi, representing New York City where the series takes place"
+        ]
+    ]
+}

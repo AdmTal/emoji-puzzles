@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Legally Blonde",
+    "release_year": "2001",
+    "genre_1": "Comedy",
+    "genre_2": "Romance",
+    "emoji": "👩‍🦳💔📚⚖️🐶",
+    "short_plot_summary": "Elle Woods, a fashionable sorority queen, follows her ex-boyfriend to Harvard Law School to win him back, ultimately discovering her love for law and a newfound sense of self.",
+    "explanation": [
+        [
+            "👩‍🦳",
+            "Elle Woods, the main character and sorority queen"
+        ],
+        [
+            "💔",
+            "A broken heart, representing Elle's initial motivation to attend law school due to her breakup with her boyfriend"
+        ],
+        [
+            "📚",
+            "A stack of books, symbolizing Elle's studies and growth at Harvard Law School"
+        ],
+        [
+            "⚖️",
+            "A balance scale, representing the legal profession and Elle's newfound passion for law"
+        ],
+        [
+            "🐶",
+            "A dog, in honor of Elle's beloved pet, Bruiser"
+        ]
+    ]
+}

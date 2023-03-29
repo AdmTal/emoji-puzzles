@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Charlie and the Chocolate Factory",
+    "release_year": "1964",
+    "genre_1": "Children's literature",
+    "genre_2": "Fantasy",
+    "emoji": "🍫🎫👦🎩🏭",
+    "short_plot_summary": "Young Charlie Bucket wins a golden ticket to visit the fantastical Wonka Chocolate Factory, meeting eccentric owner Willy Wonka and experiencing adventures with other ticket holders.",
+    "explanation": [
+        [
+            "🍫",
+            "A chocolate bar, representing the main theme of the story"
+        ],
+        [
+            "🎫",
+            "A ticket, symbolizing the golden ticket Charlie finds to gain entry to the factory"
+        ],
+        [
+            "👦",
+            "A boy, representing the main character, Charlie Bucket"
+        ],
+        [
+            "🎩",
+            "A top hat, illustrating the quirky and enigmatic factory owner, Willy Wonka"
+        ],
+        [
+            "🏭",
+            "A factory, for the Wonka Chocolate Factory where the story takes place"
+        ]
+    ]
+}

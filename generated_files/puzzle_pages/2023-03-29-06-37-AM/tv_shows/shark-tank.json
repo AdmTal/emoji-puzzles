@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "Shark Tank",
+    "release_year": "2009",
+    "genre_1": "Reality",
+    "genre_2": "Business",
+    "emoji": "💼🦈💰📈🤝",
+    "short_plot_summary": "Budding entrepreneurs pitch their business ideas to wealthy investors, known as 'sharks', in hopes of securing funding and partnerships to grow their ventures.",
+    "explanation": [
+        [
+            "💼",
+            "A briefcase, representing the business aspect of the show"
+        ],
+        [
+            "🦈",
+            "A shark, symbolizing the investors, who are fierce and competitive"
+        ],
+        [
+            "💰",
+            "A bag of money, indicating the funding entrepreneurs seek from the investors"
+        ],
+        [
+            "📈",
+            "A rising chart, demonstrating the potential growth and success of the businesses"
+        ],
+        [
+            "🤝",
+            "A handshake, signifying the deals and partnerships made between the entrepreneurs and the sharks"
+        ]
+    ]
+}

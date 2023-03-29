@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Catch Me If You Can",
+    "release_year": "2002",
+    "genre_1": "Crime",
+    "genre_2": "Drama",
+    "emoji": "✈️🕵️‍♂️💵🏥👰",
+    "short_plot_summary": "A con man poses as various professionals, such as a pilot and a doctor, while being chased by an FBI agent throughout the years.",
+    "explanation": [
+        [
+            "✈️",
+            "An airplane, representing the protagonist's impersonation of a pilot"
+        ],
+        [
+            "🕵️‍♂️",
+            "A detective, symbolizing the FBI agent tracking the protagonist"
+        ],
+        [
+            "💵",
+            "A dollar bill, illustrating the fraudulent checks and forgeries committed by the protagonist"
+        ],
+        [
+            "🏥",
+            "A hospital, indicating the protagonist's time posing as a doctor"
+        ],
+        [
+            "👰",
+            "A bride, representing the protagonist's romantic relationships throughout the story"
+        ]
+    ]
+}
