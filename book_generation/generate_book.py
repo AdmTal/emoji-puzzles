@@ -83,6 +83,7 @@ answers_page = make_chapter_divider_page('Answers', '💡', f'{temp_output_dir}/
 qr_code_page = 'externally_generated_files/qr-code.pdf'
 toc_paperback = 'externally_generated_files/paperback-table-of-contents.pdf'
 toc_ebook = 'externally_generated_files/ebook-table-of-contents.pdf'
+how_to_play = 'externally_generated_files/how-to-play.pdf'
 
 # Before building the book, figure out what page each Puzzle and Answer will land on
 puzzle_page_lookup = {}
@@ -98,6 +99,7 @@ if IS_EBOOK:
         'copyright_attribution',
         'dedication',
         'QR Code', 'intro',
+        'how-to-play',
         'Table of Contents',
         'Movies Chapter Page',
     ])
@@ -106,6 +108,7 @@ else:
         'title',
         'copyright_attribution', 'dedication',
         'QR Code', 'intro',
+        'blank', 'how-to-play',
         'blank', 'Table of Contents',
         'blank', 'Movies Chapter Page',
         'blank'
@@ -254,6 +257,11 @@ merger.append(PdfReader(open(dedication_page, 'rb')))
 # QR + INTRO
 merger.append(PdfReader(open(qr_code_page, 'rb')))
 merger.append(PdfReader(open(intro_page, 'rb')))
+
+# BLANK + HOW TO PLAY
+if IS_PAPERBACK:
+    merger.append(PdfReader(open(blank_page, 'rb')))
+merger.append(PdfReader(open(how_to_play, 'rb')))
 
 # BLANK + TOC
 if IS_PAPERBACK:
