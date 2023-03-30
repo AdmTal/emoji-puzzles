@@ -32,7 +32,7 @@ This downloads ~4GB of emoji files, so it might take a little while.
 git submodule update --init
 ```
 
-### Generating Puzzles with GPT4
+### Generating Puzzles with GPT-4
 
 You'll need access to OpenAIs REST API to generate puzzles.
 
@@ -50,7 +50,7 @@ export OPENAI_API_KEY=add-your-api-secret-key-here
 python gpt_content_generation/generate_emoji_puzzles.py
 ```
 
-### How to change to Movies, TV Shows, and Books
+### How to choose your own Movies, TV Shows, and Books
 
 Edit the files found in [the input directories](gpt_content_generation/inputs).
 
