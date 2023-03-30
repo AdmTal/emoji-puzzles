@@ -21,7 +21,7 @@ def get_completion(messages):
     )
 
 
-def get_movie_title_message(title_type, title):
+def get_content_title_message(title_type, title):
     return {
         "role": "user",
         "content": f'{title_type}: {title}'
@@ -62,7 +62,7 @@ def get_json_for_title_with_backoff(prompt, _type, title, max_retries=5, initial
             completion = get_completion(
                 [
                     get_system_message(prompt),
-                    get_movie_title_message(_type, title)
+                    get_content_title_message(_type, title)
                 ]
             )
             return completion.choices[0].message.content
@@ -78,7 +78,7 @@ def get_json_for_title_with_backoff(prompt, _type, title, max_retries=5, initial
             retries += 1
 
 
-def process_movie_data(filename):
+def load_puzzle_data_from_dir(filename):
     with open(filename, 'r') as f:
         reader = csv.DictReader(f)
         return [row for row in reader]
@@ -95,17 +95,17 @@ def main():
     output_dir = f'generated_files/puzzle_pages/{iteration_id}'
     input_dir = 'gpt_content_generation/inputs'
 
-    for movie in process_movie_data(f'{input_dir}/movies.csv'):
+    for movie in load_puzzle_data_from_dir(f'{input_dir}/movies.csv'):
         title = movie['title']
         json_output = get_json_for_title_with_backoff(EMOJI_PUZZLE_PROMPT, 'MOVIE', title)
         write_json_to_file(json_output, f'{output_dir}/movies/{slugify(title)}.json')
 
-    for tv_show in process_movie_data(f'{input_dir}/tv_shows.csv'):
+    for tv_show in load_puzzle_data_from_dir(f'{input_dir}/tv_shows.csv'):
         title = tv_show['title']
         json_output = get_json_for_title_with_backoff(EMOJI_PUZZLE_PROMPT, 'TV SHOW', title)
         write_json_to_file(json_output, f'./{output_dir}/tv_shows/{slugify(title)}.json')
 
-    for book in process_movie_data(f'{input_dir}/books.csv'):
+    for book in load_puzzle_data_from_dir(f'{input_dir}/books.csv'):
         title = book['title']
         json_output = get_json_for_title_with_backoff(EMOJI_PUZZLE_PROMPT, 'BOOK', title)
         write_json_to_file(json_output, f'{output_dir}/books/{slugify(title)}.json')
