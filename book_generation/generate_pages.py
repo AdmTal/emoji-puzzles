@@ -74,20 +74,6 @@ def create_emoji_image(emoji_puzzle):
 
 
 def make_puzzle_page(emoji_puzzle, genre_1, genre_2, release_year, pdf_file, puzzle_page_number, answer_page_number, chapter_emoji):
-    padding = 25
-    emoji_image = create_emoji_image(emoji_puzzle.strip())
-    width, height = emoji_image.size
-    max_width = SMALL_SQUARE[0] - padding * 2 - 20  # Use full page width with padding and additional 10px on each side
-    scale_factor = max_width / width
-    emoji_image = emoji_image.resize((int(width * scale_factor), int(height * scale_factor)), Image.LANCZOS)
-
-    # Title Clue
-    chapter_title_emoji = create_emoji_image(chapter_emoji)
-    width, height = chapter_title_emoji.size
-    max_width = .5 * inch
-    scale_factor = max_width / width
-    chapter_title_emoji = chapter_title_emoji.resize((int(width * scale_factor), int(height * scale_factor)), Image.LANCZOS)
-
     c = canvas.Canvas(pdf_file, pagesize=SMALL_SQUARE)
     c.saveState()
 
@@ -98,32 +84,48 @@ def make_puzzle_page(emoji_puzzle, genre_1, genre_2, release_year, pdf_file, puz
     c.setFont(GLOBAL_FONT, 24)
     c.drawCentredString(
         SMALL_SQUARE[0] / 2,
-        SMALL_SQUARE[1] - 1.5 * inch,
+        SMALL_SQUARE[1] - 1.65 * inch,
         f"{genre_1} | {genre_2} | {release_year}"
     )
 
-    # Draw emoji image
-    img_width = emoji_image.width
-    img_height = emoji_image.height
-    c.drawImage(
-        ImageReader(emoji_image),  # Use ImageReader to read the PIL image directly
-        SMALL_SQUARE[0] / 2 - img_width / 2,
-        SMALL_SQUARE[1] / 2 - img_height / 2,
-        img_width,
-        img_height,
-        mask='auto'  # Preserve transparency
-    )
+    # Create emoji puzzle image
+    images = []
+    scale_factor = .67
+    for emoji in emoji_lib.emoji_list(emoji_puzzle.strip()):
+        emoji_image = get_pil_image_for_emoji_char(emoji['emoji'])
+        if emoji_image:
+            img_width = int(emoji_image.width * scale_factor)
+            img_height = int(emoji_image.height * scale_factor)
+            img_data = BytesIO()
+            emoji_image.save(img_data, format="PNG")
+            img_data.seek(0)
+            images.append(PlatypusImage(img_data, img_width, img_height))
+    total_width = sum([img.drawWidth for img in images])
+    start_x = (SMALL_SQUARE[0] - total_width) / 2
+
+    for img in images:
+        img_width = img.drawWidth
+        img_height = img.drawHeight
+        img.drawOn(
+            c,
+            start_x,
+            SMALL_SQUARE[1] / 2 - img_height / 2
+        )
+        start_x += img_width
 
     # Draw Chapter Emoji
-    img_width = chapter_title_emoji.width
-    img_height = chapter_title_emoji.height
-    c.drawImage(
-        ImageReader(chapter_title_emoji),  # Use ImageReader to read the PIL image directly
-        (SMALL_SQUARE[0] / 2) - img_width / 2,
-        SMALL_SQUARE[1] - 1.15 * inch,
-        img_width,
-        img_height,
-        mask='auto'  # Preserve transparency
+    chapter_title_emoji = create_emoji_image(chapter_emoji)
+    width, height = chapter_title_emoji.size
+    max_width = .5 * inch
+    scale_factor = max_width / width
+    img_data = BytesIO()
+    chapter_title_emoji.save(img_data, format="PNG")
+    img_data.seek(0)
+    chapter_title_img = PlatypusImage(img_data, width * scale_factor, height * scale_factor)
+    chapter_title_img.drawOn(
+        c,
+        (SMALL_SQUARE[0] / 2) - chapter_title_img.drawWidth / 2,
+        SMALL_SQUARE[1] - 1.15 * inch
     )
 
     # In make_page function
