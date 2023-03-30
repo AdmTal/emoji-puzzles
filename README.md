@@ -1,8 +1,20 @@
 # Emoji Puzzles
 
-The code behind the book
+👋 Welcome!
 
-### Setup & Install Dependancies
+I used this repo to generate my book "Emoji Puzzles," now available on Amazon in both [ebook](https://www.amazon.com/dp/B0BZZ7S6JQ) and [paperback](https://www.amazon.com/dp/B0BZFP394J) formats.
+
+Here, you can explore the tools and techniques I used in leveraging AI to generate the book's content, as well as the code behind its creation.
+
+Feel free to use this resource as a guide for creating your own books! Be sure to check back for updates, as I'll continue to add new content for some time. 😊
+
+Looking forward to connecting with you all, and exploring more ways to apply AI in our lives! 💡
+
+<a href="https://www.amazon.com/dp/B0BZZ7S6JQ">
+  <img src="externally_generated_files/ebook-cover.jpg" width="200" />
+<a/>
+
+### Setup & Install Dependencies
 
 ```commandline
 python3 -m virtualenv venv
@@ -28,7 +40,7 @@ Sign up for an account at https://openai.com/.
 
 Follow [their documentation](https://platform.openai.com/docs/api-reference) to provision your own API credentials.
 
-Heads up, OpenAI charges for API usage, so make sure you go to your [Settings](https://platform.openai.com/account/usage) to keep tabs on how much you are spending.  I recommend you set up a **hard limit** under [billing settings](https://platform.openai.com/account/billing/limits) to avoid any surprises.
+Heads up, OpenAI charges for API usage, so make sure you go to your [Settings](https://platform.openai.com/account/usage) to keep tabs on how much you are spending. I recommend you set up a **hard limit** under [billing settings](https://platform.openai.com/account/billing/limits) to avoid any surprises.
 
 Save your API credentials into OS Environment Variables, and run the [generation script](gpt_content_generation/generate_emoji_puzzles.py):
 

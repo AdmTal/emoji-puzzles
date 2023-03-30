@@ -118,8 +118,8 @@ if IS_EBOOK:
     # Page numbers are just actual PDF natural page numbers
     current_page_num = page_offset
 else:
-    # "Page 1" will be the one with the first puzzle, and it should be on the RIGHT side
-    current_page_num = 0
+    # "Page 1" is the first chapter title page, but the number is invisible
+    current_page_num = 1
 
 # 😅 Please don't judge me too hard - the following code is very repetitive
 # But I genuinely feel it's easier for layout to keep it this way - easier to change if needed
@@ -277,7 +277,7 @@ merger.append(PdfReader(open(movies_page, 'rb')))
 if IS_PAPERBACK:
     merger.append(PdfReader(open(blank_page, 'rb')))
 
-cur_page = 0
+cur_page = 1
 
 for puzzle_page in movie_puzzles:
     merger.append(PdfReader(open(puzzle_page, 'rb')))

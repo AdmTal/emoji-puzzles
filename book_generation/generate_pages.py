@@ -30,8 +30,8 @@ def set_ebook_version(is_ebook_version):
 
 
 def is_left_page(page_num):
-    # EVEN numbers are on LEFT side
-    return page_num % 2 == 0
+    # EVEN numbers are on RIGHT side
+    return page_num % 2 != 0
 
 
 def load_png_image(filename):
