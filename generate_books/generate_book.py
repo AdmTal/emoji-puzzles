@@ -7,8 +7,8 @@ from typing import Dict, List
 
 from PyPDF2 import PdfReader, PdfMerger
 
-from book_generation.generated_content_utils import load_json_files_from_path
-from book_generation.generate_pages import (
+from generate_puzzles.generated_content_utils import load_json_files_from_path
+from generate_books.generate_pages import (
     make_puzzle_page,
     make_answer_key_page,
     make_chapter_divider_page,
