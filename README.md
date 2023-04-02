@@ -2,9 +2,9 @@
 
 👋 Welcome!
 
-I used this repository to make my book **Emoji Puzzles**, now available on Amazon in [ebook](https://www.amazon.com/dp/B0BZZ7S6JQ) and [paperback](https://www.amazon.com/dp/B0BZFP394J) formats.
+I used this repository to make my book **Emoji Puzzles**, now available on Amazon in [ebook](https://www.amazon.com/dp/B0BZZ7S6JQ) and [paperback](https://www.amazon.com/dp/B0BZFP394J).
 
-Here, you can access the tools I used to have AI generate both the puzzles and the code that converted them into the final manuscript.
+Here, you can access the tools I used to have AI generate both the puzzles and the code that converted them into the final manuscripts.
 
 Feel free to use this as a resource for creating your own books! Be sure to check back for updates, as I'll continue to add new content for some time. 😊
 

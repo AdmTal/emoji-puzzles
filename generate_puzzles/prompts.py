@@ -39,28 +39,28 @@ OUTPUT:
     "release_year": "1976",
     "genre_1": "Sports",
     "genre_2": "Drama",
-    "emoji": "🥊🏆🥇🏟️🇺🇸",
+    "emoji": "🔔🏃‍♂️🥊🏟️❤️",
     "short_plot_summary": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
     "explanation": [
         [
-            "🥊",
-            "A boxing glove, the sport featured in the movie"
+            "🔔",
+            "A bell, representing the Liberty Bell and the movie's setting in Philadelphia"
         ],
         [
             "🏃‍♂️",
             "A running man, representing Rocky's iconic training scenes"
         ],
         [
+            "🥊",
+            "A boxing glove, the sport featured in the movie"
+        ],
+        [
+            "🏟️",
+            "An arena, signifying the climactic boxing match and Rocky's determination to prove himself"
+        ],
+        [
             "❤️",
             "A heart, symbolizing the love story between Rocky and Adrian"
-        ],
-        [
-            "🏆",
-            "A trophy, signifying the climactic boxing match and Rocky's determination to prove himself"
-        ],
-        [
-            "🥇",
-            "A gold medal, representing Rocky's personal victory and triumph of spirit, even though he does not win the match"
         ]
     ]
 }
