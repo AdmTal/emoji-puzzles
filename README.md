@@ -106,6 +106,20 @@ That folder is filled with CSV files. You can simply add or remove titles and re
 
 You can then rerun the [generate_book script](src/generate_book.py). That file always uses your latest generated files unless you specify the input path like so:
 
+GPT-4 is pretty smart, but it might still generate invalid JSON from time to time.
+
+Run this command to double-check that all puzzle files are formatted correctly:
+
+```commandline
+python src/validate_puzzle_files.py
+```
+
+That script will let you know if any of the JSON objects are invalid, or missing required keys.
+
+For example, sometimes GPT-4 might use `"release-years": "1986-1990"` instead of the required format `"release_year": "1986"`.
+
+I recommend fixing these errors manually.  Copy and paste the file contents into this [online JSON validator](https://jsonlint.com/), and keep running the above script until the puzzles are error free.
+
 ```commandline
 python src/generate_book.py --layout ebook --input 2023-03-29-06-37-AM
 ```
