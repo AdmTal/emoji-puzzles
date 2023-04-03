@@ -110,7 +110,7 @@ You can then rerun the [generate_book script](src/generate_book.py). That file a
 python src/generate_book.py --layout ebook --input 2023-03-29-06-37-AM
 ```
 
-### Fixing Generated Puzzle Files
+### Fixing Errors
 
 GPT-4 is pretty smart, but it might still generate invalid JSON from time to time.
 
