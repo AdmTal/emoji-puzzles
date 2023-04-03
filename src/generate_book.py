@@ -62,7 +62,7 @@ def create_dir(path):
         os.makedirs(path)
 
 
-manuscript_output_dir = f'generated_files/manuscripts/{iteration_id}'
+manuscript_output_dir = f'output/generated_manuscripts/{iteration_id}'
 create_dir(manuscript_output_dir)
 
 temp_output_dir = tempfile.mkdtemp()
