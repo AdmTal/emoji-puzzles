@@ -109,3 +109,11 @@ You can then rerun the [generate_book script](generate_books/generate_book.py). 
 ```commandline
 python generate_books/generate_book.py --layout ebook --input 2023-03-29-06-37-AM
 ```
+
+### Editing and Revising the Generated Emoji Puzzles
+Editing and Revising the Generated Emoji Puzzles
+GPT-4 does an impressive job at generating emoji puzzles, but it's not perfect. Sometimes, you might find that the generated emojis aren't quite hitting the mark or that they contain incorrect details about the movie, TV show, or book. In such cases, you can use the following addendum to your prompt to request iterative improvements from the AI:
+
+> The user might respond with feedback asking for iterative improvements. Take their feedback into account, and send back updated EMOJI only. When the user confirms they are happy, then you can respond with the full JSON for that final set of EMOJI.
+
+This will let you interact with GPT-4 (or another AI model) to ask for edits and revisions to the generated emoji puzzles. Once you're satisfied with the updated emoji set, you can then receive the final JSON and save it to your input files. This process ensures that your emoji puzzles are as accurate and engaging as possible.
