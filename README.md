@@ -68,7 +68,7 @@ Interested in making emoji puzzles for **your own favorite** Movies, TV Shows, a
 
 To create a puzzle, simply create an input file for it and place it in the right folder before running the [generation script](generate_puzzles/generate_emoji_puzzles.py).
 
-Each puzzle is defined in a [JSON file](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON#no_really_what_is_json). Take a look at the file example for [The Hungry Catapillar](generated_files/puzzle_pages/2023-03-29-06-37-AM/books/the-hungry-caterpillar.json).
+Each puzzle is defined in a [JSON file](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON#no_really_what_is_json). Take a look at the file example for [The Very Hungry Catapillar](generated_files/puzzle_pages/2023-03-29-06-37-AM/books/the-very-hungry-caterpillar.json).
 
 You can ✍️ write these files yourself, or you can use AI 🤖.
 
