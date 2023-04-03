@@ -14,7 +14,7 @@ from reportlab.platypus import Paragraph
 from reportlab.platypus import Table, TableStyle
 
 # Replace the path with the correct path to your Arimo .ttf file
-arimo_font_path = os.path.expanduser('fonts/Arimo/Arimo-VariableFont_wght.ttf')
+arimo_font_path = os.path.expanduser('static/fonts/Arimo/Arimo-VariableFont_wght.ttf')
 pdfmetrics.registerFont(TTFont('Arimo', arimo_font_path))
 
 GLOBAL_FONT = "Arimo"
@@ -45,7 +45,7 @@ def load_png_image(filename):
 
 def get_pil_image_for_emoji_char(emoji):
     file_name = emoji_data_python.char_to_unified(emoji)
-    return load_png_image(f'emoji-data/img-google-136/{file_name}.png'.lower())
+    return load_png_image(f'static/emoji-data/img-google-136/{file_name}.png'.lower())
 
 
 def concat_images(images):

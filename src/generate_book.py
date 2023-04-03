@@ -7,8 +7,8 @@ from typing import Dict, List
 
 from PyPDF2 import PdfReader, PdfMerger
 
-from generate_puzzles.generated_content_utils import load_json_files_from_path
-from generate_books.generate_pages import (
+from src.generated_content_utils import load_json_files_from_path
+from src.generate_pages import (
     make_puzzle_page,
     make_answer_key_page,
     make_chapter_divider_page,
@@ -28,7 +28,7 @@ set_ebook_version(IS_EBOOK)
 
 
 def latest_puzzle_folder():
-    puzzles_dir = 'generated_files/puzzle_pages'
+    puzzles_dir = 'output/generated_puzzles'
     puzzle_folders = [f for f in os.listdir(puzzles_dir) if os.path.isdir(os.path.join(puzzles_dir, f))]
     latest_folder = max(puzzle_folders, key=lambda x: time.strptime(x, '%Y-%m-%d-%I-%M-%p'))
     return latest_folder
@@ -43,7 +43,7 @@ def sort_dicts_by_release_year(dict_list):
     return sorted(dict_list, key=lambda x: int(x['release_year']))
 
 
-content_source_directory = f'generated_files/puzzle_pages/{iteration_id}'
+content_source_directory = f'output/generated_puzzles/{iteration_id}'
 movies = sort_dicts_by_release_year(
     load_json_files_from_path(
         f'{content_source_directory}/movies/'))
@@ -80,10 +80,10 @@ books_page = make_chapter_divider_page('Books', '📚', f'{temp_output_dir}/book
 answers_page = make_chapter_divider_page('Answers', '💡', f'{temp_output_dir}/answers.pdf')
 
 # These pages were created manually on https://www.canva.com/ and included here
-qr_code_page = 'externally_generated_files/qr-code.pdf'
-toc_paperback = 'externally_generated_files/paperback-table-of-contents.pdf'
-toc_ebook = 'externally_generated_files/ebook-table-of-contents.pdf'
-how_to_play = 'externally_generated_files/how-to-play.pdf'
+qr_code_page = 'static/qr-code.pdf'
+toc_paperback = 'static/paperback-table-of-contents.pdf'
+toc_ebook = 'static/ebook-table-of-contents.pdf'
+how_to_play = 'static/how-to-play.pdf'
 
 # Before building the book, figure out what page each Puzzle and Answer will land on
 puzzle_page_lookup = {}

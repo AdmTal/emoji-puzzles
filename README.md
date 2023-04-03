@@ -11,12 +11,12 @@ Feel free to use this as a resource for creating your own books! Be sure to chec
 Looking forward to connecting with you and exploring more ways to apply AI in our lives! 💡
 
 <a href="https://www.amazon.com/dp/B0BZZ7S6JQ">
-  <img src="externally_generated_files/ebook-cover.jpg" width="200" />
+  <img src="static/ebook-cover.jpg" width="200" />
 <a/>
 
 ## How to Generate an Emoji Puzzle Book
 
-Before starting, take a look at the example [ebook](generated_files/manuscripts/2023-03-29-06-37-AM/generated-ebook.pdf) and [paperback](generated_files/manuscripts/2023-03-29-06-37-AM/generated-paperback.pdf). This is the final output you'll be working towards.
+Before starting, take a look at the example [ebook](output/generated_manuscripts/2023-03-29-06-37-AM/generated-ebook.pdf) and [paperback](output/generated_manuscripts/2023-03-29-06-37-AM/generated-paperback.pdf). This is the final output you'll be working towards.
 
 This project is written in [Python](https://www.python.org/), but don't worry, you won't need to know Python to use it.
 
@@ -54,27 +54,27 @@ pip install -r requirements.txt
 Run these commands. They each generate and then open a [PDF file](https://www.adobe.com/acrobat/about-adobe-pdf.html).
 
 ```commandline
-python generate_books/generate_book.py --layout ebook
-python generate_books/generate_book.py --layout paperback
+python src/generate_book.py --layout ebook
+python src/generate_book.py --layout paperback
 ```
 
-The [generate_book.py](generate_puzzles/generate_emoji_puzzles.py) script picks the [latest set of input files](generated_files/puzzle_pages/2023-03-29-06-37-AM), and converts them into a book.
+The [generate_book.py](src/generate_book.py) script picks the [latest set of puzzle files](output/generated_puzzles/2023-03-29-06-37-AM), and converts them into a book.
 
-The repo comes preloaded with [2 movies](generate_puzzles/inputs/movies.csv), [2 TV shows](generate_puzzles/inputs/tv_shows.csv), and [2 books](generate_puzzles/inputs/books.csv), and that's why you see that content in the books you just generated.
+The repo comes preloaded with [2 movies](inputs/movies.csv), [2 TV shows](inputs/tv_shows.csv), and [2 books](inputs/books.csv), and that's why you see that content in the books you just generated.
 
 ### How to Choose Your Own Movies, TV Shows, and Books
 
 Interested in making emoji puzzles for **your own favorite** Movies, TV Shows, and Books?
 
-To create a puzzle, simply create an input file for it and place it in the right folder before running the [generation script](generate_puzzles/generate_emoji_puzzles.py).
+Each puzzle is defined in a [JSON file](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON#no_really_what_is_json). Take a look at the file example for [The Very Hungry Catapillar](output/generated_puzzles/2023-03-29-06-37-AM/books/the-very-hungry-caterpillar.json).
 
-Each puzzle is defined in a [JSON file](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON#no_really_what_is_json). Take a look at the file example for [The Very Hungry Catapillar](generated_files/puzzle_pages/2023-03-29-06-37-AM/books/the-very-hungry-caterpillar.json).
+To create a puzzle, simply create a puzzle file for it and place in one of the [puzzle folders](output/generated_puzzles/2023-03-29-06-37-AM)
 
 You can ✍️ write these files yourself, or you can use AI 🤖.
 
 ### How to Prompt the AI
 
-[This is the main prompt I used for this project](generate_puzzles/prompts.py).
+[This is the main prompt I used for this project](src/prompts.py).
 
 Try copying and pasting that into ChatGPT (or any other currently available AI you want to try).
 
@@ -92,28 +92,29 @@ Follow [their documentation](https://platform.openai.com/docs/api-reference) to 
 
 Heads up, OpenAI charges for API usage, so make sure you go to your [Settings](https://platform.openai.com/account/usage) to keep tabs on how much you are spending. I recommend you set up a **hard limit** under [billing settings](https://platform.openai.com/account/billing/limits) to avoid any surprises.
 
-Save your API credentials into OS Environment Variables and run the [generation script](generate_puzzles/generate_emoji_puzzles.py):
+Save your API credentials into OS Environment Variables and run the [generation script](src/generate_emoji_puzzles.py):
 
 ```commandline
 export OPENAI_API_ORG=add-your-org-id-here
 export OPENAI_API_KEY=add-your-api-secret-key-here
-python gpt_content_generation/generate_emoji_puzzles.py
+python src/generate_emoji_puzzles.py
 ```
 
-The [generate_emoji_puzzles](generate_puzzles/generate_emoji_puzzles.py) script will create emoji puzzles for the titles listed in [these directories](generate_puzzles/inputs).
+The [generate_emoji_puzzles](src/generate_emoji_puzzles.py) script will create emoji puzzles for the titles listed in the [inputs folder](inputs).
 
-Those directories are filled with CSV files. You can simply add or remove titles and rerun the above generation script.
+That folder is filled with CSV files. You can simply add or remove titles and rerun the above generation script.
 
-You can then rerun the [generate_book script](generate_books/generate_book.py). That file always uses your latest generated files unless you specify the input path like so:
+You can then rerun the [generate_book script](src/generate_book.py). That file always uses your latest generated files unless you specify the input path like so:
 
 ```commandline
-python generate_books/generate_book.py --layout ebook --input 2023-03-29-06-37-AM
+python src/generate_book.py --layout ebook --input 2023-03-29-06-37-AM
 ```
 
 ### Editing and Revising the Generated Emoji Puzzles
+
 Editing and Revising the Generated Emoji Puzzles
 GPT-4 does an impressive job at generating emoji puzzles, but it's not perfect. Sometimes, you might find that the generated emojis aren't quite hitting the mark or that they contain incorrect details about the movie, TV show, or book. In such cases, you can use the following addendum to your prompt to request iterative improvements from the AI:
 
 > The user might respond with feedback asking for iterative improvements. Take their feedback into account, and send back updated EMOJI only. When the user confirms they are happy, then you can respond with the full JSON for that final set of EMOJI.
 
-This will let you interact with GPT-4 (or another AI model) to ask for edits and revisions to the generated emoji puzzles. Once you're satisfied with the updated emoji set, you can then receive the final JSON and save it to your input files. This process ensures that your emoji puzzles are as accurate and engaging as possible.
+This will let you interact with GPT-4 (or another AI model) to ask for edits and revisions to the generated emoji puzzles. Once you're satisfied with the updated emoji set, you can then receive the final JSON and update your puzzle file. This process ensures that your emoji puzzles are as accurate and engaging as possible.
