@@ -92,8 +92,8 @@ def generate_handy_time_based_folder_name():
 
 def main():
     iteration_id = generate_handy_time_based_folder_name()
-    output_dir = f'generated_files/puzzle_pages/{iteration_id}'
-    input_dir = 'generate_puzzles/inputs'
+    output_dir = f'output/generated_puzzles/{iteration_id}'
+    input_dir = 'inputs'
 
     for movie in load_puzzle_data_from_dir(f'{input_dir}/movies.csv'):
         title = movie['title']
