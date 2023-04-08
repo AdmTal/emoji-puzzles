@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "The Cobbler",
+    "release_year": "2014",
+    "genre_1": "Comedy",
+    "genre_2": "Fantasy",
+    "emoji": "🧔👞🔧🧪🍪",
+    "short_plot_summary": "A lonely, third-generation New York City cobbler discovers a magical sewing machine that allows him to step into the shoes of his customers and experience their lives.",
+    "explanation": [
+        [
+            "🧔",
+            "A man with facial hair, representing Max Simkin, the cobbler protagonist in the movie"
+        ],
+        [
+            "👞",
+            "A shoe, symbolizing the cobbler profession and the shoes Max repairs"
+        ],
+        [
+            "🔧",
+            "A wrench, representing the magical sewing machine that plays a key role in the story"
+        ],
+        [
+            "🧪",
+            "A potion bottle, alluding to the transformative magic the sewing machine grants Max"
+        ],
+        [
+            "🍪",
+            "A cookie, representing the baked treats from Max's mom that show the importance of family in the movie"
+        ]
+    ]
+}

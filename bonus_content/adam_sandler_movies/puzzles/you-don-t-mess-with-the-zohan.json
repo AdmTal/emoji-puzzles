@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "You Don't Mess with the Zohan",
+    "release_year": "2008",
+    "genre_1": "Comedy",
+    "genre_2": "Action",
+    "emoji": "🕵️✂️🚿🍲😍",
+    "short_plot_summary": "A skilled Israeli counter-terrorism agent fakes his own death to move to New York City and become a hair stylist. He falls in love and must eventually confront his past.",
+    "explanation": [
+        [
+            "🕵️",
+            "A detective, representing Zohan's past as an Israeli counter-terrorism agent"
+        ],
+        [
+            "✂️",
+            "A pair of scissors, showcasing Zohan's desire to switch from being a soldier to a hairdresser"
+        ],
+        [
+            "🚿",
+            "A shower, a reference to the funny scenes where Zohan washes client's hair vigorously"
+        ],
+        [
+            "🍲",
+            "A bowl of food, to symbolize the diversity and culture in the movie, particularly Zohan's love for hummus"
+        ],
+        [
+            "😍",
+            "A heart-eyed emoji, highlighting the love story between Zohan and hair salon owner Dalia"
+        ]
+    ]
+}

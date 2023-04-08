@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Grandma's Boy",
+    "release_year": "2006",
+    "genre_1": "Comedy",
+    "genre_2": "N/A",
+    "emoji": "👵🕹️🤖🌿🐆",
+    "short_plot_summary": "A 35-year-old video game tester moves in with his grandma and her elderly roommates after getting evicted, while trying to finish a new game he's developing.",
+    "explanation": [
+        [
+            "👵",
+            "A grandma, representing the protagonist's grandma, who he moves in with"
+        ],
+        [
+            "🕹️",
+            "A joystick, symbolizing the main character's job as a video game tester"
+        ],
+        [
+            "🤖",
+            "A robot, representing the video game 'Demonic' the protagonist is working on"
+        ],
+        [
+            "🌿",
+            "A leaf, signifying the character's frequent use of marijuana"
+        ],
+        [
+            "🐆",
+            "A leopard, representing the pet kitty that turns out to be a wild animal"
+        ]
+    ]
+}

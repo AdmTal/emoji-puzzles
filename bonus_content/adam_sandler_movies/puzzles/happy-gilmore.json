@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Happy Gilmore",
+    "release_year": "1996",
+    "genre_1": "Comedy",
+    "genre_2": "Sports",
+    "emoji": "🏒⛳😠🤑🏆",
+    "short_plot_summary": "A rejected hockey player leans on his powerful swing to dominate the game of golf, with the ultimate goal of saving his grandmother's house from being foreclosed.",
+    "explanation": [
+        [
+            "🏒",
+            "A hockey stick, representing Happy's background as a hockey player"
+        ],
+        [
+            "⛳",
+            "A golf flag, symbolizing the sport that Happy transitions to"
+        ],
+        [
+            "😠",
+            "An angry face, reflecting Happy's short temper on and off the golf course"
+        ],
+        [
+            "🤑",
+            "A money-mouth face, representing Happy's goal to win money to save his grandma's house"
+        ],
+        [
+            "🏆",
+            "A trophy, signifying the golf championship competition Happy must win"
+        ]
+    ]
+}

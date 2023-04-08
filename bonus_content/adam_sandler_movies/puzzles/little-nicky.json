@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Little Nicky",
+    "release_year": "2000",
+    "genre_1": "Comedy",
+    "genre_2": "Fantasy",
+    "emoji": "😈🔥🐦🎸🌆",
+    "short_plot_summary": "The youngest son of Satan, Nicky, must travel to Earth to save his father and stop his two older brothers from creating a new hell on our planet.",
+    "explanation": [
+        [
+            "😈",
+            "A devil face, representing Nicky, the main character who's the son of Satan"
+        ],
+        [
+            "🔥",
+            "A fire, symbolizing hell where Nicky and his family reside"
+        ],
+        [
+            "🐦",
+            "A bird, representing Nicky's talking bird friend, Mr. Beefy, who helps him throughout the movie"
+        ],
+        [
+            "🎸",
+            "A guitar, showcasing the film's references to rock music and its influence on the story"
+        ],
+        [
+            "🌆",
+            "A cityscape, illustrating the movie's setting in New York City where Nicky ventures to save his father and stop his brothers"
+        ]
+    ]
+}

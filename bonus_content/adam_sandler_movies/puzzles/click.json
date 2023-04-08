@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Click",
+    "release_year": "2006",
+    "genre_1": "Fantasy",
+    "genre_2": "Comedy",
+    "emoji": "🔘🐶⏩👨‍👩‍👧‍👦🏠",
+    "short_plot_summary": "A busy architect finds a universal remote that allows him to fast-forward, rewind, and pause his life. But soon, he realizes the remote is controlling him, causing him to re-evaluate his priorities.",
+    "explanation": [
+        [
+            "🔘",
+            "A button, representing the magical remote control Michael Newman discovers"
+        ],
+        [
+            "🐶",
+            "A dog, symbolizing the family's pet named Sundance"
+        ],
+        [
+            "⏩",
+            "Fast-forward symbol, reflecting how Michael uses the remote to speed up parts of his life"
+        ],
+        [
+            "👨‍👩‍👧‍👦",
+            "A family, highlighting the importance of Michael's relationships with his wife and kids"
+        ],
+        [
+            "🏠",
+            "A house, indicating family's where Michael learns the most important lessons of his life"
+        ]
+    ]
+}

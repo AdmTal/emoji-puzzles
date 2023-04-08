@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Billy Madison",
+    "release_year": "1995",
+    "genre_1": "Comedy",
+    "genre_2": "Romance",
+    "emoji": "✏️🚌🏫🔥💕",
+    "short_plot_summary": "Billy Madison, a spoiled rich man-child, must go back to school and complete each grade in just two weeks to prove himself worthy of inheriting his father's business.",
+    "explanation": [
+        [
+            "✏️",
+            "A pencil, representing Billy's need to study and participate in school"
+        ],
+        [
+            "🚌",
+            "A school bus, symbolizing Billy's journey through the different school grades"
+        ],
+        [
+            "🏫",
+            "A school building, where the majority of the story takes place"
+        ],
+        [
+            "🔥",
+            "A fire, alluding to the memorable scene where Billy extinguishes a fire set in his school"
+        ],
+        [
+            "💕",
+            "A heart, representing the romance between Billy and his teacher, Veronica"
+        ]
+    ]
+}

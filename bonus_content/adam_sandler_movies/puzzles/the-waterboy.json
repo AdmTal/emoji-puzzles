@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "The Waterboy",
+    "release_year": "1998",
+    "genre_1": "Comedy",
+    "genre_2": "Sports",
+    "emoji": "💧🏈👦🐊👩",
+    "short_plot_summary": "A socially awkward waterboy for a college football team discovers he has a unique tackling ability, becoming a member of the team and transforming their success.",
+    "explanation": [
+        [
+            "💧",
+            "Dang, a water droplet, 'cause that's my job - the waterboy for the football team, y'all!"
+        ],
+        [
+            "🏈",
+            "This here's a football, the sport I end up playin' when I find out I got some fierce tacklin' skills!"
+        ],
+        [
+            "👦",
+            "Uh huh, that's me, Bobby Boucher, the main character who comes outta his mama's shadow and makes it big on the football field"
+        ],
+        [
+            "🐊",
+            "Now, this here's an alligator symbolizing my love for alligators and, well, my mama says they're so angry 'cause they got all them teeth but no toothbrush"
+        ],
+        [
+            "👩",
+            "This pretty lady is Vicki Vallencourt, the girl who believes in me and... we kinda start likin' each other"
+        ]
+    ]
+}

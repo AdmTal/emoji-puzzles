@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "50 First Dates",
+    "release_year": "2004",
+    "genre_1": "Romantic",
+    "genre_2": "Comedy",
+    "emoji": "🏝️👩‍🔬📆🚢🐧",
+    "short_plot_summary": "A marine veterinarian falls in love with a woman who has short-term memory loss, leading to daily challenges as he must make her fall in love with him every day.",
+    "explanation": [
+        [
+            "🏝️",
+            "An island, representing the movie's setting in Hawaii"
+        ],
+        [
+            "👩‍🔬",
+            "A woman scientist, representing Lucy who is an artist and has short-term memory loss"
+        ],
+        [
+            "📆",
+            "A calendar, symbolizing the daily challenge to make Lucy fall in love"
+        ],
+        [
+            "🚢",
+            "A ship, representing the Sea Life Park where Henry works as a marine veterinarian"
+        ],
+        [
+            "🐧",
+            "A penguin, referencing the animals in the Sea Life Park and Lucy's favorite, Willy the penguin"
+        ]
+    ]
+}

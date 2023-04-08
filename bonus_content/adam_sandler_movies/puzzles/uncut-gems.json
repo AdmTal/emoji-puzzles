@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Uncut Gems",
+    "release_year": "2019",
+    "genre_1": "Crime",
+    "genre_2": "Thriller",
+    "emoji": "💎🏀💵🏃‍♂️🔫",
+    "short_plot_summary": "A charismatic New York City jeweler and gambling addict risks everything in pursuit of the ultimate win.",
+    "explanation": [
+        [
+            "💎",
+            "A gem, representing the valuable uncut gem central to the plot"
+        ],
+        [
+            "🏀",
+            "A basketball, signifying the high-stakes sports betting involved in the story"
+        ],
+        [
+            "💵",
+            "A stack of money, symbolizing the immense debts and financial trouble faced by the main character"
+        ],
+        [
+            "🏃‍♂️",
+            "A running man, illustrating the constant race against time and pressure the protagonist experiences"
+        ],
+        [
+            "🔫",
+            "A gun, reflecting the dangerous and criminal world the character finds himself entangled in"
+        ]
+    ]
+}
