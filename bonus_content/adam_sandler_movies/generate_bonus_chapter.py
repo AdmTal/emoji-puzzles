@@ -29,21 +29,15 @@ temp_output_dir = tempfile.mkdtemp()
 create_dir(temp_output_dir)
 
 # These pages are generated from code
-blank_page = make_blank_page(f'{temp_output_dir}/blank.pdf')
-title_page = make_chapter_divider_page('Emoji Puzzles', '🧩', f'{temp_output_dir}/title.pdf')
-dedication_page = make_chapter_divider_page('Dedication', '❤️', f'{temp_output_dir}/dedication.pdf')
-intro_page = make_chapter_divider_page('Intro', '👋', f'{temp_output_dir}/intro.pdf')
-copyright_attributions = make_chapter_divider_page('Copyright ©', '⚖️', f'{temp_output_dir}/copyright_attributions.pdf')
 movies_page = make_chapter_divider_page('Movies', '🎬', f'{temp_output_dir}/movies.pdf')
-tv_shows_page = make_chapter_divider_page('TV Shows', '📺', f'{temp_output_dir}/tv_shows.pdf')
-books_page = make_chapter_divider_page('Books', '📚', f'{temp_output_dir}/books.pdf')
 answers_page = make_chapter_divider_page('Answers', '💡', f'{temp_output_dir}/answers.pdf')
 
 # These pages were created manually on https://www.canva.com/ and included here
-qr_code_page = 'static/qr-code.pdf'
-toc_paperback = 'static/paperback-table-of-contents.pdf'
-toc_ebook = 'static/ebook-table-of-contents.pdf'
+title_page = 'static/adam-sandler-cover-page.pdf'
+sandler_intro_page = 'static/adam-sandler-intro-page.pdf'
 how_to_play = 'static/how-to-play.pdf'
+intro_page = 'static/intro-page.pdf'
+qr_code_page = 'static/qr-code.pdf'
 
 # Before building the book, figure out what page each Puzzle and Answer will land on
 puzzle_page_lookup = {}
@@ -52,11 +46,8 @@ puzzle_to_answer = {}
 
 page_offset = len([
     'title',
-    'copyright_attribution',
-    'dedication',
-    'QR Code', 'intro',
+    'sandler_intro',
     'how-to-play',
-    'Table of Contents',
     'Movies Chapter Page',
 ])
 
@@ -89,12 +80,8 @@ movie_puzzles = create_puzzles_and_answers(adam_sandler_movies, '🎬', *common_
 # ASSEMBLE THE BOOK
 merger = PdfMerger()
 merger.append(PdfReader(open(title_page, 'rb')))
-merger.append(PdfReader(open(copyright_attributions, 'rb')))
-merger.append(PdfReader(open(dedication_page, 'rb')))
-merger.append(PdfReader(open(qr_code_page, 'rb')))
-merger.append(PdfReader(open(intro_page, 'rb')))
+merger.append(PdfReader(open(sandler_intro_page, 'rb')))
 merger.append(PdfReader(open(how_to_play, 'rb')))
-merger.append(PdfReader(open(toc_ebook, 'rb')))
 merger.append(PdfReader(open(movies_page, 'rb')))
 
 cur_page = 1
@@ -105,6 +92,9 @@ for puzzle_page in movie_puzzles:
 # Add answer pages
 for answer_page in answer_pages:
     merger.append(PdfReader(open(answer_page, 'rb')))
+
+merger.append(PdfReader(open(intro_page, 'rb')))
+merger.append(PdfReader(open(qr_code_page, 'rb')))
 
 # Write the merged PDF
 output_path = f'{manuscript_output_dir}/adam-sandler-bonus-chapter.pdf'
