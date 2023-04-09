@@ -74,6 +74,12 @@ To create a puzzle, simply create a puzzle file for it and place in one of the [
 
 You can ✍️ write these files yourself, or you can use AI 🤖.
 
+### Generate Puzzles on Poe
+
+If you sign up on [poe.com](https://poe.com/), you can [access my chatbot](https://poe.com/EmojiPuzzles) which is already "prompt engineered" to generate valid puzzle files.
+
+All you'll need to do is give it a title.
+
 ### How to Prompt the AI
 
 [This is the main prompt I used for this project](src/prompts.py).
