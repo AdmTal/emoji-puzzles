@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Happy Gilmore",
+    "release_year": "1996",
+    "genre_1": "Comedy",
+    "genre_2": "Sports",
+    "emoji": "🏒👴🏿🏌️‍♂️🔩💵",
+    "short_plot_summary": "Happy Gilmore, an unsuccessful hockey player, discovers an uncanny talent for golf and uses his new skills to save his grandmother's house.",
+    "explanation": [
+        [
+            "🏒",
+            "A hockey stick, representing Happy's aspiration to play hockey and his unique golf swing"
+        ],
+        [
+            "👴🏿",
+            "An older man, symbolizing Chubbs Peterson, Happy's mentor and friend"
+        ],
+        [
+            "🏌️‍♂️",
+            "A golfer, representing Happy's successful transition to professional golf"
+        ],
+        [
+            "🔩",
+            "A screw or nail, representing Mr. Larson, who had a nail stuck in his head and supports Happy throughout the movie"
+        ],
+        [
+            "💵",
+            "A stack of money, symbolizing the prize money Happy needs to save his grandmother's house"
+        ]
+    ]
+}

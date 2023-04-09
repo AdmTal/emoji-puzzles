@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Little Nicky",
+    "release_year": "2000",
+    "genre_1": "Comedy",
+    "genre_2": "Fantasy",
+    "emoji": "😈🤘🍍🗽👼",
+    "short_plot_summary": "Nicky, the son of Satan, must stop his brothers from taking over Earth while also navigating life in New York City.",
+    "explanation": [
+        [
+            "😈",
+            "A devil face, representing Nicky, who is the son of Satan"
+        ],
+        [
+            "🤘",
+            "A hand sign, symbolizing Nicky's love for rock music"
+        ],
+        [
+            "🍍",
+            "A pineapple, referencing Hitlers fate in hell"
+        ],
+        [
+            "🗽",
+            "The Statue of Liberty, indicating the movie's setting in New York City"
+        ],
+        [
+            "👼",
+            "An angel, representing the heavenly forces that help Nicky during his mission"
+        ]
+    ]
+}

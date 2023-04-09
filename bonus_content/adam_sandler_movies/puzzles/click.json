@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Click",
+    "release_year": "2006",
+    "genre_1": "Comedy",
+    "genre_2": "Drama",
+    "emoji": "👨‍👩‍👧‍👦👨‍🔬🌀⏩💀",
+    "short_plot_summary": "An overworked architect named Michael is given a universal remote from the eccentric scientist Morty, allowing him to control time. As he starts to use the remote to avoid challenges, Michael learns valuable lessons about life and family.",
+    "explanation": [
+        [
+            "👨‍👩‍👧‍👦",
+            "A family, representing Michael's family and the importance of family in the movie"
+        ],
+        [
+            "👨‍🔬",
+            "A scientist, representing Morty, the eccentric stranger who gives Michael the remote"
+        ],
+        [
+            "🌀",
+            "A spiral, representing the 'Beyond' section of Bed Bath & Beyond where Michael finds the remote"
+        ],
+        [
+            "⏩",
+            "A fast-forward symbol, symbolizing the remote's ability to control time and Michael's attempts to skip life's challenges"
+        ],
+        [
+            "💀",
+            "A skull, representing the eventual confrontation with mortality and the consequences of using the remote"
+        ]
+    ]
+}

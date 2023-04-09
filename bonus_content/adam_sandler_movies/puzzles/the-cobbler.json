@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "The Cobbler",
+    "release_year": "2014",
+    "genre_1": "Comedy",
+    "genre_2": "Drama",
+    "emoji": "👞🔨✨🚶‍♂️👥",
+    "short_plot_summary": "A cobbler discovers a magical stitching machine that allows him to step into the lives of his customers by wearing their shoes. As he experiences their lives, he learns the importance of his own.",
+    "explanation": [
+        [
+            "👞",
+            "A shoe, representing the cobbler's profession and the shoes he fixes"
+        ],
+        [
+            "🔨",
+            "A hammer, symbolizing the tools the cobbler uses to repair shoes"
+        ],
+        [
+            "✨",
+            "A sparkle, indicating the magical nature of the stitching machine"
+        ],
+        [
+            "🚶‍♂️",
+            "A walking man, representing the main character stepping into the lives of his customers by wearing their shoes"
+        ],
+        [
+            "👥",
+            "Silhouettes of people, symbolizing the various lives and identities the cobbler experiences through wearing the shoes"
+        ]
+    ]
+}

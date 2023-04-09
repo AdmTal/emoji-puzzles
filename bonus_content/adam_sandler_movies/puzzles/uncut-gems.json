@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Uncut Gems",
+    "release_year": "2019",
+    "genre_1": "Crime",
+    "genre_2": "Thriller",
+    "emoji": "💎🏀💵🏃‍♂️🔫",
+    "short_plot_summary": "A charismatic New York City jeweler and gambling addict risks everything in pursuit of the ultimate win.",
+    "explanation": [
+        [
+            "💎",
+            "A gem, representing the rare Ethiopian black opal that Howard Ratner acquires"
+        ],
+        [
+            "🏀",
+            "A basketball, signifying the NBA championship game that Howard bets on, involving one of his clients, Kevin Garnett"
+        ],
+        [
+            "💵",
+            "A stack of money, symbolizing Howard's gambling addiction and the massive debts he accrues throughout the movie"
+        ],
+        [
+            "🏃‍♂️",
+            "A running man, illustrating the constant race against time and pressure that Howard experiences due to his risky decisions"
+        ],
+        [
+            "🔫",
+            "A gun, reflecting the deadly consequences and dangerous situations Howard faces as a result of his involvement with criminals"
+        ]
+    ]
+}

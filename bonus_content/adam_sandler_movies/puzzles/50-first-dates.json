@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "50 First Dates",
+    "release_year": "2004",
+    "genre_1": "Comedy",
+    "genre_2": "Romance",
+    "emoji": "🌺👱‍♀️🥞⛵🐬",
+    "short_plot_summary": "Set in Hawaii, Lucy, a woman with short-term memory loss, and Henry, a kind-hearted man, fall in love. Henry has to make Lucy fall in love with him every day anew.",
+    "explanation": [
+        [
+            "🌺",
+            "A hibiscus flower, symbolizing the beautiful Hawaiian setting of the movie"
+        ],
+        [
+            "👱‍♀️",
+            "A blond woman, representing Lucy, the main character with memory loss"
+        ],
+        [
+            "🥞",
+            "A pancake, referencing Henry's attempt to pronounce 'pancake' when pretending he cannot read to get Lucy's attention"
+        ],
+        [
+            "⛵",
+            "A boat, symbolizing Henry's schooner, the Sea Serpent, which he plans to sail to Alaska to study underwater life but faces a mishap at the beginning of the movie"
+        ],
+        [
+            "🐬",
+            "A dolphin, illustrating Henry's job as a marine life veterinarian at Sea Life Park in Hawaii"
+        ]
+    ]
+}

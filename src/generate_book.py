@@ -2,19 +2,21 @@ import argparse
 import os
 import random
 import tempfile
-import time
-from typing import Dict, List
 
 from PyPDF2 import PdfReader, PdfMerger
 
 from src.generated_content_utils import load_json_files_from_path
 from src.generate_pages import (
-    make_puzzle_page,
-    make_answer_key_page,
     make_chapter_divider_page,
     make_blank_page,
     is_left_page,
     set_ebook_version,
+)
+from src.generate_book_utils import (
+    latest_puzzle_folder,
+    sort_dicts_by_release_year,
+    create_dir,
+    create_puzzles_and_answers
 )
 
 parser = argparse.ArgumentParser()
@@ -26,22 +28,9 @@ IS_EBOOK = args.layout == "ebook"
 IS_PAPERBACK = not IS_EBOOK
 set_ebook_version(IS_EBOOK)
 
-
-def latest_puzzle_folder():
-    puzzles_dir = 'output/generated_puzzles'
-    puzzle_folders = [f for f in os.listdir(puzzles_dir) if os.path.isdir(os.path.join(puzzles_dir, f))]
-    latest_folder = max(puzzle_folders, key=lambda x: time.strptime(x, '%Y-%m-%d-%I-%M-%p'))
-    return latest_folder
-
-
 iteration_id = args.input if args.input else latest_puzzle_folder()
 
 print(f'Generating {args.layout} from {iteration_id}')
-
-
-def sort_dicts_by_release_year(dict_list):
-    return sorted(dict_list, key=lambda x: int(x['release_year']))
-
 
 content_source_directory = f'output/generated_puzzles/{iteration_id}'
 movies = sort_dicts_by_release_year(
@@ -55,12 +44,6 @@ tv_shows = sort_dicts_by_release_year(
 books = sort_dicts_by_release_year(
     load_json_files_from_path(
         f'{content_source_directory}/books/'))
-
-
-def create_dir(path):
-    if not os.path.exists(path):
-        os.makedirs(path)
-
 
 manuscript_output_dir = f'output/generated_manuscripts/{iteration_id}'
 create_dir(manuscript_output_dir)
@@ -200,49 +183,11 @@ for item in all_items_for_answers:
     answer_pdf_file = f'{temp_output_dir}//{title}-answer.pdf'
     answer_pages.append(answer_pdf_file)
 
-
-def create_puzzles_and_answers(category_list: List[Dict], chapter_emoji: str) -> List[str]:
-    """
-    Generate and return list of Puzzle Page PDF File names
-    :param category_list: That thing we loaded earlier from load_json_files_from_path
-    :param chapter_emoji: Single emoji to be featured above the title
-    """
-    global puzzle_page_lookup
-    global answer_page_lookup
-    puzzle_pages = []
-
-    for item in category_list:
-        title = item['title']
-
-        puzzle_pdf_file = f'{temp_output_dir}/{title}.pdf'
-        pdf_page = make_puzzle_page(
-            item['emoji'],
-            item['genre_1'],
-            item['genre_2'],
-            item['release_year'],
-            puzzle_pdf_file,
-            puzzle_page_lookup[title],
-            answer_page_lookup[title],
-            chapter_emoji
-        )
-        puzzle_pages.append(pdf_page)
-
-        answer_pdf_file = f'{temp_output_dir}/{title}-answer.pdf'
-        make_answer_key_page(
-            item['title'],
-            item['explanation'],
-            item['short_plot_summary'],
-            answer_pdf_file,
-            answer_page_lookup[title],
-            puzzle_page_lookup[title],
-        )
-    return puzzle_pages
-
-
 # Create PUZZLES and ANSWER PDFs for all categories
-movie_puzzles = create_puzzles_and_answers(movies, '🎬')
-tv_show_puzzles = create_puzzles_and_answers(tv_shows, '📺')
-book_puzzles = create_puzzles_and_answers(books, '📚')
+common_args = [puzzle_page_lookup, answer_page_lookup, temp_output_dir]
+movie_puzzles = create_puzzles_and_answers(movies, '🎬', *common_args)
+tv_show_puzzles = create_puzzles_and_answers(tv_shows, '📺', *common_args)
+book_puzzles = create_puzzles_and_answers(books, '📚', *common_args)
 
 # ASSEMBLE THE BOOK
 merger = PdfMerger()

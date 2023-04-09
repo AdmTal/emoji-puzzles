@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Grandma's Boy",
+    "release_year": "2006",
+    "genre_1": "Comedy",
+    "genre_2": "Workplace",
+    "emoji": "👵🎮🏎️🤖🦁",
+    "short_plot_summary": "Sandler's not on screen in this one, but this one in particular holds a place in my heart. A 35-year-old video game tester named Alex moves in with his grandmother and her two elderly roommates after being evicted from his apartment. He navigates work and personal challenges while living with them.",
+    "explanation": [
+        [
+            "👵",
+            "Grandma, Alex's grandmother, with whom he moves in after being evicted"
+        ],
+        [
+            "🎮",
+            "Game controller, highlighting Alex's job as a video game tester at Brainasium"
+        ],
+        [
+            "🏎️",
+            "Racecar, representing the sports car bed that Alex's friend Jeff sleeps in, and his excitement about his roommates possibly getting him rims for Christmas"
+        ],
+        [
+            "🤖",
+            "Robot, symbolizing J.P., a socially awkward game developer and Alex's work rival who aspires to be a robot and often imitates one"
+        ],
+        [
+            "🦁",
+            "Lion, Alex could not live with his friend Dante because Dr. Shakalu was helping him get a Lion"
+        ]
+    ]
+}

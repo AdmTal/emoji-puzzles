@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Billy Madison",
+    "release_year": "1995",
+    "genre_1": "Comedy",
+    "genre_2": "Romance",
+    "emoji": "🍺🐧👩‍🏫🤡🏆",
+    "short_plot_summary": "A wealthy, immature man is forced to go back through grades 1-12 to inherit his father's hotel empire and prove himself worthy.",
+    "explanation": [
+        [
+            "🍺",
+            "A beer, representing Billy's irresponsible lifestyle that prevents his father from trusting him to run the hotel"
+        ],
+        [
+            "🐧",
+            "A penguin, the one Billy hallucinates, citing it's too hot for them to just be walking around here"
+        ],
+        [
+            "👩‍🏫",
+            "A female teacher, representing Veronica Vaughn, who helps Billy throughout his journey"
+        ],
+        [
+            "🤡",
+            "A clown, I bet you thought that he was dead, but when he fell over he just broke his leg and got a hemorrhage in his head"
+        ],
+        [
+            "🏆",
+            "A trophy, symbolizing Billy's victory in the Academic Decathlon, proving his worthiness to inherit his father's hotel empire"
+        ]
+    ]
+}

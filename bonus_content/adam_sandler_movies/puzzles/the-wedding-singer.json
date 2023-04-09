@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "The Wedding Singer",
+    "release_year": "1998",
+    "genre_1": "Comedy",
+    "genre_2": "Romance",
+    "emoji": "💔🎤👰✈️👨‍🎤",
+    "short_plot_summary": "A heartbroken wedding singer, Robbie, forms an unexpected bond with an engaged waitress, Julia. As their friendship blossoms, they face challenges and discover what true love really means.",
+    "explanation": [
+        [
+            "💔",
+            "A broken heart, representing Robbie's heartbreak when Linda calls off their wedding"
+        ],
+        [
+            "🎤",
+            "A microphone, symbolizing Robbie's profession as a wedding singer"
+        ],
+        [
+            "👰",
+            "A bride, representing Julia, the waitress Robbie meets and promises to sing at her wedding"
+        ],
+        [
+            "✈️",
+            "An airplane, representing a crucial turning point in Robbie and Julia's relationship."
+        ],
+        [
+            "👨‍🎤",
+            "A male singer, depicting Billy Idol, who shows up to help out in the movie"
+        ]
+    ]
+}

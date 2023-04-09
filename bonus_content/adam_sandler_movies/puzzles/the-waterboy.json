@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "The Water Boy",
+    "release_year": "1998",
+    "genre_1": "Comedy",
+    "genre_2": "Sports",
+    "emoji": "👵🐊💧🏈🎓",
+    "short_plot_summary": "Bobby Boucher, a socially awkward water boy for a college football team, discovers his hidden talent for tackling and becomes a star player.",
+    "explanation": [
+        [
+            "👵",
+            "A grandma, symbolizing the strong influence Bobby's overprotective momma has on him, as she tries to keep him from playing football"
+        ],
+        [
+            "🐊",
+            "An alligator, as Bobby's momma claims are ornery because they got all those teeth and no toothbrush"
+        ],
+        [
+            "💧",
+            "A water droplet, highlighting Bobby's role as the water boy and his dedication to providing the best water to the team"
+        ],
+        [
+            "🏈",
+            "A football, signifying Bobby joining the Mud Dogs and discovering his talent for tackling and becoming a star player"
+        ],
+        [
+            "🎓",
+            "A graduation cap, representing Bobby's academic achievements, personal growth, and maturation throughout the movie, as he gains self-confidence and independence"
+        ]
+    ]
+}
