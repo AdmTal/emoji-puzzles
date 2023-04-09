@@ -1,31 +1,31 @@
 {
     "type": "Movie",
-    "title": "The Waterboy",
+    "title": "The Water Boy",
     "release_year": "1998",
     "genre_1": "Comedy",
-    "genre_2": "Sports",
-    "emoji": "💧🏈👦🐊👩",
-    "short_plot_summary": "A socially awkward waterboy for a college football team discovers he has a unique tackling ability, becoming a member of the team and transforming their success.",
+    "genre_2": "Sport",
+    "emoji": "👵🐊💧🏈🎓",
+    "short_plot_summary": "Bobby Boucher, a socially awkward water boy for a college football team, discovers his hidden talent for tackling and becomes a star player.",
     "explanation": [
         [
-            "💧",
-            "Dang, a water droplet, 'cause that's my job - the waterboy for the football team, y'all!"
-        ],
-        [
-            "🏈",
-            "This here's a football, the sport I end up playin' when I find out I got some fierce tacklin' skills!"
-        ],
-        [
-            "👦",
-            "Uh huh, that's me, Bobby Boucher, the main character who comes outta his mama's shadow and makes it big on the football field"
+            "👵",
+            "A grandma, symbolizing the strong influence Bobby's overprotective momma has on him, as she tries to keep him from playing football"
         ],
         [
             "🐊",
-            "Now, this here's an alligator symbolizing my love for alligators and, well, my mama says they're so angry 'cause they got all them teeth but no toothbrush"
+            "An alligator, as Bobby's momma claims are ornery because they got all those teeth and no toothbrush"
         ],
         [
-            "👩",
-            "This pretty lady is Vicki Vallencourt, the girl who believes in me and... we kinda start likin' each other"
+            "💧",
+            "A water droplet, highlighting Bobby's role as the water boy and his dedication to providing the best water to the team"
+        ],
+        [
+            "🏈",
+            "A football, signifying Bobby joining the Mud Dogs and discovering his talent for tackling and becoming a star player"
+        ],
+        [
+            "🎓",
+            "A graduation cap, representing Bobby's academic achievements, personal growth, and maturation throughout the movie, as he gains self-confidence and independence"
         ]
     ]
 }

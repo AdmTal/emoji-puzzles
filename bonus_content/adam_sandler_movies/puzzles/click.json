@@ -2,30 +2,30 @@
     "type": "Movie",
     "title": "Click",
     "release_year": "2006",
-    "genre_1": "Fantasy",
-    "genre_2": "Comedy",
-    "emoji": "🔘🐶⏩👨‍👩‍👧‍👦🏠",
-    "short_plot_summary": "A busy architect finds a universal remote that allows him to fast-forward, rewind, and pause his life. But soon, he realizes the remote is controlling him, causing him to re-evaluate his priorities.",
+    "genre_1": "Comedy",
+    "genre_2": "Drama",
+    "emoji": "👨‍👩‍👧‍👦👨‍🔬🌀⏩💀",
+    "short_plot_summary": "An overworked architect named Michael is given a universal remote from the eccentric scientist Morty, allowing him to control time. As he starts to use the remote to avoid challenges, Michael learns valuable lessons about life and family.",
     "explanation": [
         [
-            "🔘",
-            "A button, representing the magical remote control Michael Newman discovers"
+            "👨‍👩‍👧‍👦",
+            "A family, representing Michael's family and the importance of family in the movie"
         ],
         [
-            "🐶",
-            "A dog, symbolizing the family's pet named Sundance"
+            "👨‍🔬",
+            "A scientist, representing Morty, the eccentric stranger who gives Michael the remote"
+        ],
+        [
+            "🌀",
+            "A spiral, representing the 'Beyond' section of Bed Bath & Beyond where Michael finds the remote"
         ],
         [
             "⏩",
-            "Fast-forward symbol, reflecting how Michael uses the remote to speed up parts of his life"
+            "A fast-forward symbol, symbolizing the remote's ability to control time and Michael's attempts to skip life's challenges"
         ],
         [
-            "👨‍👩‍👧‍👦",
-            "A family, highlighting the importance of Michael's relationships with his wife and kids"
-        ],
-        [
-            "🏠",
-            "A house, indicating family's where Michael learns the most important lessons of his life"
+            "💀",
+            "A skull, representing the eventual confrontation with mortality and the consequences of using the remote"
         ]
     ]
 }

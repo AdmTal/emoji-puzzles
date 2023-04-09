@@ -20,7 +20,7 @@ IS_EBOOK = True
 set_ebook_version(IS_EBOOK)
 
 puzzles_path = 'bonus_content/adam_sandler_movies/puzzles'
-manuscript_output_dir = f'bonus_content/adam_sandler_movies/'
+manuscript_output_dir = f'bonus_content/adam_sandler_movies'
 
 adam_sandler_movies = sort_dicts_by_release_year(
     load_json_files_from_path(puzzles_path))
@@ -70,7 +70,7 @@ for item in adam_sandler_movies:
     puzzle_page_lookup[title] = current_page_num
 
 # Shuffle the answers to keep it interesting
-all_items_for_answers = adam_sandler_movies
+all_items_for_answers = adam_sandler_movies.copy()
 random.shuffle(all_items_for_answers)
 
 # Add the Answer pages
@@ -79,7 +79,7 @@ for item in all_items_for_answers:
     title = item['title']
     current_page_num += 1
     answer_page_lookup[title] = current_page_num
-    answer_pdf_file = f'{temp_output_dir}//{title}-answer.pdf'
+    answer_pdf_file = f'{temp_output_dir}/{title}-answer.pdf'
     answer_pages.append(answer_pdf_file)
 
 # Create PUZZLES and ANSWER PDFs for all categories
