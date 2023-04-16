@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Rumpelstiltskin",
+    "release_year": "1812",
+    "genre_1": "Fairy Tale",
+    "genre_2": "Children's",
+    "emoji": "👸🧵🌾📜👹",
+    "short_plot_summary": "A miller's daughter is told by her father to spin straw into gold to save her life, and Rumpelstiltskin helps her in exchange for items, culminating in a battle of wits.",
+    "explanation": [
+        [
+            "👸",
+            "A princess, representing the miller's daughter who is forced to spin straw into gold"
+        ],
+        [
+            "🧵",
+            "A spool of thread, symbolizing the spinning of straw into gold"
+        ],
+        [
+            "🌾",
+            "A sheaf of wheat, representing the straw that must be turned into gold"
+        ],
+        [
+            "📜",
+            "A scroll, signifying the contracts and bargains made throughout the story"
+        ],
+        [
+            "👹",
+            "An ogre, illustrating the character of Rumpelstiltskin who provides assistance with magical abilities"
+        ]
+    ]
+}

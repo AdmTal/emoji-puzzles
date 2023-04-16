@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "Paw Patrol",
+    "release_year": "2013",
+    "genre_1": "Children's",
+    "genre_2": "Animation",
+    "emoji": "🐶🚒🚁🚓🌟",
+    "short_plot_summary": "A group of six rescue dogs and a young boy named Ryder work together to protect their community and solve problems, using their individual skills and vehicles.",
+    "explanation": [
+        [
+            "🐶",
+            "A dog, symbolizing the six main rescue dogs in the show"
+        ],
+        [
+            "🚒",
+            "A fire truck, representing the vehicles used by the rescue dogs and Ryder"
+        ],
+        [
+            "🚁",
+            "A helicopter, illustrating one of the vehicles used during the rescue missions"
+        ],
+        [
+            "🚓",
+            "A police car, symbolizing the law enforcement aspect of the Paw Patrol team"
+        ],
+        [
+            "🌟",
+            "A star, signifying the team's success and the positive messages conveyed in the show"
+        ]
+    ]
+}

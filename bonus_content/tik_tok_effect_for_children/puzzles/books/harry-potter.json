@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Harry Potter",
+    "release_year": "1997-2007",
+    "genre_1": "Fantasy",
+    "genre_2": "Young Adult",
+    "emoji": "⚡🧙📚🔮🏰",
+    "short_plot_summary": "Young wizard Harry Potter discovers his magical heritage, attends Hogwarts School of Witchcraft and Wizardry, and battles the dark wizard Voldemort while making lifelong friends.",
+    "explanation": [
+        [
+            "⚡",
+            "A lightning bolt, representing the scar on Harry's forehead which is a symbol of his connection with the dark wizard Voldemort"
+        ],
+        [
+            "🧙",
+            "A mage, symbolizing the magical world and the wizards and witches in the Harry Potter series"
+        ],
+        [
+            "📚",
+            "A stack of books, representing Hogwarts School of Witchcraft and Wizardry where students learn magic"
+        ],
+        [
+            "🔮",
+            "A crystal ball, illustrating the various magical artifacts and elements present in the story"
+        ],
+        [
+            "🏰",
+            "A castle, signifying the Hogwarts castle where most of the series takes place"
+        ]
+    ]
+}

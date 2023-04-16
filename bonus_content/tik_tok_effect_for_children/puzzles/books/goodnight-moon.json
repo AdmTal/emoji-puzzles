@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Goodnight Moon",
+    "release_year": "1947",
+    "genre_1": "Children's",
+    "genre_2": "Bedtime Story",
+    "emoji": "🌙🐰🛏️🖼️🌟",
+    "short_plot_summary": "A young rabbit says goodnight to everything around in their room and outside the window before falling asleep.",
+    "explanation": [
+        [
+            "🌙",
+            "A moon, representing the nighttime setting of the story"
+        ],
+        [
+            "🐰",
+            "A rabbit, representing the main character, the young rabbit"
+        ],
+        [
+            "🛏️",
+            "A bed, symbolizing the young rabbit's bedroom where the story takes place"
+        ],
+        [
+            "🖼️",
+            "A picture frame, illustrating the various objects and images in the room that the rabbit says goodnight to"
+        ],
+        [
+            "🌟",
+            "A star, signifying the stars outside the window that the young rabbit also says goodnight to"
+        ]
+    ]
+}

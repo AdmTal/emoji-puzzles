@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "Mary Had a Little Lamb",
+    "release_year": "1830",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "👧🐑❄️🏫🎶",
+    "short_plot_summary": "Mary has a little lamb that follows her everywhere, even to school one day, causing some disruptions and laughter among her classmates.",
+    "explanation": [
+        [
+            "👧",
+            "A girl, representing Mary from the song"
+        ],
+        [
+            "🐑",
+            "A sheep, symbolizing the little lamb Mary has"
+        ],
+        [
+            "❄️",
+            "Snow, highlighting the line 'Its fleece was white as snow' in the song"
+        ],
+        [
+            "🏫",
+            "A school, where Mary's lamb followed her one day"
+        ],
+        [
+            "🎶",
+            "Musical notes, signifying the song and its catchy melody"
+        ]
+    ]
+}

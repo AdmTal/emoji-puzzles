@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Rapunzel",
+    "release_year": "1812",
+    "genre_1": "Children's",
+    "genre_2": "Fairy Tale",
+    "emoji": "👸🏼🏰🌸✂️👶",
+    "short_plot_summary": "Rapunzel, a young girl with long golden hair, is trapped in a tall tower by an evil witch. A prince helps her escape, and together they eventually defeat the witch and live happily ever after.",
+    "explanation": [
+        [
+            "👸🏼",
+            "A princess, representing Rapunzel, the main character with long golden hair"
+        ],
+        [
+            "🏰",
+            "A castle, symbolizing the tall isolated tower where Rapunzel is trapped"
+        ],
+        [
+            "🌸",
+            "A flower, representing the magical plant that provides Rapunzel's hair with its unique properties"
+        ],
+        [
+            "✂️",
+            "A pair of scissors, illustrating the significant moment when Rapunzel's hair is cut"
+        ],
+        [
+            "👶",
+            "A baby, symbolizing the future family that Rapunzel and the prince create together after escaping from the witch"
+        ]
+    ]
+}

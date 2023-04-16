@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "Peppa Pig",
+    "release_year": "2004",
+    "genre_1": "Children's",
+    "genre_2": "Animation",
+    "emoji": "🐷🏠👪☔🏫",
+    "short_plot_summary": "Peppa Pig is a lovable, cheeky pig who goes on adventures with her family and friends, learning and having fun along the way.",
+    "explanation": [
+        [
+            "🐷",
+            "A pig, representing Peppa, the main character of the show"
+        ],
+        [
+            "🏠",
+            "A house, symbolizing Peppa Pig's home, where many of the show's episodes take place"
+        ],
+        [
+            "👪",
+            "A family, representing Peppa's close relationships with her family members"
+        ],
+        [
+            "☔",
+            "An umbrella, symbolizing Peppa's love for jumping in muddy puddles, a recurring theme in the show"
+        ],
+        [
+            "🏫",
+            "A school, where Peppa and her friends learn and interact with each other in various episodes"
+        ]
+    ]
+}

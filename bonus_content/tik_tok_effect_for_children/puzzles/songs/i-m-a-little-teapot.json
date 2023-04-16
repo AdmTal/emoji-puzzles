@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "I'm a Little Teapot",
+    "release_year": "1939",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "🍵🫖💨👉👶",
+    "short_plot_summary": "A catchy children's song about a clever little teapot with a spout and a handle who loves to pour out tea.",
+    "explanation": [
+        [
+            "🍵",
+            "A cup of tea, representing the main theme of the song"
+        ],
+        [
+            "🫖",
+            "A teapot, symbolizing the main character in the song"
+        ],
+        [
+            "💨",
+            "A gust of wind, illustrating the action of the teapot's steam"
+        ],
+        [
+            "👉",
+            "A pointing finger, depicting the line 'Here is my handle'"
+        ],
+        [
+            "👶",
+            "A baby, representing the intended audience of the song"
+        ]
+    ]
+}

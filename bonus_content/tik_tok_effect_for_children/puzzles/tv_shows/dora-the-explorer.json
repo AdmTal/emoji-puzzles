@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "Dora the Explorer",
+    "release_year": "2000",
+    "genre_1": "Children's",
+    "genre_2": "Animated",
+    "emoji": "👧🏻🐵🎒🗺️✨",
+    "short_plot_summary": "A young girl named Dora goes on adventures with her monkey friend Boots, using a talking backpack and map to help them solve puzzles and overcome challenges.",
+    "explanation": [
+        [
+            "👧🏻",
+            "A girl, representing Dora, the main character of the show"
+        ],
+        [
+            "🐵",
+            "A monkey, symbolizing Boots, Dora's best friend and companion on her adventures"
+        ],
+        [
+            "🎒",
+            "A backpack, illustrating Dora's talking backpack that helps her and Boots on their journey"
+        ],
+        [
+            "🗺️",
+            "A map, signifying the talking map that guides Dora and Boots to their destinations"
+        ],
+        [
+            "✨",
+            "Sparkles, representing the magic and wonder of Dora's adventures and problem-solving skills"
+        ]
+    ]
+}

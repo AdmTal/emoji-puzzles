@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "Mario Kart",
+    "release_year": "1992",
+    "genre_1": "Racing",
+    "genre_2": "Party",
+    "emoji": "🏎️🍄🌟⚡🍌",
+    "short_plot_summary": "Characters from the Mario universe race against each other in go-karts, using power-ups to gain an advantage and win the race.",
+    "explanation": [
+        [
+            "🏎️",
+            "A racing car, representing the go-karts that the characters race in"
+        ],
+        [
+            "🍄",
+            "A mushroom, symbolizing the power-up that gives racers a speed boost"
+        ],
+        [
+            "🌟",
+            "A star, illustrating the invincibility power-up that racers can get"
+        ],
+        [
+            "⚡",
+            "A lightning bolt, signifying the power-up that shrinks and slows down all the other racers"
+        ],
+        [
+            "🍌",
+            "A banana, representing the power-up that racers can use to make other racers slip and lose control of their go-karts"
+        ]
+    ]
+}

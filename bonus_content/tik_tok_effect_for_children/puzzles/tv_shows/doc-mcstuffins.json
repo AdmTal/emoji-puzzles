@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "Doc McStuffins",
+    "release_year": "2012",
+    "genre_1": "Children's",
+    "genre_2": "Animation",
+    "emoji": "👧🏾🔖🩺🧸💖",
+    "short_plot_summary": "A girl named Doc McStuffins can magically bring her stuffed animals to life and helps them with their problems.",
+    "explanation": [
+        [
+            "👧🏾",
+            "Doc McStuffins, the main character, who is a young girl with magical healing abilities"
+        ],
+        [
+            "🔖",
+            "A bookmark, symbolizing the book in which Doc McStuffins writes the toy's problems she solves"
+        ],
+        [
+            "🩺",
+            "A stethoscope, representing Doc's role as a toy doctor and her passion for fixing her toy friends"
+        ],
+        [
+            "🧸",
+            "A teddy bear, illustrating the stuffed animals that come to life and have problems that need solving"
+        ],
+        [
+            "💖",
+            "A heart, signifying the care and love Doc McStuffins has for her toy friends"
+        ]
+    ]
+}

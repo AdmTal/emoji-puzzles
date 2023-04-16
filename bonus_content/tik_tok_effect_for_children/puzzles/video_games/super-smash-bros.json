@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "Super Smash Bros.",
+    "release_year": "1999",
+    "genre_1": "Fighting",
+    "genre_2": "Party",
+    "emoji": "👊⭐🕹️🥊🏆",
+    "short_plot_summary": "Iconic characters from various video game franchises come together to battle each other in intense, action-packed matches.",
+    "explanation": [
+        [
+            "👊",
+            "A fist, representing the close-quarters combat between characters in the game"
+        ],
+        [
+            "⭐",
+            "A star, symbolizing the iconic status of the characters and the shoot-for-the-stars competitive nature of the game"
+        ],
+        [
+            "🕹️",
+            "A joystick, illustrating the game's roots as a popular video game with multiplayer gameplay"
+        ],
+        [
+            "🥊",
+            "A boxing glove, emphasizing the fighting aspect of the game and the heated battles between characters"
+        ],
+        [
+            "🏆",
+            "A trophy, signifying the ultimate goal of players to become the champion in their matches and tournaments"
+        ]
+    ]
+}

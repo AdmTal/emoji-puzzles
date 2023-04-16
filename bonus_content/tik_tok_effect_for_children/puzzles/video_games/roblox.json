@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "Roblox",
+    "release_year": "2006",
+    "genre_1": "Sandbox",
+    "genre_2": "Multiplayer",
+    "emoji": "🔨👫🏠💎🎢",
+    "short_plot_summary": "Roblox is a multiplayer online platform where users create and play games designed by other players, customize their avatar, and explore various virtual worlds.",
+    "explanation": [
+        [
+            "🔨",
+            "A hammer, symbolizing the game's building and creation aspect"
+        ],
+        [
+            "👫",
+            "Two people, representing the multiplayer and social features of the game"
+        ],
+        [
+            "🏠",
+            "A house, illustrating the ability to create and design various structures within the game"
+        ],
+        [
+            "💎",
+            "A gem, indicating the in-game currency, Robux, which can be used to purchase items and avatar accessories"
+        ],
+        [
+            "🎢",
+            "A roller coaster, portraying the wide variety of game genres and experiences available within Roblox"
+        ]
+    ]
+}

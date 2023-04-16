@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "The Rainbow Fish",
+    "release_year": "1992",
+    "genre_1": "Children's",
+    "genre_2": "Picture Book",
+    "emoji": "🌈🐟✨🙌🏼🐠",
+    "short_plot_summary": "The Rainbow Fish learns the value of sharing and friendship when he gives away his beautiful shimmering scales to other fish.",
+    "explanation": [
+        [
+            "🌈",
+            "A rainbow, symbolizing the beautiful and colorful scales of the Rainbow Fish"
+        ],
+        [
+            "🐟",
+            "A fish, representing the main character, the Rainbow Fish"
+        ],
+        [
+            "✨",
+            "A sparkle, indicating the shiny, shimmery scales of the Rainbow Fish"
+        ],
+        [
+            "🙌🏼",
+            "Raised hands, symbolizing the act of giving and sharing"
+        ],
+        [
+            "🐠",
+            "A tropical fish, representing the other fish in the ocean that the Rainbow Fish shares his scales with"
+        ]
+    ]
+}

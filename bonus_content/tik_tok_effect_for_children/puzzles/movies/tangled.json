@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Tangled",
+    "release_year": "2010",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "👸🦎🍳🏮✂️",
+    "short_plot_summary": "Rapunzel, a princess with magical hair, escapes her tower with the help of a charming thief and goes on an adventure discovering her true identity.",
+    "explanation": [
+        [
+            "👸",
+            "A princess, representing Rapunzel, the main character in the story"
+        ],
+        [
+            "🦎",
+            "A lizard, symbolizing Pascal, Rapunzel's loyal and protective pet"
+        ],
+        [
+            "🍳",
+            "A frying pan, representing the unconventional weapon used by Rapunzel and her allies during the adventure"
+        ],
+        [
+            "🏮",
+            "A lantern, symbolizing the floating lanterns released every year to guide Rapunzel back to her family"
+        ],
+        [
+            "✂️",
+            "A pair of scissors, signifying the cutting of Rapunzel's magical hair, which leads to her final discovery of her true identity"
+        ]
+    ]
+}

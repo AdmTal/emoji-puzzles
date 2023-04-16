@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Little Red Riding Hood",
+    "release_year": "1697",
+    "genre_1": "Fairy Tale",
+    "genre_2": "Children's",
+    "emoji": "👧🏼💬🐺👵🏻🌲",
+    "short_plot_summary": "Little Red Riding Hood goes through the forest to deliver food to her grandmother and encounters a cunning wolf.",
+    "explanation": [
+        [
+            "👧🏼",
+            "A girl, representing Little Red Riding Hood, the main character"
+        ],
+        [
+            "💬",
+            "A speech bubble, symbolizing the conversations between Little Red Riding Hood and the characters she meets"
+        ],
+        [
+            "🐺",
+            "A wolf, depicting the antagonist in the story, trying to trick Little Red Riding Hood"
+        ],
+        [
+            "👵🏻",
+            "An elderly woman, illustrating Little Red Riding Hood's grandmother, who the wolf impersonates"
+        ],
+        [
+            "🌲",
+            "A tree, representing the forest setting in which the story takes place"
+        ]
+    ]
+}

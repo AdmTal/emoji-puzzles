@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Toy Story",
+    "release_year": "1995",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "🤠🚀👦🧸🎢",
+    "short_plot_summary": "A cowboy toy named Woody feels threatened by the arrival of a spaceship toy named Buzz Lightyear. They set out on an adventure, ultimately learning the importance of friendship.",
+    "explanation": [
+        [
+            "🤠",
+            "A cowboy, representing Woody, the main character of the story"
+        ],
+        [
+            "🚀",
+            "A rocket, symbolizing Buzz Lightyear, the other main character and Woody's rival"
+        ],
+        [
+            "👦",
+            "A boy, representing Andy, the toys' owner"
+        ],
+        [
+            "🧸",
+            "A teddy bear, illustrating the concept of toys coming to life when humans are not around"
+        ],
+        [
+            "🎢",
+            "A roller coaster, signifying the thrilling adventure Woody and Buzz embark on together"
+        ]
+    ]
+}

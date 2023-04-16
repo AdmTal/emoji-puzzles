@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "Plants vs. Zombies",
+    "release_year": "2009",
+    "genre_1": "Tower Defense",
+    "genre_2": "Strategy",
+    "emoji": "🌻🍒💣🧟🏡",
+    "short_plot_summary": "Defend your home from a horde of invading zombies with an arsenal of various plants that have special attack abilities.",
+    "explanation": [
+        [
+            "🌻",
+            "A sunflower, representing one of the main plant characters in the game which generates resources"
+        ],
+        [
+            "🍒",
+            "Cherries, symbolizing the Cherry Bomb, one of the powerful plant defenses in the game"
+        ],
+        [
+            "💣",
+            "A bomb, illustrating the explosive power of some plants used to fend off zombies"
+        ],
+        [
+            "🧟",
+            "A zombie, representing the main enemy and obstacle in the game"
+        ],
+        [
+            "🏡",
+            "A house, symbolizing the player's home which must be protected from the zombies"
+        ]
+    ]
+}

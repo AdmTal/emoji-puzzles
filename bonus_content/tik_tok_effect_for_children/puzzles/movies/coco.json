@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Coco",
+    "release_year": "2017",
+    "genre_1": "Animated",
+    "genre_2": "Adventure",
+    "emoji": "👦🎸💀🌼🇲🇽",
+    "short_plot_summary": "Young Miguel pursues his love for music in the enchanting Land of the Dead, uncovering a hidden family secret along the way.",
+    "explanation": [
+        [
+            "👦",
+            "Miguel, the young protagonist of the movie"
+        ],
+        [
+            "🎸",
+            "A guitar, representing Miguel's passion for music"
+        ],
+        [
+            "💀",
+            "A skull, symbolizing the Land of the Dead, where Miguel goes on his adventure"
+        ],
+        [
+            "🌼",
+            "A flower, symbolizing the marigold petals used as a bridge between the living and the dead during the Day of the Dead celebration"
+        ],
+        [
+            "🇲🇽",
+            "The flag of Mexico, indicating the movie's setting and cultural background"
+        ]
+    ]
+}

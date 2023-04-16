@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "Arthur",
+    "release_year": "1996",
+    "genre_1": "Children's",
+    "genre_2": "Educational",
+    "emoji": "👓🐻📖🐇🚌",
+    "short_plot_summary": "Arthur, an anthropomorphic aardvark, navigates the ups and downs of childhood with his friends and family in the town of Elwood City.",
+    "explanation": [
+        [
+            "👓",
+            "Glasses, symbolizing Arthur's iconic appearance with his round glasses"
+        ],
+        [
+            "🐻",
+            "A bear, representing Arthur's best friend Buster who is a rabbit; the bear is used here as there is no aardvark emoji"
+        ],
+        [
+            "📖",
+            "A book, illustrating the show's focus on learning and education"
+        ],
+        [
+            "🐇",
+            "A rabbit, representing Arthur's best friend Buster who is a rabbit"
+        ],
+        [
+            "🚌",
+            "A bus, symbolizing the daily school routine and adventures of Arthur and his friends"
+        ]
+    ]
+}

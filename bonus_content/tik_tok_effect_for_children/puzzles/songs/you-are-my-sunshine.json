@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "You Are My Sunshine",
+    "release_year": "1939",
+    "genre_1": "Country",
+    "genre_2": "Folk",
+    "emoji": "🌞💛😊🎸🎶",
+    "short_plot_summary": "A person expresses their love and devotion to someone, who brings joy and happiness, like sunshine on a cloudy day.",
+    "explanation": [
+        [
+            "🌞",
+            "Sunshine, symbolizing the happiness and joy the person brings"
+        ],
+        [
+            "💛",
+            "A yellow heart, representing love and the bright, cheerful emotions"
+        ],
+        [
+            "😊",
+            "A smiling face, illustrating the happiness conveyed in the song"
+        ],
+        [
+            "🎸",
+            "A guitar, indicating the musical instrument often used in country and folk music"
+        ],
+        [
+            "🎶",
+            "Musical notes, representing the melody and the song itself"
+        ]
+    ]
+}

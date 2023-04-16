@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "The Incredibles",
+    "release_year": "2004",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "🦸‍♂️🦸‍♀️👦⚡🤖",
+    "short_plot_summary": "A family of superheroes must save the world while trying to live a normal life and hide their superpowers.",
+    "explanation": [
+        [
+            "🦸‍♂️",
+            "A male superhero, representing Mr. Incredible, the father and main character of the movie"
+        ],
+        [
+            "🦸‍♀️",
+            "A female superhero, symbolizing Elastigirl, the mother and supporting character of the movie"
+        ],
+        [
+            "👦",
+            "A boy, depicting the three children in the family, who also have superhero powers"
+        ],
+        [
+            "⚡",
+            "Lightning, illustrating the superpowers and action-adventure aspects of the movie"
+        ],
+        [
+            "🤖",
+            "A robot, representing Syndrome's destructive weapon, the Omnidroid, which the Incredibles must defeat"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "The Alphabet Song",
+    "release_year": "1835",
+    "genre_1": "Children's",
+    "genre_2": "Educational",
+    "emoji": "🔠🎶👧👦🐱",
+    "short_plot_summary": "The Alphabet Song is a children's song that helps kids learn the English alphabet with a catchy tune.",
+    "explanation": [
+        [
+            "🔠",
+            "Alphabet letters, representing the theme of the song"
+        ],
+        [
+            "🎶",
+            "Musical notes, indicating that the song has a melody"
+        ],
+        [
+            "👧",
+            "A girl, symbolizing children learning the alphabet"
+        ],
+        [
+            "👦",
+            "A boy, also symbolizing children learning the alphabet"
+        ],
+        [
+            "🐱",
+            "A cat, suggesting the playful and fun nature of the song"
+        ]
+    ]
+}

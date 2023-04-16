@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Inside Out",
+    "release_year": "2015",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "😄😢😠😨😷",
+    "short_plot_summary": "A young girl named Riley experiences a range of emotions as she adjusts to her new life in San Francisco, and her emotions - Joy, Sadness, Anger, Fear, and Disgust - help her navigate the challenges.",
+    "explanation": [
+        [
+            "😄",
+            "A smiling face, representing Joy, one of the main characters and emotions in the movie"
+        ],
+        [
+            "😢",
+            "A crying face, symbolizing Sadness, another main character and emotion in the story"
+        ],
+        [
+            "😠",
+            "An angry face, illustrating Anger, one of the important emotions guiding Riley's actions"
+        ],
+        [
+            "😨",
+            "A fearful face, signifying Fear, another emotion that influences Riley's decisions"
+        ],
+        [
+            "😷",
+            "A face with a mask, representing Disgust, an emotion that helps Riley make choices about her likes and dislikes"
+        ]
+    ]
+}

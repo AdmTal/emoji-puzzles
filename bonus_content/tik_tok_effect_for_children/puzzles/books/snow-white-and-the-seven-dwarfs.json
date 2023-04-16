@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Snow White and the Seven Dwarfs",
+    "release_year": "1812",
+    "genre_1": "Children's",
+    "genre_2": "Fairy Tale",
+    "emoji": "👸🍎🔮🏠🎁",
+    "short_plot_summary": "Snow White, a beautiful young princess, is forced to flee from her wicked stepmother. She finds refuge with seven dwarfs who help protect her from various dangers, including a poisoned apple.",
+    "explanation": [
+        [
+            "👸",
+            "A princess, representing Snow White, the main character of the story"
+        ],
+        [
+            "🍎",
+            "A poisoned apple, the gift given by her wicked stepmother to try and kill her"
+        ],
+        [
+            "🔮",
+            "A crystal ball, symbolizing the stepmother's magical powers used to locate Snow White"
+        ],
+        [
+            "🏠",
+            "A house, representing the home where Snow White finds refuge and stays with the seven dwarfs"
+        ],
+        [
+            "🎁",
+            "A wrapped gift, illustrating the various attempts the stepmother makes to deceive and harm Snow White, including the poisoned apple, before she is saved by the prince"
+        ]
+    ]
+}

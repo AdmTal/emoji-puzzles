@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Up",
+    "release_year": "2009",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "👴🎈🏠🐶🗺️",
+    "short_plot_summary": "An elderly man named Carl, with the help of numerous balloons, travels in his flying house to Paradise Falls with an eager Boy Scout named Russell and a talking dog named Dug, thwarting a villain along the way.",
+    "explanation": [
+        [
+            "👴",
+            "An elderly man, representing Carl, the main character of the story"
+        ],
+        [
+            "🎈",
+            "Balloons, symbolizing the method Carl uses to fly his house to Paradise Falls"
+        ],
+        [
+            "🏠",
+            "A house, illustrating Carl's floating house as the central element of the journey"
+        ],
+        [
+            "🐶",
+            "A dog, representing Dug, the talking dog who befriends Carl and Russell"
+        ],
+        [
+            "🗺️",
+            "A map, signifying the adventurous journey to Paradise Falls and the quest to fulfill a lifelong dream"
+        ]
+    ]
+}

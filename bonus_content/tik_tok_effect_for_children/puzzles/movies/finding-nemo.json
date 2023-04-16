@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Finding Nemo",
+    "release_year": "2003",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "🐠🔍🐢🦈🐟",
+    "short_plot_summary": "A clownfish named Marlin goes on an epic journey to find his son, Nemo, who was captured and placed in a fish tank in a dentist's office.",
+    "explanation": [
+        [
+            "🐠",
+            "A clownfish, representing Nemo, the main character of the story"
+        ],
+        [
+            "🔍",
+            "A magnifying glass, symbolizing the search for Nemo by his father, Marlin"
+        ],
+        [
+            "🐢",
+            "A turtle, representing Crush, the helpful sea turtle who assists Marlin on his journey"
+        ],
+        [
+            "🦈",
+            "A shark, illustrating the dangerous encounters faced by Marlin and Dory, like meeting a great white shark named Bruce"
+        ],
+        [
+            "🐟",
+            "A fish, signifying the various underwater sea creatures that Marlin and Dory encounter during their adventure"
+        ]
+    ]
+}

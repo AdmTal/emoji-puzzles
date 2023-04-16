@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "The Three Little Pigs",
+    "release_year": "1886",
+    "genre_1": "Children's",
+    "genre_2": "Fairy Tale",
+    "emoji": "🐷🏡🌬️🐺🔥",
+    "short_plot_summary": "Three little pigs each build their own house, but only the house made of bricks is strong enough to withstand the huffing and puffing of a big, bad wolf.",
+    "explanation": [
+        [
+            "🐷",
+            "A pig, representing the three main characters who are siblings"
+        ],
+        [
+            "🏡",
+            "A house, symbolizing the houses the pigs build out of straw, sticks, and bricks"
+        ],
+        [
+            "🌬️",
+            "Wind, representing the wolf's huffing and puffing to blow the houses down"
+        ],
+        [
+            "🐺",
+            "A wolf, signifying the main antagonist in the story who threatens the pigs"
+        ],
+        [
+            "🔥",
+            "Fire, illustrating the wolf's defeat when he tries to enter the brick house through the chimney and falls into a fire"
+        ]
+    ]
+}

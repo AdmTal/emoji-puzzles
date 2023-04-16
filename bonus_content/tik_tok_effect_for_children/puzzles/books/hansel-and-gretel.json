@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Hansel and Gretel",
+    "release_year": "1812",
+    "genre_1": "Children's",
+    "genre_2": "Fairy Tale",
+    "emoji": "👫🍞🍭🏠🧙",
+    "short_plot_summary": "A brother and sister named Hansel and Gretel are left in the woods by their parents. They follow a trail of breadcrumbs and discover a house made of sweets, only to be captured by a witch.",
+    "explanation": [
+        [
+            "👫",
+            "A pair of children, representing Hansel and Gretel, the siblings and main characters of the story"
+        ],
+        [
+            "🍞",
+            "A loaf of bread, symbolizing the trail of breadcrumbs the children use to find their way back home"
+        ],
+        [
+            "🍭",
+            "A lollipop, indicating the many sweets used to build the witch's house"
+        ],
+        [
+            "🏠",
+            "A house, representing the witch's house made of sweets where Hansel and Gretel become trapped"
+        ],
+        [
+            "🧙",
+            "A witch, signifying the antagonist who captures Hansel and Gretel in her candy house"
+        ]
+    ]
+}

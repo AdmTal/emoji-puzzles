@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "Super Mario Bros.",
+    "release_year": "1985",
+    "genre_1": "Platform",
+    "genre_2": "Action",
+    "emoji": "🍄🌟🐢👸🔥",
+    "short_plot_summary": "Mario and his brother Luigi must rescue Princess Peach from the evil Bowser by navigating through various levels and defeating enemies.",
+    "explanation": [
+        [
+            "🍄",
+            "A mushroom, representing the power-ups Mario and Luigi use to grow stronger and gain abilities"
+        ],
+        [
+            "🌟",
+            "A star, symbolizing the invincibility power-up that allows the characters to defeat enemies easily"
+        ],
+        [
+            "🐢",
+            "A turtle, illustrating the common enemy called 'Koopa Troopas' that the characters must defeat in the game"
+        ],
+        [
+            "👸",
+            "A princess, representing the goal of the game, which is to save Princess Peach from Bowser"
+        ],
+        [
+            "🔥",
+            "A fire, signifying the fireballs Mario and Luigi can throw after obtaining a Fire Flower power-up"
+        ]
+    ]
+}

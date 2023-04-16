@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Charlotte's Web",
+    "release_year": "1952",
+    "genre_1": "Children's",
+    "genre_2": "Literature",
+    "emoji": "🐖🕷️🕸️🎡🏅",
+    "short_plot_summary": "A gentle spider named Charlotte befriends a young pig named Wilbur and weaves webs with words to save him from being slaughtered.",
+    "explanation": [
+        [
+            "🐖",
+            "A pig, representing the main character, Wilbur"
+        ],
+        [
+            "🕷️",
+            "A spider, symbolizing the other main character, Charlotte"
+        ],
+        [
+            "🕸️",
+            "A spider web, illustrating Charlotte's ability to create webs with words to save Wilbur"
+        ],
+        [
+            "🎡",
+            "A Ferris wheel, representing the fair where Wilbur is showcased"
+        ],
+        [
+            "🏅",
+            "A medal, signifying the prize Wilbur receives at the fair, which ultimately saves his life"
+        ]
+    ]
+}

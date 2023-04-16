@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "The Magic School Bus",
+    "release_year": "1994",
+    "genre_1": "Children's",
+    "genre_2": "Educational",
+    "emoji": "🚌🔬🦖🌋❄️",
+    "short_plot_summary": "Ms. Frizzle takes her class on wild adventures in her magic school bus to teach them about science and the world around them.",
+    "explanation": [
+        [
+            "🚌",
+            "The iconic magic school bus, which Ms. Frizzle and her students ride on their adventures"
+        ],
+        [
+            "🔬",
+            "A microscope, symbolizing the focus on scientific exploration and discovery in the show"
+        ],
+        [
+            "🦖",
+            "A dinosaur, representing one of the exciting adventures the class takes to learn about prehistoric times"
+        ],
+        [
+            "🌋",
+            "A volcano, illustrating another thrilling adventure, this time to learn about volcanic activity and earth science"
+        ],
+        [
+            "❄️",
+            "A snowflake, symbolizing the various climate and weather-related adventures the class embarks on during the show"
+        ]
+    ]
+}

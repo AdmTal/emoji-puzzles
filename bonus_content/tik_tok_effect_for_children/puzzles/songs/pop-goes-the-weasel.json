@@ -1,0 +1,27 @@
+{
+    "type": "Song",
+    "title": "Pop Goes the Weasel",
+    "release_year": "1853",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "🐵🎡📍🎉",
+    "short_plot_summary": "Pop Goes the Weasel is a nursery rhyme where a playful monkey chases a weasel around the spinning wheel, and when the wheel goes 'pop,' the weasel gets surprised and the rhyme ends.",
+    "explanation": [
+        [
+            "🐵",
+            "A monkey, representing the playful character in the nursery rhyme"
+        ],
+        [
+            "🎡",
+            "A Ferris wheel, symbolizing the spinning wheel in the song"
+        ],
+        [
+            "📍",
+            "A pushpin, illustrating the 'pop' sound and moment the weasel is caught"
+        ],
+        [
+            "🎉",
+            "A party popper, signifying the surprise and excitement when the weasel 'pops'"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "The Wheels on the Bus",
+    "release_year": "1937",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "🚌🔁🚸👪🎶",
+    "short_plot_summary": "The Wheels on the Bus is a fun and catchy children's song that describes the sounds made by various parts of a bus as it drives along.",
+    "explanation": [
+        [
+            "🚌",
+            "A bus, representing the main subject of the song"
+        ],
+        [
+            "🔁",
+            "A clockwise arrow, illustrating the wheels on the bus going round and round"
+        ],
+        [
+            "🚸",
+            "A crosswalk sign, symbolizing the bus stopping to pick up and drop off passengers"
+        ],
+        [
+            "👪",
+            "A family, representing the people on the bus and the various sounds they make"
+        ],
+        [
+            "🎶",
+            "A music note, signifying the musical nature of the song and the catchy tune"
+        ]
+    ]
+}

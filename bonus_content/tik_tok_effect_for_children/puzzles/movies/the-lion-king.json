@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "The Lion King",
+    "release_year": "1994",
+    "genre_1": "Children's",
+    "genre_2": "Animation",
+    "emoji": "🦁👑🌅🐗🔁",
+    "short_plot_summary": "Young lion Simba must embrace his role as the rightful king of the Pride Lands after the murder of his father.",
+    "explanation": [
+        [
+            "🦁",
+            "A lion, representing Simba, the main character of the story"
+        ],
+        [
+            "👑",
+            "A crown, symbolizing Simba's status as the future king of the Pride Lands"
+        ],
+        [
+            "🌅",
+            "A sunrise, indicating the iconic scene when Simba is introduced to the Pride Lands by his father Mufasa"
+        ],
+        [
+            "🐗",
+            "A wild boar, representing Pumbaa, one of Simba's loyal friends who helps him on his journey"
+        ],
+        [
+            "🔁",
+            "A counterclockwise arrows, signifying the Circle of Life theme in the movie"
+        ]
+    ]
+}

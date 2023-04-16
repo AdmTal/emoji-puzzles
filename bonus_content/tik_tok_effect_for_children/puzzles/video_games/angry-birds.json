@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "Angry Birds",
+    "release_year": "2009",
+    "genre_1": "Puzzle",
+    "genre_2": "Casual",
+    "emoji": "🐦📱💢🐷🏆",
+    "short_plot_summary": "Players use a slingshot to launch birds at pigs stationed on various structures, aiming to destroy all the pigs and advance to the next level.",
+    "explanation": [
+        [
+            "🐦",
+            "A bird, representing the main characters in the game, the angry birds"
+        ],
+        [
+            "📱",
+            "A smartphone, symbolizing the game's popularization on mobile devices"
+        ],
+        [
+            "💢",
+            "An anger symbol, illustrating the frustration the birds feel towards the pigs"
+        ],
+        [
+            "🐷",
+            "A pig, representing the enemies in the game, which the birds are trying to defeat"
+        ],
+        [
+            "🏆",
+            "A trophy, signifying the accomplishment of completing levels and advancing in the game"
+        ]
+    ]
+}
