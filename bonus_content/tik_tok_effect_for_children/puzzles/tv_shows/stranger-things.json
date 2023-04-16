@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "Stranger Things",
+    "release_year": "2016",
+    "genre_1": "Science Fiction",
+    "genre_2": "Drama",
+    "emoji": "👭🚲👮🧪🙃",
+    "short_plot_summary": "A group of friends in a small town uncover a series of strange events and mysterious creatures, while searching for their missing friend.",
+    "explanation": [
+        [
+            "👭",
+            "Friends, representing the close bond between the main characters"
+        ],
+        [
+            "🚲",
+            "A bicycle, a common mode of transportation for the children in the show"
+        ],
+        [
+            "👮",
+            "A policeman, symbolizing the involvement of law enforcement in the investigation"
+        ],
+        [
+            "🧪",
+            "A test tube, representing the scientific experiments and government secrets"
+        ],
+        [
+            "🙃",
+            "An upside-down face, symbolizing the Upside Down, a parallel dimension in the show"
+        ]
+    ]
+}

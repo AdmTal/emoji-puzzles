@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "The Wizard of Oz",
+    "release_year": "1939",
+    "genre_1": "Adventure",
+    "genre_2": "Musical",
+    "emoji": "🌪️👠🦁🧙‍♂️🌈",
+    "short_plot_summary": "Young girl Dorothy is swept away to the magical land of Oz in a tornado and embarks on a quest with her new friends, the Scarecrow, Tin Man, and Cowardly Lion, to see the Wizard, who can help her return home.",
+    "explanation": [
+        [
+            "🌪️",
+            "A tornado, which transports Dorothy to the land of Oz"
+        ],
+        [
+            "👠",
+            "The ruby slippers, magical shoes Dorothy wears that hold the key to her returning home"
+        ],
+        [
+            "🦁",
+            "A lion, representing the Cowardly Lion, one of Dorothy's companions on her journey"
+        ],
+        [
+            "🧙‍♂️",
+            "A wizard, symbolizing the Wizard of Oz, the powerful figure Dorothy and her friends seek out for help"
+        ],
+        [
+            "🌈",
+            "A rainbow, representing the journey to the Emerald City and the hope of finding the way back to Kansas"
+        ]
+    ]
+}

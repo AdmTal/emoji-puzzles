@@ -4,6 +4,7 @@ from src.generate_book_utils import (
 )
 from src.generated_content_utils import load_json_files_from_path
 import os
+import random
 
 _OUTPUT = './bonus_content/tik_tok_effect_for_children/images/'
 
@@ -20,6 +21,7 @@ categories_to_emoji = {
     'movies': '🎬',
 }
 
+pages_input = []
 for category in categories:
     category_list = sort_dicts_by_release_year(
         load_json_files_from_path(f'{puzzles_path}/{category}'))
@@ -28,7 +30,7 @@ for category in categories:
         title = item['title']
 
         g1, g2 = sorted([item['genre_1'], item['genre_2']])
-        image_path = make_puzzle_page_as_png(
+        pages_input.append([
             item['emoji'],
             g1,
             g2,
@@ -37,5 +39,8 @@ for category in categories:
             title.replace(' ', '-'),
             (500, 300),
             _OUTPUT
-        )
-        print(image_path)
+        ])
+
+random.shuffle(pages_input)
+for page_input in pages_input:
+    print(make_puzzle_page_as_png(*page_input))

@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "The Simpsons",
+    "release_year": "1989",
+    "genre_1": "Animation",
+    "genre_2": "Comedy",
+    "emoji": "💛👨‍👩‍👧‍👦🍩🛋️🏭",
+    "short_plot_summary": "The misadventures of the Simpson family living in the fictional town of Springfield as they navigate through life, work, and family.",
+    "explanation": [
+        [
+            "💛",
+            "A yellow heart, representing the unique yellow skin color of the Simpson characters"
+        ],
+        [
+            "👨‍👩‍👧‍👦",
+            "A family emoji, symbolizing the main characters, the Simpson family"
+        ],
+        [
+            "🍩",
+            "A donut, Homer Simpson's favorite food and iconic snack"
+        ],
+        [
+            "🛋️",
+            "A couch, for the famous couch gag that appears in the show's opening sequence"
+        ],
+        [
+            "🏭",
+            "A factory, representing the Springfield Nuclear Power Plant where Homer works"
+        ]
+    ]
+}
