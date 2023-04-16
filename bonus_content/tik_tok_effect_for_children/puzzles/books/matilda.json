@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Matilda",
+    "release_year": "1988",
+    "genre_1": "Children's",
+    "genre_2": "Fantasy",
+    "emoji": "👧🌀🏋️‍♀️👩‍🏫🍯",
+    "short_plot_summary": "A young girl named Matilda discovers she has telekinetic powers and uses them to stand up against her mean and cruel parents and her school's tyrannical principal.",
+    "explanation": [
+        [
+            "👧",
+            "A young girl, representing Matilda, the main character"
+        ],
+        [
+            "🌀",
+            "A cyclone, symbolizing Matilda's telekinetic powers"
+        ],
+        [
+            "🏋️‍♀️",
+            "A female weightlifter, representing Miss Trunchbull, the antagonist and school principal"
+        ],
+        [
+            "👩‍🏫",
+            "A female teacher, symbolizing Miss Honey, Matilda's kind and supportive teacher"
+        ],
+        [
+            "🍯",
+            "A honey pot, representing the sweet and caring nature of Miss Honey"
+        ]
+    ]
+}

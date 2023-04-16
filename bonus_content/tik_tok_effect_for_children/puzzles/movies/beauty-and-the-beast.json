@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Beauty and the Beast",
+    "release_year": "1991",
+    "genre_1": "Animation",
+    "genre_2": "Musical",
+    "emoji": "👩🏻📚🏰🦁🌹",
+    "short_plot_summary": "A young woman named Belle finds herself in an enchanted castle and must learn to love a Beast to break the spell.",
+    "explanation": [
+        [
+            "👩🏻",
+            "A dark-haired woman, representing Belle"
+        ],
+        [
+            "📚",
+            "A book, symbolizing Belle's love for reading"
+        ],
+        [
+            "🏰",
+            "A castle, representing the Beast's enchanted home"
+        ],
+        [
+            "🦁",
+            "A lion, symbolizing the Beast"
+        ],
+        [
+            "🌹",
+            "A rose, representing the enchanted flower that tracks the time left for the spell to be broken"
+        ]
+    ]
+}

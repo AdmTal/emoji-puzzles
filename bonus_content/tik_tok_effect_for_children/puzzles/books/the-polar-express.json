@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "The Polar Express",
+    "release_year": "1985",
+    "genre_1": "Children's",
+    "genre_2": "Holiday",
+    "emoji": "🚂❄️🛷🎅🔔",
+    "short_plot_summary": "A young boy embarks on a magical train ride to the North Pole and learns about the importance of faith, hope, and the spirit of Christmas.",
+    "explanation": [
+        [
+            "🚂",
+            "A train, representing the Polar Express which takes the boy to the North Pole"
+        ],
+        [
+            "❄️",
+            "A snowflake, depicting the winter setting and theme of the story"
+        ],
+        [
+            "🛷",
+            "A sled, symbolizing the snowy landscape of the North Pole"
+        ],
+        [
+            "🎅",
+            "Santa Claus, who the boy meets during his journey"
+        ],
+        [
+            "🔔",
+            "A bell, representing the bell from Santa's sleigh that the boy receives as a token and reminder of his journey"
+        ]
+    ]
+}

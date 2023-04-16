@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Curious George",
+    "release_year": "1941",
+    "genre_1": "Children's",
+    "genre_2": "Adventure",
+    "emoji": "🐵🎈👨🚕🏙️",
+    "short_plot_summary": "Curious George is a little monkey who is brought to the big city by The Man with the Yellow Hat. George's curiosity leads him to many adventures, including flying away with a bunch of balloons.",
+    "explanation": [
+        [
+            "🐵",
+            "George, the curious little monkey"
+        ],
+        [
+            "🎈",
+            "Balloons, which George uses to fly away during one of his adventures"
+        ],
+        [
+            "👨",
+            "The Man with the Yellow Hat, who brings George to the city"
+        ],
+        [
+            "🚕",
+            "A yellow taxi, symbolizing the city environment and transportation during George's adventures"
+        ],
+        [
+            "🏙️",
+            "The city where George has his adventures"
+        ]
+    ]
+}

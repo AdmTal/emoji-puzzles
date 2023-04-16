@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Brave",
+    "release_year": "2012",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "🏹👩‍🦰👑🏴󠁧󠁢󠁳󠁣󠁴󠁿🐻",
+    "short_plot_summary": "Princess Merida defies tradition and accidentally turns her mother into a bear while trying to change her fate, leading her on a quest to restore her family.",
+    "explanation": [
+        [
+            "🏹",
+            "A bow and arrow, representing Princess Merida's skill as an archer"
+        ],
+        [
+            "👩‍🦰",
+            "A woman with red hair, symbolizing the appearance of Princess Merida"
+        ],
+        [
+            "👑",
+            "A crown, signifying Princess Merida's royal status"
+        ],
+        [
+            "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+            "The flag of Scotland, representing the setting of the story"
+        ],
+        [
+            "🐻",
+            "A bear, illustrating Queen Elinor's transformation and the bear-related challenges in the story"
+        ]
+    ]
+}

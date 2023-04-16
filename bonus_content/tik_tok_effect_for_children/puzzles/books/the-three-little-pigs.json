@@ -4,28 +4,28 @@
     "release_year": "1886",
     "genre_1": "Children's",
     "genre_2": "Fairy Tale",
-    "emoji": "🐷🏡🌬️🐺🔥",
-    "short_plot_summary": "Three little pigs each build their own house, but only the house made of bricks is strong enough to withstand the huffing and puffing of a big, bad wolf.",
+    "emoji": "🐷🌾🪵🧱🐺",
+    "short_plot_summary": "Three little pigs each build their own houses with different materials. A big bad wolf tries to blow their houses down but is only successful with the houses made of straw and sticks. The house made of bricks saves the day.",
     "explanation": [
         [
             "🐷",
-            "A pig, representing the three main characters who are siblings"
+            "Three pigs, representing the main characters of the story"
         ],
         [
-            "🏡",
-            "A house, symbolizing the houses the pigs build out of straw, sticks, and bricks"
+            "🌾",
+            "Straw, symbolizing the material used for the first pig's house"
         ],
         [
-            "🌬️",
-            "Wind, representing the wolf's huffing and puffing to blow the houses down"
+            "🪵",
+            "Wood, representing the material used for the second pig's house"
+        ],
+        [
+            "🧱",
+            "Bricks, signifying the strong material used for the third pig's house"
         ],
         [
             "🐺",
-            "A wolf, signifying the main antagonist in the story who threatens the pigs"
-        ],
-        [
-            "🔥",
-            "Fire, illustrating the wolf's defeat when he tries to enter the brick house through the chimney and falls into a fire"
+            "A wolf, depicting the antagonist who tries to blow the pigs' houses down"
         ]
     ]
 }

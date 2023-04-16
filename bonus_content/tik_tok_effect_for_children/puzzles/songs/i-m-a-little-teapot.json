@@ -4,28 +4,28 @@
     "release_year": "1939",
     "genre_1": "Children's",
     "genre_2": "Nursery Rhyme",
-    "emoji": "🍵🫖💨👉👶",
+    "emoji":  "🫖🤏♨🗣️☕️",
     "short_plot_summary": "A catchy children's song about a clever little teapot with a spout and a handle who loves to pour out tea.",
     "explanation": [
         [
-            "🍵",
-            "A cup of tea, representing the main theme of the song"
-        ],
-        [
             "🫖",
-            "A teapot, symbolizing the main character in the song"
+            "A teapot, representing the main character in the song"
         ],
         [
-            "💨",
-            "A gust of wind, illustrating the action of the teapot's steam"
+            "🤏",
+            "A pinching hand, illustrating that the teapot is short and stout"
         ],
         [
-            "👉",
-            "A pointing finger, depicting the line 'Here is my handle'"
+            "♨",
+            "Steam, symbolizing the teapot getting all steamed up"
         ],
         [
-            "👶",
-            "A baby, representing the intended audience of the song"
+            "🗣",
+            "Shout, symbolizing the teapots shout when water boils"
+        ],
+        [
+            "☕️",
+            "A cup of tea, to be enjoyed after the teapot is poured out"
         ]
     ]
 }

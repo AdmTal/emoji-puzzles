@@ -2,7 +2,7 @@
     "type": "TV Show",
     "title": "Blue's Clues",
     "release_year": "1996",
-    "genre_1": "Children's",
+    "genre_1": "Animated",
     "genre_2": "Educational",
     "emoji": "🐾🐶📘🖍️🔍",
     "short_plot_summary": "A playful dog named Blue leaves paw print clues for her owner, Steve, to decipher and learn something new each episode.",
@@ -17,7 +17,7 @@
         ],
         [
             "📘",
-            "A book, illustrating the educational aspect of the show"
+            "A book, the notebook where Steve draws clues"
         ],
         [
             "🖍️",

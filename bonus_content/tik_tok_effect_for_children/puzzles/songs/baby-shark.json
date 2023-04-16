@@ -4,28 +4,28 @@
     "release_year": "2016",
     "genre_1": "Children's",
     "genre_2": "Dance",
-    "emoji": "🦈👶👪🎉🌊",
+    "emoji": "👶🦈👩👵👴",
     "short_plot_summary": "The song tells the story of a family of sharks, singing and dancing along to a catchy tune.",
     "explanation": [
-        [
-            "🦈",
-            "A shark, representing the main subject of the song: Baby Shark and its family"
-        ],
         [
             "👶",
             "A baby, symbolizing Baby Shark, the central character of the song"
         ],
         [
-            "👪",
-            "A family, illustrating the inclusion of Mommy Shark, Daddy Shark, Grandma Shark, and Grandpa Shark as part of the song"
+            "🦈",
+            "A shark, representing the main subject of the song: Baby Shark and its family"
         ],
         [
-            "🎉",
-            "A party popper, representing the celebratory and lively nature of the song as people dance and sing along"
+            "👩",
+            "A woman, illustrating Mommy Shark as part of the song"
         ],
         [
-            "🌊",
-            "A wave, depicting the ocean environment where the shark family lives"
+            "👵",
+            "A grandmother, symbolizing Grandma Shark as part of the song"
+        ],
+        [
+            "👴",
+            "A grandfather, depicting Grandpa Shark as part of the song"
         ]
     ]
 }

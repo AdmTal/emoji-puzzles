@@ -4,28 +4,28 @@
     "release_year": "2015",
     "genre_1": "Animation",
     "genre_2": "Adventure",
-    "emoji": "😄😢😠😨😷",
-    "short_plot_summary": "A young girl named Riley experiences a range of emotions as she adjusts to her new life in San Francisco, and her emotions - Joy, Sadness, Anger, Fear, and Disgust - help her navigate the challenges.",
+    "emoji": "👧🧠😃😢😡",
+    "short_plot_summary": "A young girl's emotions are brought to life as characters in her mind, guiding her through a significant move to a new city. Along the way, they must navigate the challenges and changes that come with growing up.",
     "explanation": [
         [
-            "😄",
-            "A smiling face, representing Joy, one of the main characters and emotions in the movie"
+            "👧",
+            "The young girl, Riley, who is the main character and whose emotions are personified"
+        ],
+        [
+            "🧠",
+            "A brain, representing the inner workings of Riley's mind and the setting for much of the movie"
+        ],
+        [
+            "😃",
+            "Joy, one of the main emotions and characters in the movie"
         ],
         [
             "😢",
-            "A crying face, symbolizing Sadness, another main character and emotion in the story"
+            "Sadness, another important emotion and character in the story"
         ],
         [
-            "😠",
-            "An angry face, illustrating Anger, one of the important emotions guiding Riley's actions"
-        ],
-        [
-            "😨",
-            "A fearful face, signifying Fear, another emotion that influences Riley's decisions"
-        ],
-        [
-            "😷",
-            "A face with a mask, representing Disgust, an emotion that helps Riley make choices about her likes and dislikes"
+            "😡",
+            "Anger, one of the girl's emotions that plays a role in the movie"
         ]
     ]
 }

@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Holes",
+    "release_year": "1998",
+    "genre_1": "Adventure",
+    "genre_2": "Fiction",
+    "emoji": "👟👦☀️🕳️🧅",
+    "short_plot_summary": "A boy named Stanley Yelnats is sent to a juvenile detention center called Camp Green Lake, where he and other boys are forced to dig holes in the desert. As Stanley uncovers the truth behind the holes, he also discovers his family's history and a hidden treasure.",
+    "explanation": [
+        [
+            "👟",
+            "A sneaker, representing the stolen sneakers that lead to Stanley's arrest and arrival at Camp Green Lake"
+        ],
+        [
+            "👦",
+            "A boy, representing the main character, Stanley Yelnats"
+        ],
+        [
+            "☀️",
+            "A sun, symbolizing the hot desert where Camp Green Lake is located"
+        ],
+        [
+            "🕳️",
+            "A hole, signifying the central theme and mystery of the story"
+        ],
+        [
+            "🧅",
+            "An onion, symbolizing the importance of onions in the story, particularly in relation to Sam the onion man and their role in survival"
+        ]
+    ]
+}

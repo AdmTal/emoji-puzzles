@@ -4,7 +4,7 @@
     "release_year": "1806",
     "genre_1": "Children's",
     "genre_2": "Nursery Rhyme",
-    "emoji": "✨⭐🌙🌌👶",
+    "emoji": "✨⭐💭💎🌌",
     "short_plot_summary": "The lyrics of the song describe the wonder and curiosity of a child looking up at the twinkling stars in the night sky.",
     "explanation": [
         [
@@ -16,16 +16,16 @@
             "A star, representing the main focus of the song"
         ],
         [
-            "🌙",
-            "A crescent moon, illustrating the song's nighttime setting"
+            "💭",
+            "A thought bubble, illustrating the child's curiosity and wonder while looking at the stars"
+        ],
+        [
+            "💎",
+            "A diamond, symbolizing the precious and beautiful nature of the stars in the child's eyes"
         ],
         [
             "🌌",
             "A night sky with stars, depicting the visual scenery described in the song"
-        ],
-        [
-            "👶",
-            "A baby, symbolizing the child's perspective and curiosity in the nursery rhyme"
         ]
     ]
 }

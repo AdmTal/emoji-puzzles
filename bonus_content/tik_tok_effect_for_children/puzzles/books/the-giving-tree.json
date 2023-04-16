@@ -4,9 +4,13 @@
     "release_year": "1964",
     "genre_1": "Children's",
     "genre_2": "Picture Book",
-    "emoji": "🌳🍏🧒🪑📚",
+    "emoji": "🧒🌳🍏🪑🧓",
     "short_plot_summary": "A loving tree provides everything and anything for a boy from childhood to old age, including comfort and resources, even while sacrificing itself.",
     "explanation": [
+        [
+            "🧒",
+            "A child, depicting the boy who starts as a young child and grows old throughout the story"
+        ],
         [
             "🌳",
             "A tree, representing the Giving Tree, the loving and selfless main character of the story"
@@ -16,16 +20,12 @@
             "An apple, symbolizing the fruit the tree provides for the boy as part of its giving nature"
         ],
         [
-            "🧒",
-            "A child, depicting the boy who starts as a young child and grows old throughout the story"
-        ],
-        [
             "🪑",
             "A chair, illustrating the tree trunk being cut down for the boy to make a seat when he becomes an old man"
         ],
         [
-            "📚",
-            "A stack of books, representing the story's moral lesson of love, selflessness, and the deep bond between the tree and the boy"
+            "🧓",
+            "An old man, representing the boy's growth and the passage of time in the story"
         ]
     ]
 }

@@ -4,28 +4,28 @@
     "release_year": "1961",
     "genre_1": "Children's",
     "genre_2": "Nursery Rhyme",
-    "emoji": "👦👩💪🦵👟",
+    "emoji": "🤷🦵🦶👀👂",
     "short_plot_summary": "In this popular children's song, body parts are pointed to as they are sung, teaching kids the names of their body parts through a catchy tune.",
     "explanation": [
         [
-            "👦",
-            "A boy, representing the children who sing and participate in the song"
-        ],
-        [
-            "👩",
-            "A woman, representing the parents or teachers guiding the kids during the song"
-        ],
-        [
-            "💪",
-            "An arm, signifying the various upper body parts mentioned in the song, like head and shoulders"
+             "🤷",
+            "A shrug, representing the Head and Shoulders in the song"
         ],
         [
             "🦵",
-            "A leg, representing the various lower body parts mentioned in the song, like knees and toes"
+            "A leg, representing the Knees in the song"
         ],
         [
-            "👟",
-            "A shoe, illustrating the feet and toes, the final body parts in the song"
+            "🦶",
+            "A foot, representing the toes in the song"
+        ],
+        [
+            "👀",
+            "Eyes, representing the Eyes in the song"
+        ],
+        [
+            "👂",
+            "An ear, representing the ears in the song"
         ]
     ]
 }

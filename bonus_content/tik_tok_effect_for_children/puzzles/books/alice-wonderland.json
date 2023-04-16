@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Alice's Adventures in Wonderland",
+    "release_year": "1865",
+    "genre_1": "Fantasy",
+    "genre_2": "Children's",
+    "emoji": "👧🐇🎩🫖♥️",
+    "short_plot_summary": "A young girl named Alice falls down a rabbit hole into a magical world full of peculiar creatures and must find her way back home.",
+    "explanation": [
+        [
+            "👧",
+            "A girl, representing Alice, the main character of the story"
+        ],
+        [
+            "🐇",
+            "A rabbit, symbolizing the White Rabbit, a character that leads Alice to Wonderland"
+        ],
+        [
+            "🎩",
+            "A top hat, representing the Mad Hatter, a quirky character from the Mad Tea Party"
+        ],
+        [
+            "🫖",
+            "A teapot, symbolizing the tea party in which the Mad Hatter and other characters introduce Alice to the absurdity of Wonderland"
+        ],
+        [
+            "♥️",
+            "A heart, representing the Queen of Hearts, the antagonist who threatens Alice and rules the strange world"
+        ]
+    ]
+}

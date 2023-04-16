@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "The Little Mermaid",
+    "release_year": "1989",
+    "genre_1": "Animation",
+    "genre_2": "Fantasy",
+    "emoji": "🧜‍♀️🦀🐠🤴🏰",
+    "short_plot_summary": "A mermaid named Ariel dreams of becoming human, makes a deal with Ursula the sea witch, and tries to win the love of Prince Eric in order to remain human.",
+    "explanation": [
+        [
+            "🧜‍♀️",
+            "A mermaid, representing Ariel, the main character of the story"
+        ],
+        [
+            "🦀",
+            "A crab, symbolizing Sebastian, Ariel's crab friend and adviser"
+        ],
+        [
+            "🐠",
+            "A fish, representing Ariel's fish friend, Flounder"
+        ],
+        [
+            "🤴",
+            "A prince, signifying Prince Eric, the human Ariel falls in love with"
+        ],
+        [
+            "🏰",
+            "A castle, depicting the human world Ariel longs to join"
+        ]
+    ]
+}

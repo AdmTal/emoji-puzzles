@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Rio",
+    "release_year": "2011",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "🦜🔗✈️🇧🇷🎤",
+    "short_plot_summary": "Blu, a domesticated and rare macaw from Minnesota, goes on an adventure to Rio de Janeiro, Brazil, where he meets and falls in love with another macaw named Jewel. They must escape from a bird smuggler and learn to fly together.",
+    "explanation": [
+        [
+            "🦜",
+            "A parrot, representing Blu, the main character of the story who is a macaw"
+        ],
+        [
+            "🔗",
+            "A chain link, symbolizing the connection between Blu and Jewel when they are captured"
+        ],
+        [
+            "✈️",
+            "An airplane, illustrating the journey Blu takes from Minnesota to Rio de Janeiro"
+        ],
+        [
+            "🇧🇷",
+            "The flag of Brazil, representing the setting of the movie in Rio de Janeiro"
+        ],
+        [
+            "🎤",
+            "A microphone, signifying the musical elements and colorful celebration in the film"
+        ]
+    ]
+}

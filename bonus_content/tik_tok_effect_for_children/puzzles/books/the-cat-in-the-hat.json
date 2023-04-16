@@ -1,31 +1,31 @@
 {
     "type": "Book",
-    "title": "The Cat in the Hat",
+    "title": "The Cat In The Hat",
     "release_year": "1957",
     "genre_1": "Children's",
-    "genre_2": "Picture Book",
-    "emoji": "🐱🎩☔🎈🏠",
-    "short_plot_summary": "During a rainy day, a mischievous cat wearing a hat visits two children and causes chaos with his playful antics.",
+    "genre_2": "Humor",
+    "emoji": "🐱🎩☔🏠💡",
+    "short_plot_summary": "Two siblings are stuck inside on a rainy day when a talking cat in a hat arrives at their house, bringing chaos and adventures with his mischievous antics.",
     "explanation": [
         [
             "🐱",
-            "A cat, representing the main character of the story"
+            "A cat, representing the main character, the Cat in the Hat"
         ],
         [
             "🎩",
-            "A hat, symbolizing the iconic hat worn by the cat, which is unique to this character"
+            "A hat, symbolizing the iconic headwear of the Cat in the Hat"
         ],
         [
             "☔",
-            "An umbrella, illustrating the rainy day setting of the story, which prompts the children to stay indoors"
-        ],
-        [
-            "🎈",
-            "A balloon, signifying the fun and mischief the cat brings into the children's home"
+            "An umbrella representing the rainy day setting that begins the story"
         ],
         [
             "🏠",
-            "A house, representing the location where the story takes place"
+            "A house, where the entire story takes place"
+        ],
+        [
+            "💡",
+            "A lightbulb, symbolizing the ideas and creativity the Cat in the Hat brings into the children's lives"
         ]
     ]
 }

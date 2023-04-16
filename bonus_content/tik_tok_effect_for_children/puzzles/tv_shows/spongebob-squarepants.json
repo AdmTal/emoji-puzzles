@@ -2,30 +2,30 @@
     "type": "TV Show",
     "title": "SpongeBob SquarePants",
     "release_year": "1999",
-    "genre_1": "Children's",
+    "genre_1": "Comedy",
     "genre_2": "Animated",
-    "emoji": "🍍🌊🐠🐙🦀",
+    "emoji": "🧽🦀🍍🐙🍔",
     "short_plot_summary": "SpongeBob SquarePants, a square sponge living in a pineapple under the sea, goes on adventures with his best friends Patrick Star and Sandy Cheeks, and works at the Krusty Krab restaurant.",
     "explanation": [
         [
+            "🧽",
+            "A sponge, representing the main character, SpongeBob SquarePants"
+        ],
+        [
+            "🦀",
+            "A crab, symbolizing SpongeBob's employer, Mr. Krabs, and the Krusty Krab restaurant where SpongeBob works"
+        ],
+        [
             "🍍",
             "A pineapple, representing SpongeBob's iconic pineapple house"
-        ],
-        [
-            "🌊",
-            "A wave, symbolizing the underwater setting of Bikini Bottom"
-        ],
-        [
-            "🐠",
-            "A fish, indicating the various sea creatures with whom SpongeBob interacts throughout the series"
         ],
         [
             "🐙",
             "An octopus, referring to SpongeBob's grumpy neighbor, Squidward Tentacles"
         ],
         [
-            "🦀",
-            "A crab, representing SpongeBob's employer, Mr. Krabs, and the Krusty Krab restaurant where SpongeBob works"
+            "🍔",
+            "A burger, indicating the Krabby Patty, the famous burger served at the Krusty Krab restaurant"
         ]
     ]
 }

@@ -4,16 +4,20 @@
     "release_year": "2013",
     "genre_1": "Children's",
     "genre_2": "Animated",
-    "emoji": "❄️👭🏰⛄️🎶",
+    "emoji": "👭👸❄️🏰⛄️",
     "short_plot_summary": "Elsa accidentally unleashes her ice powers, plunging her kingdom into eternal winter. Her sister, Anna, teams up with friends to find Elsa and bring back summer.",
     "explanation": [
         [
-            "❄️",
-            "A snowflake, representing the eternal winter caused by Elsa's ice powers"
-        ],
-        [
             "👭",
             "Two girls, symbolizing Elsa and Anna, the sister duo at the heart of the story"
+        ],
+        [
+            "👸",
+            "A princess, representing Elsa's royal status as queen"
+        ],
+        [
+            "❄️",
+            "A snowflake, representing the eternal winter caused by Elsa's ice powers"
         ],
         [
             "🏰",
@@ -22,10 +26,6 @@
         [
             "⛄️",
             "A snowman, representing Olaf, the lovable snowman who helps Anna and her friends on their journey"
-        ],
-        [
-            "🎶",
-            "A musical note, signaling the musical aspect of the movie, featuring songs like 'Let It Go'"
         ]
     ]
 }

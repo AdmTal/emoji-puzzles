@@ -2,30 +2,30 @@
     "type": "TV Show",
     "title": "Sesame Street",
     "release_year": "1969",
-    "genre_1": "Children's",
+    "genre_1": "Live Action",
     "genre_2": "Educational",
-    "emoji": "🌆🅰️🍪🐤❤️",
+    "emoji": "🏙️🐤🗑️🍪🧛‍♂️",
     "short_plot_summary": "Sesame Street is a long-running educational TV show for children, featuring a diverse group of muppet characters and humans who live in a city-like street and teach valuable lessons while having fun.",
     "explanation": [
         [
-            "🌆",
+            "🏙️",
             "A cityscape, representing the urban street setting of the show"
         ],
         [
-            "🅰️",
-            "Letter 'A', symbolizing the educational focus and teaching of the alphabet"
+            "🐤",
+            "A baby chick, symbolizing Big Bird, an iconic character of the show"
+        ],
+        [
+            "🗑️",
+            "A trash can, representing Oscar the Grouch's home and his character"
         ],
         [
             "🍪",
             "A cookie, representing Cookie Monster, one of the beloved muppet characters"
         ],
         [
-            "🐤",
-            "A baby chick, symbolizing Big Bird, another iconic character of the show"
-        ],
-        [
-            "❤️",
-            "A heart, signifying the love, friendship, and inclusiveness that the show promotes"
+            "🧛‍♂️",
+            "A vampire, symbolizing Count von Count, another popular character who teaches counting"
         ]
     ]
 }

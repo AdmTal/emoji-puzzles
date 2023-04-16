@@ -4,28 +4,28 @@
     "release_year": "2003",
     "genre_1": "Animation",
     "genre_2": "Adventure",
-    "emoji": "🐠🔍🐢🦈🐟",
-    "short_plot_summary": "A clownfish named Marlin goes on an epic journey to find his son, Nemo, who was captured and placed in a fish tank in a dentist's office.",
+    "emoji": "🐠🐟🤿🐢🦷",
+    "short_plot_summary": "After his son Nemo is captured by a diver, overprotective clownfish Marlin, along with a forgetful fish named Dory, embarks on a dangerous journey across the ocean to rescue Nemo and bring him back home.",
     "explanation": [
         [
             "🐠",
-            "A clownfish, representing Nemo, the main character of the story"
-        ],
-        [
-            "🔍",
-            "A magnifying glass, symbolizing the search for Nemo by his father, Marlin"
-        ],
-        [
-            "🐢",
-            "A turtle, representing Crush, the helpful sea turtle who assists Marlin on his journey"
-        ],
-        [
-            "🦈",
-            "A shark, illustrating the dangerous encounters faced by Marlin and Dory, like meeting a great white shark named Bruce"
+            "A clownfish, representing Marlin, the main character"
         ],
         [
             "🐟",
-            "A fish, signifying the various underwater sea creatures that Marlin and Dory encounter during their adventure"
+            "A fish, representing Dory, Marlin's forgetful companion"
+        ],
+        [
+            "🤿",
+            "A diving mask, symbolizing the diver who captures Nemo"
+        ],
+        [
+            "🐢",
+            "A turtle, symbolizing Crush, the sea turtle who helps Marlin and Dory"
+        ],
+        [
+            "🦷",
+            "A tooth, representing the dentist where Nemo ends up after being captured"
         ]
     ]
 }

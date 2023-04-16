@@ -4,7 +4,7 @@
     "release_year": "Unknown",
     "genre_1": "Children's",
     "genre_2": "Nursery Rhyme",
-    "emoji": "🇬🇧🌉😱🔧🔄",
+    "emoji": "🇬🇧🌉🛠️🧱👸",
     "short_plot_summary": "The classic nursery rhyme 'London Bridge Is Falling Down' tells the story of the gradual collapse of London Bridge and various attempts to repair it.",
     "explanation": [
         [
@@ -16,16 +16,16 @@
             "A bridge, representing the actual London Bridge which the song is about"
         ],
         [
-            "😱",
-            "A face with wide-open mouth and raised eyebrows, displaying the fear and shock of London Bridge falling down"
+            "🛠️",
+            "A hammer and wrench, symbolizing the numerous attempts to repair and rebuild the bridge"
         ],
         [
-            "🔧",
-            "A wrench, symbolizing the numerous attempts to repair and rebuild the bridge"
+            "🧱",
+            "A brick, illustrating the materials used in the construction and repair of the bridge"
         ],
         [
-            "🔄",
-            "A counterclockwise arrow, illustrating the repetitive nature of the song and its cycles of the bridge's fall and repair attempts"
+            "👸",
+            "A queen, hinting at the historical context and royalty's involvement in the story"
         ]
     ]
 }
