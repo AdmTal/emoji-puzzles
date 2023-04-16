@@ -3,7 +3,7 @@ from io import BytesIO
 
 import emoji as emoji_lib
 import emoji_data_python
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont
 from reportlab.lib.colors import HexColor
 from reportlab.lib.units import inch
 from reportlab.pdfbase import pdfmetrics
@@ -335,3 +335,70 @@ def make_chapter_divider_page(word, emoji, pdf_file, page_number=None):
     c.save()
 
     return pdf_file
+
+
+def make_puzzle_page_as_png(emoji_puzzle, genre_1, genre_2, release_year, chapter_emoji, title, background_size=(200, 600), output_dir="temp"):
+    padding = 25
+    emoji_vertical_offset = 150  # Adjust this value to move the emoji image up or down
+
+    emoji_image = create_emoji_image(emoji_puzzle.strip())
+    width, height = emoji_image.size
+    max_width = background_size[0] - padding * 2 - 20
+    scale_factor = max_width / width
+    emoji_image = emoji_image.resize((int(width * scale_factor), int(height * scale_factor)), Image.LANCZOS)
+
+    # Title Clue
+    chapter_title_emoji = create_emoji_image(chapter_emoji)
+    width, height = chapter_title_emoji.size
+    max_width = 1 * inch  # Double the size
+    scale_factor = max_width / width
+    chapter_title_emoji = chapter_title_emoji.resize((int(width * scale_factor), int(height * scale_factor)), Image.LANCZOS)
+
+    # Create the transparent background
+    background = Image.new("RGBA", background_size, (0, 0, 0, 0))
+
+    # Draw the text
+    draw = ImageDraw.Draw(background)
+    header_text = f"{genre_1} | {genre_2} | {release_year}"
+    header_font_size = 36
+    header_font = ImageFont.truetype(arimo_font_path, header_font_size)
+    header_width, header_height = draw.textsize(header_text, font=header_font)
+
+    # Scale the text to fit within the dimensions
+    while header_width > background_size[0] - padding * 2:
+        header_font_size -= 1
+        header_font = ImageFont.truetype(arimo_font_path, header_font_size)
+        header_width, header_height = draw.textsize(header_text, font=header_font)
+
+    # Add stroke to the header text
+    def draw_stroke_text(draw, text, position, font, fill, stroke_width, stroke_fill):
+        x, y = position
+        for i in range(-stroke_width, stroke_width + 1):
+            for j in range(-stroke_width, stroke_width + 1):
+                draw.text((x + i, y + j), text, font=font, fill=stroke_fill)
+        draw.text(position, text, font=font, fill=fill)
+
+    # Draw Chapter Emoji above the header
+    background.alpha_composite(chapter_title_emoji, (int(background_size[0] / 2 - chapter_title_emoji.width / 2), 10))
+
+    # Draw header below the Chapter Emoji with white stroke
+    draw_stroke_text(
+        draw,
+        header_text,
+        ((background_size[0] - header_width) / 2, 10 + chapter_title_emoji.height + 5),
+        header_font,
+        (0, 0, 0, 255),
+        2,
+        (255, 255, 255, 255)
+    )
+
+    # Draw emoji image
+    background.alpha_composite(emoji_image, (int(background_size[0] / 2 - emoji_image.width / 2), emoji_vertical_offset))
+
+    # Save image as PNG
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    output_file = os.path.join(output_dir, f"{title}_puzzle_page.png")
+    background.save(output_file, "PNG")
+
+    return output_file

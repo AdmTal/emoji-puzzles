@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "If You're Happy and You Know It",
+    "release_year": "1957",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "😃👏👣🗣️😃",
+    "short_plot_summary": "The song encourages children to express their happiness by clapping their hands, stomping their feet, and joining in other playful gestures.",
+    "explanation": [
+        [
+            "😃",
+            "A smiling face, representing a person who is happy and knows it"
+        ],
+        [
+            "👏",
+            "Clapping hands, like you do when you know you're happy"
+        ],
+        [
+            "👣",
+            "Footprints, symbolizing stomping your feet"
+        ],
+        [
+            "🗣️",
+            "A person shouting hurray"
+        ],
+        [
+            "😃",
+            "Another smiling face, cause you really want to show it"
+        ]
+    ]
+}

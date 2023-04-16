@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Jack and the Beanstalk",
+    "release_year": "1734",
+    "genre_1": "Children's",
+    "genre_2": "Folk Tale",
+    "emoji": "👦🌱🌿🏰🥚",
+    "short_plot_summary": "A boy named Jack trades his cow for magic beans, grows a giant beanstalk, and ventures into a castle in the sky, where he steals from a giant and brings back treasure to his home.",
+    "explanation": [
+        [
+            "👦",
+            "A boy, representing Jack, the main character of the story"
+        ],
+        [
+            "🌱",
+            "A seedling, symbolizing the magic beans Jack receives in exchange for his cow"
+        ],
+        [
+            "🌿",
+            "A leaf, illustrating the growth of the giant beanstalk from the magic beans"
+        ],
+        [
+            "🏰",
+            "A castle, representing the giant's home in the sky that Jack explores"
+        ],
+        [
+            "🥚",
+            "An egg, signifying the treasures Jack steals from the giant, like the goose that lays golden eggs"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "Bob the Builder",
+    "release_year": "1998",
+    "genre_1": "Animated",
+    "genre_2": "Animation",
+    "emoji": "👷🔨🚧🚜🏗️",
+    "short_plot_summary": "Bob the Builder, a construction worker who can fix anything, works alongside his friends to solve problems and complete projects in the town of Bobsville.",
+    "explanation": [
+        [
+            "👷",
+            "A construction worker, representing Bob the Builder, the main character"
+        ],
+        [
+            "🔨",
+            "A hammer, symbolizing Bob's ability to fix and build things"
+        ],
+        [
+            "🚧",
+            "A construction barrier, indicating the various construction sites and projects in the show"
+        ],
+        [
+            "🚜",
+            "A tractor, illustrating the heavy machinery used by Bob and his team"
+        ],
+        [
+            "🏗️",
+            "A construction crane, signifying the large-scale projects and teamwork involved in the show"
+        ]
+    ]
+}

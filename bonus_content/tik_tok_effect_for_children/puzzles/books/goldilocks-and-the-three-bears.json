@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Goldilocks and the Three Bears",
+    "release_year": "1837",
+    "genre_1": "Children's",
+    "genre_2": "Fairy Tale",
+    "emoji": "👧🐻🥣🪑🛌",
+    "short_plot_summary": "Goldilocks stumbles upon the house of the three bears and tries their porridge, chairs, and beds before being discovered by the bears.",
+    "explanation": [
+        [
+            "👧",
+            "A girl, representing Goldilocks, the main character of the story"
+        ],
+        [
+            "🐻",
+            "A bear, symbolizing the three bears who own the house Goldilocks enters"
+        ],
+        [
+            "🥣",
+            "A bowl of porridge, illustrating the different temperatures of porridge that Goldilocks tastes"
+        ],
+        [
+            "🪑",
+            "A chair, representing the various sizes of chairs that Goldilocks tries"
+        ],
+        [
+            "🛌",
+            "A bed, signifying the different levels of comfort Goldilocks finds in the bears' beds before being found by them"
+        ]
+    ]
+}

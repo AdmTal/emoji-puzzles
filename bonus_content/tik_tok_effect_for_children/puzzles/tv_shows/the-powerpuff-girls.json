@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "The Powerpuff Girls",
+    "release_year": "1998",
+    "genre_1": "Animated",
+    "genre_2": "Action-Adventure",
+    "emoji": "💖💙💚🐵🧠",
+    "short_plot_summary": "Three kindergarten-aged girls with superpowers fight crime and save their city from villains.",
+    "explanation": [
+        [
+            "💖",
+            "A pink heart, symbolizing Blossom, the pink Powerpuff girl who is the leader of the trio"
+        ],
+        [
+            "💙",
+            "A blue heart, representing Bubbles, the sweet and gentle blue Powerpuff girl"
+        ],
+        [
+            "💚",
+            "A green heart, symbolizing Buttercup, the tough and tomboyish green Powerpuff girl"
+        ],
+        [
+            "🐵",
+            "A monkey, illustrating Mojo Jojo, the main antagonist and a recurring villain in the series"
+        ],
+        [
+            "🧠",
+            "A brain, representing the intelligence and strategy used by the Powerpuff Girls and their enemies in their battles"
+        ]
+    ]
+}

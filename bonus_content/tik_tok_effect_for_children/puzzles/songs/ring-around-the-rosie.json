@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "Ring Around the Rosie",
+    "release_year": "1881",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "👧👦💐🌸😷",
+    "short_plot_summary": "Children sing and dance in a circle while holding hands and performing actions related to the lyrics about flowers and falling down.",
+    "explanation": [
+        [
+            "👧",
+            "A girl, symbolizing children who participate in the game"
+        ],
+        [
+            "👦",
+            "A boy, representing the other children who join in the song and dance"
+        ],
+        [
+            "💐",
+            "A bouquet of flowers, referencing the 'rosie' in the title"
+        ],
+        [
+            "🌸",
+            "A flower, symbolizing the 'posie' mentioned in the lyrics"
+        ],
+        [
+            "😷",
+            "A face with a mask, denoting the historical association of the rhyme with the plague, though this connection is debated"
+        ]
+    ]
+}

@@ -1,0 +1,79 @@
+{
+	"name": "Equal",
+	"id": "1c971448-8cf0-427f-8307-52d04d310379",
+	"inputs": [
+		{
+			"name": "A",
+			"type": "Double",
+			"item_type": "",
+			"dynamic": true,
+			"default_value": "0",
+			"description": "The first input to compare",
+			"displayType": "Number",
+			"nameKey": "graph_equal_input_a",
+			"descriptionKey": "graph_equal_input_a_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "B",
+			"type": "Double",
+			"item_type": "",
+			"dynamic": true,
+			"default_value": "0",
+			"description": "The second input to compare",
+			"displayType": "Number",
+			"nameKey": "graph_equal_input_b",
+			"descriptionKey": "graph_equal_input_b_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Tolerance",
+			"type": "Double",
+			"item_type": "",
+			"dynamic": false,
+			"default_value": "0.001",
+			"description": "You can use Tolerance to set an equal range. When Tolerance is negative, and A is within [B-|Tolerance|, B+|Tolerance|], then the output is false. When Tolerance is positive, and A is within [B-|Tolerance|, B+|Tolerance|], then the output is true.",
+			"displayType": "Number",
+			"nameKey": "graph_equal_input_tolerance",
+			"descriptionKey": "graph_equal_input_tolerance_description",
+			"displayTypeKey": "graph_type_number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "A==B?",
+			"type": "Bool",
+			"item_type": "",
+			"dynamic": false,
+			"description": "If A and B are equal, this value is true. If they are not equal, this value is false.",
+			"displayType": "Boolean",
+			"nameKey": "graph_equal_output_ab",
+			"descriptionKey": "graph_equal_output_ab_description",
+			"displayTypeKey": "graph_type_boolean"
+		}
+	],
+	"js": "CGEqualsExactly.js",
+	"version": "2.0.0",
+	"amazingVersion": "10.40.0",
+	"category": "Logic",
+	"description": "Compare two inputs and check if they are equal. Supported types: Number, Boolean, Vec2, Vec3, Vec4, Color, and String.",
+	"supportedValueTypes": [
+		"Int",
+		"Double",
+		"Bool",
+		"Vector2f",
+		"Vector3f",
+		"Vector4f",
+		"Color",
+		"String"
+	],
+	"productTypes": [
+		"TTEH",
+		"DYEH",
+		"EHI"
+	],
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Logic/Equal",
+	"nameKey": "graph_equal_name",
+	"categoryKey": "graph_category_logic",
+	"descriptionKey": "graph_equal_description"
+}

@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "The Legend of Zelda",
+    "release_year": "1986",
+    "genre_1": "Action-Adventure",
+    "genre_2": "Fantasy",
+    "emoji": "🧝⚔️🛡️🧚👸",
+    "short_plot_summary": "Link, a young elf-like hero, embarks on a quest to save Princess Zelda and the land of Hyrule from the evil clutches of Ganon by collecting pieces of the Triforce.",
+    "explanation": [
+        [
+            "🧝",
+            "Link, the main protagonist and elf-like character"
+        ],
+        [
+            "⚔️",
+            "A sword, representing the Master Sword, a powerful weapon used by Link in his adventures"
+        ],
+        [
+            "🛡️",
+            "A shield, symbolizing Link's defensive equipment and resilience"
+        ],
+        [
+            "🧚",
+            "A fairy, representing the fairies that aid Link on his quest, such as Navi and Tatl"
+        ],
+        [
+            "👸",
+            "Princess Zelda, the princess of Hyrule who Link must save"
+        ]
+    ]
+}

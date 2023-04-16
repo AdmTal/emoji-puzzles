@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Shrek",
+    "release_year": "2001",
+    "genre_1": "Animation",
+    "genre_2": "Comedy",
+    "emoji": "🟢🏰👸🐉🐴",
+    "short_plot_summary": "Shrek, a grumpy green ogre, embarks on a quest to save a princess and reclaim his swamp from a villainous lord, accompanied by a talking donkey.",
+    "explanation": [
+        [
+            "🟢",
+            "A green circle, representing the distinctive color of Shrek the ogre"
+        ],
+        [
+            "🏰",
+            "A castle, indicating the place where Princess Fiona is held captive"
+        ],
+        [
+            "👸",
+            "A princess, representing Princess Fiona, who Shrek must rescue"
+        ],
+        [
+            "🐉",
+            "A dragon, symbolizing the obstacle Shrek and Donkey must overcome to save Princess Fiona"
+        ],
+        [
+            "🐴",
+            "A horse, representing Donkey, Shrek's loyal and talkative sidekick"
+        ]
+    ]
+}

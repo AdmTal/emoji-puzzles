@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Moana",
+    "release_year": "2016",
+    "genre_1": "Children's",
+    "genre_2": "Animation",
+    "emoji": "👧🌊🌀🐔🏝️",
+    "short_plot_summary": "Moana, a young Polynesian girl, embarks on a journey to save her island with the help of a demigod named Maui.",
+    "explanation": [
+        [
+            "👧",
+            "A girl, representing Moana, the main character of the movie"
+        ],
+        [
+            "🌊",
+            "A wave, symbolizing the ocean and the adventure at the core of the story"
+        ],
+        [
+            "🌀",
+            "A cyclone, illustrating the dangerous natural forces and obstacles that Moana and Maui face in their journey"
+        ],
+        [
+            "🐔",
+            "A chicken, representing Heihei, Moana's silly and loyal animal companion"
+        ],
+        [
+            "🏝️",
+            "An island, signifying Moana's home and the island she seeks to save through her quest"
+        ]
+    ]
+}

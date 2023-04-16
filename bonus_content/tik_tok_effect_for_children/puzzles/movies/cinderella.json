@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Cinderella",
+    "release_year": "1697",
+    "genre_1": "Children's",
+    "genre_2": "Fairy Tale",
+    "emoji": "👗🐭🎃🕛🥿",
+    "short_plot_summary": "Cinderella, a kind-hearted girl who is mistreated by her stepmother and stepsisters, goes to the royal ball with help from her fairy godmother, but has to leave before midnight.",
+    "explanation": [
+        [
+            "👗",
+            "A dress, symbolizing Cinderella's transformation from a girl in rags to a beautifully dressed princess at the ball"
+        ],
+        [
+            "🐭",
+            "A mouse, representing Cinderella's loyal animal friends who help her with chores and offer support"
+        ],
+        [
+            "🎃",
+            "A pumpkin, indicating the magical transformation by the fairy godmother that turns a pumpkin into a carriage for Cinderella"
+        ],
+        [
+            "🕛",
+            "A clock showing midnight, illustrating the magical spell's time limit and Cinderella's rush to leave the ball"
+        ],
+        [
+            "🥿",
+            "A glass slipper, symbolizing the iconic item that leads to Cinderella's happy ending with the prince"
+        ]
+    ]
+}

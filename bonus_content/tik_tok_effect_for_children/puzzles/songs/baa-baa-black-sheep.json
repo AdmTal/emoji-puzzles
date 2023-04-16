@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "Baa Baa Black Sheep",
+    "release_year": "1744",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "🐑⚫🎁🧶👧",
+    "short_plot_summary": "A black sheep is asked if it has any wool, and it replies that it has enough wool for three bags, given to a master, a dame, and a little boy.",
+    "explanation": [
+        [
+            "🐑",
+            "A sheep, representing the black sheep in the nursery rhyme"
+        ],
+        [
+            "⚫",
+            "A black circle, symbolizing the color of the sheep"
+        ],
+        [
+            "🎁",
+            "A gift box, illustrating the wool as a gift"
+        ],
+        [
+            "🧶",
+            "A ball of yarn, signifying the wool mentioned in the rhyme"
+        ],
+        [
+            "👧",
+            "A girl, representing the little boy who receives the wool as referred to in the song"
+        ]
+    ]
+}

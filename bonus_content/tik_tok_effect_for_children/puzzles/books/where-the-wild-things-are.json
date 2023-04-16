@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Where the Wild Things Are",
+    "release_year": "1963",
+    "genre_1": "Children's",
+    "genre_2": "Picture Book",
+    "emoji": "👦🛏️🌿👹👑",
+    "short_plot_summary": "A young boy named Max, dressed in a wolf costume, goes on an imaginary adventure to an island inhabited by wild creatures, where he becomes their king.",
+    "explanation": [
+        [
+            "👦",
+            "A boy, representing the main character, Max"
+        ],
+        [
+            "🛏️",
+            "A bed, symbolizing Max's bedroom where his adventure begins"
+        ],
+        [
+            "🌿",
+            "A plant, illustrating the wild environment of the island"
+        ],
+        [
+            "👹",
+            "A monster, representing the wild creatures that live on the island"
+        ],
+        [
+            "👑",
+            "A crown, signifying Max's role as king of the wild things"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Cloudy with a Chance of Meatballs",
+    "release_year": "2009",
+    "genre_1": "Animation",
+    "genre_2": "Comedy",
+    "emoji": "👨‍🔬☁️🍔🍝🧪",
+    "short_plot_summary": "An inventor creates a machine that makes it rain food, and chaos ensues when the machine goes haywire.",
+    "explanation": [
+        [
+            "👨‍🔬",
+            "A scientist, representing Flint Lockwood, the main character and inventor"
+        ],
+        [
+            "☁️",
+            "A cloud, symbolizing the weather-related aspect of the movie"
+        ],
+        [
+            "🍔",
+            "A hamburger, illustrating the type of food that rains from the sky"
+        ],
+        [
+            "🍝",
+            "A plate of spaghetti, showcasing another food that falls from the sky"
+        ],
+        [
+            "🧪",
+            "A flask, representing Flint's invention and his scientific experiments"
+        ]
+    ]
+}

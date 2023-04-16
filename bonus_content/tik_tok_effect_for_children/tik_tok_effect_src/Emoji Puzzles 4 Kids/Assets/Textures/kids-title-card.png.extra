@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "5c32dc70-90c3-a075-5a66-191b4133b4a8",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "kids-title-card",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "createdBy": "Unregistered",
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

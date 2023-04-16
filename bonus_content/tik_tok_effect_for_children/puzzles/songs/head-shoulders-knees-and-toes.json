@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "Head Shoulders Knees and Toes",
+    "release_year": "1961",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "🤷🦵🦶👀👂",
+    "short_plot_summary": "In this popular children's song, body parts are pointed to as they are sung, teaching kids the names of their body parts through a catchy tune.",
+    "explanation": [
+        [
+             "🤷",
+            "A shrug, representing the Head and Shoulders in the song"
+        ],
+        [
+            "🦵",
+            "A leg, representing the Knees in the song"
+        ],
+        [
+            "🦶",
+            "A foot, representing the toes in the song"
+        ],
+        [
+            "👀",
+            "Eyes, representing the Eyes in the song"
+        ],
+        [
+            "👂",
+            "An ear, representing the ears in the song"
+        ]
+    ]
+}

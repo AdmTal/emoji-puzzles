@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "Just Dance",
+    "release_year": "2009",
+    "genre_1": "Music",
+    "genre_2": "Rhythm",
+    "emoji": "💃🕺🎶🌟🏆",
+    "short_plot_summary": "Just Dance is a rhythm game where players mimic the on-screen dancer's choreography to hit songs and earn points and stars.",
+    "explanation": [
+        [
+            "💃",
+            "A female dancer, representing the on-screen dancers that players mimic while playing the game"
+        ],
+        [
+            "🕺",
+            "A male dancer, highlighting the inclusivity and diversity of the dancers and choreography featured in the game"
+        ],
+        [
+            "🎶",
+            "Musical notes, signifying the wide array of popular songs available to dance to in the game"
+        ],
+        [
+            "🌟",
+            "A star, symbolizing the star ratings players earn based on their performance and accuracy of their dance moves"
+        ],
+        [
+            "🏆",
+            "A trophy, representing the sense of competition and achievements players can strive for"
+        ]
+    ]
+}

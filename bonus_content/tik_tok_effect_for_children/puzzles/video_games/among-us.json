@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "Among Us",
+    "release_year": "2018",
+    "genre_1": "Party",
+    "genre_2": "Multiplayer",
+    "emoji": "🚀👥🕵️‍♂️🔪💬",
+    "short_plot_summary": "Players work together to repair a spaceship while hidden impostors sabotage the mission and eliminate crewmates.",
+    "explanation": [
+        [
+            "🚀",
+            "A rocket, symbolizing the spaceship setting of the game"
+        ],
+        [
+            "👥",
+            "Busts in silhouette, representing the group of players working together as crewmates"
+        ],
+        [
+            "🕵️‍♂️",
+            "A detective, illustrating the investigative and deductive aspects of the game"
+        ],
+        [
+            "🔪",
+            "A kitchen knife, signifying the impostors' ability to eliminate crewmates"
+        ],
+        [
+            "💬",
+            "A speech bubble, symbolizing the in-game discussions and communication among players to identify the impostors"
+        ]
+    ]
+}

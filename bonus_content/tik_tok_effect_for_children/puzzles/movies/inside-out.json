@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Inside Out",
+    "release_year": "2015",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "👧🧠😃😢😡",
+    "short_plot_summary": "A young girl's emotions are brought to life as characters in her mind, guiding her through a significant move to a new city. Along the way, they must navigate the challenges and changes that come with growing up.",
+    "explanation": [
+        [
+            "👧",
+            "The young girl, Riley, who is the main character and whose emotions are personified"
+        ],
+        [
+            "🧠",
+            "A brain, representing the inner workings of Riley's mind and the setting for much of the movie"
+        ],
+        [
+            "😃",
+            "Joy, one of the main emotions and characters in the movie"
+        ],
+        [
+            "😢",
+            "Sadness, another important emotion and character in the story"
+        ],
+        [
+            "😡",
+            "Anger, one of the girl's emotions that plays a role in the movie"
+        ]
+    ]
+}

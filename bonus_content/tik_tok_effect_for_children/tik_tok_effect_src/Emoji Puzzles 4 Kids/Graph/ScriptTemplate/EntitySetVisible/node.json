@@ -1,0 +1,75 @@
+{
+	"name": "Set Visibility",
+	"id": "2a3e8c16-476c-8fdd-75c3-9671e25fe966",
+	"inputs": [
+		{
+			"name": "Enter",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "The input execution that triggers this node",
+			"displayType": "Exec",
+			"nameKey": "graph_set_visibility_input_enter",
+			"descriptionKey": "graph_set_visibility_input_enter_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Target",
+			"type": "Entity",
+			"item_type": "",
+			"description": "The scene object to set the visibility",
+			"displayType": "Scene Object",
+			"nameKey": "graph_set_visibility_input_target",
+			"descriptionKey": "graph_set_visibility_input_target_description",
+			"displayTypeKey": "graph_type_sceneobject"
+		},
+		{
+			"name": "Visibility On",
+			"type": "Bool",
+			"default_value": "0",
+			"item_type": "",
+			"description": "The visibility status, true for visible, false for invisible",
+			"displayType": "Boolean",
+			"nameKey": "graph_set_visibility_input_visibilityon",
+			"descriptionKey": "graph_set_visibility_input_visibilityon_description",
+			"displayTypeKey": "graph_type_boolean"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Next",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "Execute the next node",
+			"displayType": "Exec",
+			"nameKey": "graph_set_visibility_output_next",
+			"descriptionKey": "graph_set_visibility_output_next_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Visibility",
+			"type": "Bool",
+			"item_type": "",
+			"description": "Boolean",
+			"displayType": "Boolean",
+			"nameKey": "graph_set_visibility_output_visibility",
+			"descriptionKey": "graph_set_visibility_output_visibility_description",
+			"displayTypeKey": "graph_type_boolean"
+		}
+	],
+	"lua": "CGEntitySetVisible.lua",
+	"js": "CGEntitySetVisible.js",
+	"version": "1.1.0",
+	"amazingVersion": "10.40.0",
+	"luaFuncName": "CGEntitySetVisible",
+	"category": "Utility",
+	"description": "Set the visibility for a Scene Object.",
+	"productTypes": [
+		"TTEH",
+		"DYEH",
+		"EHI"
+	],
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Utility/Set-Visibility",
+	"nameKey": "graph_set_visibility_name",
+	"categoryKey": "graph_category_utility",
+	"descriptionKey": "graph_set_visibility_description"
+}

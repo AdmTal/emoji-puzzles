@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "The Flintstones",
+    "release_year": "1960",
+    "genre_1": "Animation",
+    "genre_2": "Comedy",
+    "emoji": "⛏️🦕👨‍👩‍👧🚗🍖",
+    "short_plot_summary": "Set in the prehistoric town of Bedrock, this classic animated sitcom follows the lives of the Flintstone family and their neighbors, the Rubbles, as they deal with everyday problems and situations with a Stone Age twist.",
+    "explanation": [
+        [
+            "⛏️",
+            "A pickaxe, representing the Stone Age setting and Fred Flintstone's job at the quarry"
+        ],
+        [
+            "🦕",
+            "A dinosaur, symbolizing the prehistoric creatures that are part of their daily lives"
+        ],
+        [
+            "👨‍👩‍👧",
+            "A family, representing the Flintstone family, with Fred, Wilma, and Pebbles"
+        ],
+        [
+            "🚗",
+            "A car, depicting the Flintstones' foot-powered vehicle"
+        ],
+        [
+            "🍖",
+            "A meat bone, symbolizing the iconic scene of the giant ribs being served at the drive-in restaurant"
+        ]
+    ]
+}

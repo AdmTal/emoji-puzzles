@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Toy Story",
+    "release_year": "1995",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "🤠🧑‍🚀🦖🐷🍕",
+    "short_plot_summary": "A cowboy doll named Woody is threatened by the arrival of a new spaceman action figure, Buzz Lightyear. As they try to find their way back to their owner, Andy, they form an unlikely friendship.",
+    "explanation": [
+        [
+            "🤠",
+            "A cowboy, representing Woody, the main character"
+        ],
+        [
+            "🧑‍🚀",
+            "An astronaut, representing Buzz Lightyear, the other main character"
+        ],
+        [
+            "🦖",
+            "A dinosaur, representing Rex, one of the toy characters"
+        ],
+        [
+            "🐷",
+            "A pig, representing Hamm, another toy character"
+        ],
+        [
+            "🍕",
+            "A pizza, referencing Pizza Planet, a key location in the movie"
+        ]
+    ]
+}

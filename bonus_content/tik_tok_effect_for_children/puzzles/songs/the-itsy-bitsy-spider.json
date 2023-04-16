@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "The Itsy Bitsy Spider",
+    "release_year": "1910",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "🕷️💧⛅🌈🔄",
+    "short_plot_summary": "The itsy bitsy spider climbs up a waterspout, gets washed away by rain, and then tries again when the sun comes out.",
+    "explanation": [
+        [
+            "🕷️",
+            "A spider, representing the itsy bitsy spider, the main character of the song"
+        ],
+        [
+            "💧",
+            "A water droplet, symbolizing the rain that washes the spider away from the waterspout"
+        ],
+        [
+            "⛅",
+            "A partly-cloudy sky, indicating the conditions after the rain stops, allowing the spider to start climbing again"
+        ],
+        [
+            "🌈",
+            "A rainbow, representing the appearance of the sun following the rain, providing a bright and happy setting for the spider's newfound determination"
+        ],
+        [
+            "🔄",
+            "A refresh arrow, signifying the spider's persistence in trying again despite being washed away by the rain"
+        ]
+    ]
+}

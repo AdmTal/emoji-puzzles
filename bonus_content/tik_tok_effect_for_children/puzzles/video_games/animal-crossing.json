@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "Animal Crossing",
+    "release_year": "2001",
+    "genre_1": "Simulation",
+    "genre_2": "Social",
+    "emoji": "🏠🦝🍃🎣🖼️",
+    "short_plot_summary": "In Animal Crossing, players explore and develop their own village, interact with anthropomorphic animal residents, and engage in various activities such as fishing and collecting items.",
+    "explanation": [
+        [
+            "🏠",
+            "A house, representing the player's virtual home in the game"
+        ],
+        [
+            "🦝",
+            "A raccoon, symbolizing Tom Nook, a key character and shopkeeper in the game"
+        ],
+        [
+            "🍃",
+            "A leaf, signifying the natural environment and the iconic item transformation animation in the game"
+        ],
+        [
+            "🎣",
+            "A fishing rod, illustrating one of the popular in-game activities players can enjoy"
+        ],
+        [
+            "🖼️",
+            "A framed picture, representing the art and collectibles found throughout the game"
+        ]
+    ]
+}

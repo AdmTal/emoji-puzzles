@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Finding Nemo",
+    "release_year": "2003",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "🐠🐟🤿🐢🦷",
+    "short_plot_summary": "After his son Nemo is captured by a diver, overprotective clownfish Marlin, along with a forgetful fish named Dory, embarks on a dangerous journey across the ocean to rescue Nemo and bring him back home.",
+    "explanation": [
+        [
+            "🐠",
+            "A clownfish, representing Marlin, the main character"
+        ],
+        [
+            "🐟",
+            "A fish, representing Dory, Marlin's forgetful companion"
+        ],
+        [
+            "🤿",
+            "A diving mask, symbolizing the diver who captures Nemo"
+        ],
+        [
+            "🐢",
+            "A turtle, symbolizing Crush, the sea turtle who helps Marlin and Dory"
+        ],
+        [
+            "🦷",
+            "A tooth, representing the dentist where Nemo ends up after being captured"
+        ]
+    ]
+}

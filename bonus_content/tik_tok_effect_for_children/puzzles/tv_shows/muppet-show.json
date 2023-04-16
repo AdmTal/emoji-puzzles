@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "The Muppet Show",
+    "release_year": "1976",
+    "genre_1": "Comedy",
+    "genre_2": "Variety",
+    "emoji": "🐸🐷🐻🎷🎭",
+    "short_plot_summary": "The Muppets and their wacky friends put on a variety show filled with music, comedy, and special guest stars.",
+    "explanation": [
+        [
+            "🐸",
+            "A frog, representing the main character and host, Kermit the Frog"
+        ],
+        [
+            "🐷",
+            "A pig, symbolizing another key character, Miss Piggy"
+        ],
+        [
+            "🐻",
+            "A bear, for Fozzie Bear, the show's resident comedian"
+        ],
+        [
+            "🎷",
+            "A saxophone, portraying the musical aspect of the show"
+        ],
+        [
+            "🎭",
+            "Theater masks, representing the show's format as a variety show and its theatrical performances"
+        ]
+    ]
+}

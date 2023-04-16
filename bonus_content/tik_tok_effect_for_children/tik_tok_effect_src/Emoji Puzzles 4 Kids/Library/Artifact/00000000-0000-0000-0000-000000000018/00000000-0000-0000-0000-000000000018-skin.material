@@ -1,0 +1,37 @@
+%YAML 1.1
+--- !Material &1
+name: Left Brow Face Inset
+guid: {a: 13061158688719826540, b: 7893928704793698956}
+xshader: {localId: 1, path: 00000000-0000-0000-0000-000000000018--00000000-0000-0000-0000-000000000018.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 6575774038249777296, b: 15124646735534434215}
+  floatmap:
+    __class: Map
+    _Opacity: 1
+    _Rotation: 0
+  vec4map:
+    __class: Map
+    _BaseColor: {x: 1, y: 1, z: 1, w: 1}
+  vec3map:
+    __class: Map
+    _MeshRescale: {x: 1.31, y: 0.5, z: 1}
+  vec2map:
+    __class: Map
+    _Offset: {x: 0, y: 0}
+    _TextureRescale: {x: 1, y: 1}
+    _Tiling: {x: 1, y: 1}
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    _BaseTexture: {localId: 1, path: 00000000-0000-0000-0000-00000000001e--00000000-0000-0000-0000-00000000001e.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+  AE_AMAZING_USE_BONES: !<str> 1
+mshaderPath: ""
+instanceCount: 0

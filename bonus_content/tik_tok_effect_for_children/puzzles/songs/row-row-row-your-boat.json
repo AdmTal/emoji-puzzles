@@ -1,0 +1,23 @@
+{
+    "type": "Song",
+    "title": "Row Row Row Your Boat",
+    "release_year": "1852",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "🚣‍♂️🚣‍♂️🚣‍♂️😄💤",
+    "short_plot_summary": "A simple and catchy nursery rhyme about rowing a boat gently down a stream, enjoying the journey, and having a peaceful dream.",
+    "explanation": [
+        [
+            "🚣‍♂️🚣‍♂️🚣‍♂️",
+            "Three rowing boat emojis, representing the repetitive action of rowing"
+        ],
+        [
+            "😄",
+            "A smiling face, symbolizing the enjoyment of rowing and the journey"
+        ],
+        [
+            "💤",
+            "A sleeping symbol, illustrating the peaceful dream mentioned in the song"
+        ]
+    ]
+}

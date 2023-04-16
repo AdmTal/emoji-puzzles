@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Madagascar",
+    "release_year": "2005",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "🦁🦓🦒🌴🚢",
+    "short_plot_summary": "A group of animals from the New York City zoo find themselves stranded on the Island of Madagascar and must adapt to the wild environment.",
+    "explanation": [
+        [
+            "🦁",
+            "A lion, representing Alex the lion who is one of the main characters"
+        ],
+        [
+            "🦓",
+            "A zebra, symbolizing Marty the zebra who is one of the main characters"
+        ],
+        [
+            "🦒",
+            "A giraffe, illustrating Melman the giraffe who is one of the main characters"
+        ],
+        [
+            "🌴",
+            "A palm tree, signifying the setting in Madagascar after they get stranded on the island"
+        ],
+        [
+            "🚢",
+            "A ship, representing the boat that the animals accidentally end up on which takes them to Madagascar"
+        ]
+    ]
+}

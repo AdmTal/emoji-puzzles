@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Charlotte's Web",
+    "release_year": "1952",
+    "genre_1": "Children's",
+    "genre_2": "Fiction",
+    "emoji": "🕷️🕸️🐖🚜🌽",
+    "short_plot_summary": "A young girl named Fern befriends a pig named Wilbur and a barn spider named Charlotte. Charlotte uses her web-making skills to help save Wilbur from becoming dinner.",
+    "explanation": [
+        [
+            "🕷️",
+            "A spider, representing Charlotte, the main character and Wilbur's friend"
+        ],
+        [
+            "🕸️",
+            "A spiderweb, symbolizing Charlotte's unique way of communicating to help Wilbur"
+        ],
+        [
+            "🐖",
+            "A pig, representing Wilbur, the other main character and friend of Charlotte"
+        ],
+        [
+            "🚜",
+            "A tractor, for the farm setting where the story takes place"
+        ],
+        [
+            "🌽",
+            "A corn, indicating the agricultural environment of the story and the food grown on the farm"
+        ]
+    ]
+}

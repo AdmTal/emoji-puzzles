@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Kung Fu Panda",
+    "release_year": "2008",
+    "genre_1": "Animation",
+    "genre_2": "Family",
+    "emoji": "🐼🥟🥋🐯🐍",
+    "short_plot_summary": "A clumsy, overweight panda named Po discovers he's the Dragon Warrior and trains in Kung Fu to save his village from a dangerous enemy.",
+    "explanation": [
+        [
+            "🐼",
+            "A panda, representing the main character, Po"
+        ],
+        [
+            "🥟",
+            "A dumpling, symbolizing Po's love for food and his father's noodle shop"
+        ],
+        [
+            "🥋",
+            "A martial arts uniform, representing Kung Fu and Po's training with Master Shifu"
+        ],
+        [
+            "🐯",
+            "A tiger, symbolizing Master Tigress, one of the Furious Five and a skilled Kung Fu fighter"
+        ],
+        [
+            "🐍",
+            "A snake, representing the villain, Tai Lung, who Po must defeat to save his village"
+        ]
+    ]
+}

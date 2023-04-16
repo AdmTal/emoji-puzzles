@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Zootopia",
+    "release_year": "2016",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "🐰🏙️🦊🐾👮",
+    "short_plot_summary": "A rabbit police officer and a con artist fox team up to solve a mystery that threatens the harmony of their city, Zootopia.",
+    "explanation": [
+        [
+            "🐰",
+            "A rabbit, representing Judy Hopps, the main character and rookie police officer"
+        ],
+        [
+            "🏙️",
+            "A cityscape, symbolizing the diverse and bustling city of Zootopia where the story takes place"
+        ],
+        [
+            "🦊",
+            "A fox, illustrating Nick Wilde, the cunning con artist who teams up with Judy Hopps"
+        ],
+        [
+            "🐾",
+            "Paw prints, representing the investigation and mystery-solving aspect of the story"
+        ],
+        [
+            "👮",
+            "A police officer, signifying the law enforcement and crime-fighting theme in the movie"
+        ]
+    ]
+}

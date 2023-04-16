@@ -1,0 +1,125 @@
+{
+	"name": "Timer",
+	"id": "4fa40910-98a8-e9f2-ee28-15b4d2a6fb7c",
+	"inputs": [
+		{
+			"name": "Start",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "Start the timer",
+			"displayType": "Exec",
+			"nameKey": "graph_timer_input_start",
+			"descriptionKey": "graph_timer_input_start_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Pause",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "Pause the timer",
+			"displayType": "Exec",
+			"nameKey": "graph_timer_input_pause",
+			"descriptionKey": "graph_timer_input_pause_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Resume",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "Resume the timer",
+			"displayType": "Exec",
+			"nameKey": "graph_timer_input_resume",
+			"descriptionKey": "graph_timer_input_resume_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Duration",
+			"type": "Double",
+			"item_type": "",
+			"description": "The total number of seconds that the timer counts",
+			"displayType": "Number",
+			"nameKey": "graph_timer_input_duration",
+			"descriptionKey": "graph_timer_input_duration_description",
+			"displayTypeKey": "graph_type_number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Started",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "Execute the next node when the timer starts",
+			"displayType": "Exec",
+			"nameKey": "graph_timer_output_started",
+			"descriptionKey": "graph_timer_output_started_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Tick",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "Executes the next node each frame",
+			"displayType": "Exec",
+			"nameKey": "graph_timer_output_tick",
+			"descriptionKey": "graph_timer_output_tick_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Completed",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "Execute the next node when the timer stops",
+			"displayType": "Exec",
+			"nameKey": "graph_timer_output_completed",
+			"descriptionKey": "graph_timer_output_completed_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Elapsed Time",
+			"type": "Double",
+			"item_type": "",
+			"description": "The number of seconds elapsed since the timer started",
+			"displayType": "Number",
+			"nameKey": "graph_timer_output_elapsedtime",
+			"descriptionKey": "graph_timer_output_elapsedtime_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Progress",
+			"type": "Double",
+			"item_type": "",
+			"description": "The proportion of the duration that has elapsed. Value range: 0 to 1",
+			"displayType": "Number",
+			"nameKey": "graph_timer_output_progress",
+			"descriptionKey": "graph_timer_output_progress_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Remaining",
+			"type": "Double",
+			"item_type": "",
+			"description": "The number of seconds remaining until the timer stops",
+			"displayType": "Number",
+			"nameKey": "graph_timer_output_remaining",
+			"descriptionKey": "graph_timer_output_remaining_description",
+			"displayTypeKey": "graph_type_number"
+		}
+	],
+	"lua": "CGTimer.lua",
+	"js": "CGTimer.js",
+	"version": "1.0.1",
+	"amazingVersion": "10.40.0",
+	"luaFuncName": "CGTimer",
+	"category": "Time",
+	"nodeEvent": "onUpdate",
+	"description": "Use a timer to manage different executions.",
+	"productTypes": [
+		"TTEH",
+		"DYEH",
+		"EHI"
+	],
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Time/Timer",
+	"nameKey": "graph_timer_name",
+	"categoryKey": "graph_category_time",
+	"descriptionKey": "graph_timer_description"
+}

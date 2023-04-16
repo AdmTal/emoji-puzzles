@@ -1,0 +1,31 @@
+{
+    "type": "TV Show",
+    "title": "My Little Pony",
+    "release_year": "1984",
+    "genre_1": "Fantasy",
+    "genre_2": "Animation",
+    "emoji": "🦄🌈✨🎀🏰",
+    "short_plot_summary": "My Little Pony is about magical ponies living in the land of Equestria, where they learn about friendship, love, and adventure.",
+    "explanation": [
+        [
+            "🦄",
+            "A unicorn, representing the magical ponies that are the main characters of the show"
+        ],
+        [
+            "🌈",
+            "A rainbow, symbolizing the colorful world of Equestria and the magic that exists within it"
+        ],
+        [
+            "✨",
+            "A sparkle, illustrating the magical powers and elements that the ponies possess and encounter during their adventures"
+        ],
+        [
+            "🎀",
+            "A ribbon, representing the friendship and strong bonds the ponies share with one another"
+        ],
+        [
+            "🏰",
+            "A castle, signifying the magical kingdom where the ponies live and explore"
+        ]
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Song",
+    "title": "Five Little Monkeys",
+    "release_year": "1980",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "🐒🐒🐒🐒🐒🛏️🤕",
+    "short_plot_summary": "Five little monkeys jump on the bed, one falls off and bumps his head. This continues until no monkeys are left jumping on the bed, and the doctor advises them not to jump on the bed.",
+    "explanation": [
+        [
+            "🐒🐒🐒🐒🐒",
+            "Five monkeys, representing the main characters of the song"
+        ],
+        [
+            "🛏️",
+            "A bed, where the monkeys jump and play"
+        ],
+        [
+            "🤕",
+            "A head injury, showing that each monkey gets hurt after falling off the bed"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "The Muffin Man",
+    "release_year": "1820",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "👨‍🍳🧁🏠🛣️🙋",
+    "short_plot_summary": "The Muffin Man is a popular nursery rhyme that tells the story of a baker who lives on Drury Lane and bakes delicious muffins.",
+    "explanation": [
+        [
+            "👨‍🍳",
+            "A chef, representing the Muffin Man, who is a baker"
+        ],
+        [
+            "🧁",
+            "A muffin, symbolizing the delicious muffins made by the Muffin Man"
+        ],
+        [
+            "🏠",
+            "A house, indicating the home of the Muffin Man on Drury Lane"
+        ],
+        [
+            "🛣️",
+            "A road, representing Drury Lane where the Muffin Man lives"
+        ],
+        [
+            "🙋",
+            "A person raising their hand, referencing the question 'Do you know the Muffin Man?' asked in the song"
+        ]
+    ]
+}

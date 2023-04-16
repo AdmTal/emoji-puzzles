@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "release_year": "1997",
+    "genre_1": "Fantasy",
+    "genre_2": "Adventure",
+    "emoji": "⚡👦🧙‍♂️🏰🧹",
+    "short_plot_summary": "A young boy named Harry discovers he is a wizard and begins his magical education at Hogwarts School of Witchcraft and Wizardry, all while trying to unlock the mystery of the Sorcerer's Stone.",
+    "explanation": [
+        [
+            "⚡",
+            "A lightning bolt, representing the scar on Harry's forehead"
+        ],
+        [
+            "👦",
+            "A boy, symbolizing the young protagonist, Harry Potter"
+        ],
+        [
+            "🧙‍♂️",
+            "An old male wizard, representing Dumbledore, the headmaster of Hogwarts"
+        ],
+        [
+            "🏰",
+            "A castle, symbolizing Hogwarts School of Witchcraft and Wizardry"
+        ],
+        [
+            "🧹",
+            "A broom, representing the magical sport of Quidditch, which Harry becomes a star player in"
+        ]
+    ]
+}

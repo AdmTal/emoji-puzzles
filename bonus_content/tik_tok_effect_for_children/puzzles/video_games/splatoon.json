@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "Splatoon",
+    "release_year": "2015",
+    "genre_1": "Shooter",
+    "genre_2": "Multiplayer",
+    "emoji": "🦑🎨🔫👟🏁",
+    "short_plot_summary": "Inkling characters called Inklings battle with paint guns in colorful turf wars in order to claim territory and achieve victory.",
+    "explanation": [
+        [
+            "🦑",
+            "A squid, representing the main characters called Inklings who are humanoids with the ability to transform into squids"
+        ],
+        [
+            "🎨",
+            "A palette, symbolizing the central theme of ink and colorful paint in the game"
+        ],
+        [
+            "🔫",
+            "A water gun, illustrating the paint guns the Inklings use to cover territory with their team's color"
+        ],
+        [
+            "👟",
+            "A sneaker, signifying the character customization options in the game, including outfits and accessories"
+        ],
+        [
+            "🏁",
+            "A checkered flag, representing the goal of winning turf wars and achieving victory in matches"
+        ]
+    ]
+}

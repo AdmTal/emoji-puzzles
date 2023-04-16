@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "The Three Little Pigs",
+    "release_year": "1886",
+    "genre_1": "Children's",
+    "genre_2": "Fairy Tale",
+    "emoji": "🐷🌾🪵🧱🐺",
+    "short_plot_summary": "Three little pigs each build their own houses with different materials. A big bad wolf tries to blow their houses down but is only successful with the houses made of straw and sticks. The house made of bricks saves the day.",
+    "explanation": [
+        [
+            "🐷",
+            "Three pigs, representing the main characters of the story"
+        ],
+        [
+            "🌾",
+            "Straw, symbolizing the material used for the first pig's house"
+        ],
+        [
+            "🪵",
+            "Wood, representing the material used for the second pig's house"
+        ],
+        [
+            "🧱",
+            "Bricks, signifying the strong material used for the third pig's house"
+        ],
+        [
+            "🐺",
+            "A wolf, depicting the antagonist who tries to blow the pigs' houses down"
+        ]
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "WALL-E",
+    "release_year": "2008",
+    "genre_1": "Animation",
+    "genre_2": "Adventure",
+    "emoji": "🤖🌱🚀🌎♻️",
+    "short_plot_summary": "In the distant future, a small waste-collecting robot named WALL-E inadvertently embarks on a space journey that ultimately decides the fate of mankind and a polluted Earth.",
+    "explanation": [
+        [
+            "🤖",
+            "A robot, representing WALL-E, the main character"
+        ],
+        [
+            "🌱",
+            "A plant, symbolizing the sign of new life found by WALL-E"
+        ],
+        [
+            "🚀",
+            "A rocket, representing the spaceship WALL-E and EVE board in search of humans"
+        ],
+        [
+            "🌎",
+            "Earth, where WALL-E carried out his duties as a waste-collecting robot"
+        ],
+        [
+            "♻️",
+            "A recycling symbol, indicating the movie's environmental message"
+        ]
+    ]
+}

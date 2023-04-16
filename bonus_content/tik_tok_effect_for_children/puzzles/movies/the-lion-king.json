@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "The Lion King",
+    "release_year": "1994",
+    "genre_1": "Animation",
+    "genre_2": "Musical",
+    "emoji": "🦁👑🐗🌅🌍",
+    "short_plot_summary": "A young lion prince named Simba runs away from his kingdom after his father's death, but with the help of new friends, he learns to face his past and reclaim his throne.",
+    "explanation": [
+        [
+            "🦁",
+            "A lion, representing Simba, the main character"
+        ],
+        [
+            "👑",
+            "A crown, symbolizing Simba's royal heritage and his journey to become king"
+        ],
+        [
+            "🐗",
+            "A wild boar, representing Pumbaa, one of Simba's closest friends"
+        ],
+        [
+            "🌅",
+            "A sunrise, symbolizing the iconic opening scene of the movie"
+        ],
+        [
+            "🌍",
+            "Earth, representing the African savanna setting and the Circle of Life theme"
+        ]
+    ]
+}

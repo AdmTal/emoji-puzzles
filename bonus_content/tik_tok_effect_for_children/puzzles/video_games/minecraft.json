@@ -1,0 +1,31 @@
+{
+    "type": "Video Game",
+    "title": "Minecraft",
+    "release_year": "2011",
+    "genre_1": "Sandbox",
+    "genre_2": "Survival",
+    "emoji": "🌳⛏️🧱🐖🧟",
+    "short_plot_summary": "In Minecraft, players explore a blocky, procedurally-generated world where they mine resources, craft items, build structures, and fend off monsters.",
+    "explanation": [
+        [
+            "🌳",
+            "A tree, symbolizing the natural resources found in the game world and the importance of cutting down trees for crafting materials"
+        ],
+        [
+            "⛏️",
+            "A pickaxe, representing the mining and resource gathering aspect of the game"
+        ],
+        [
+            "🧱",
+            "A brick, illustrating the building and construction aspect of the game"
+        ],
+        [
+            "🐖",
+            "A pig, signifying the presence of animals in the game for food and resources"
+        ],
+        [
+            "🧟",
+            "A zombie, representing the hostile monsters players must protect themselves against"
+        ]
+    ]
+}

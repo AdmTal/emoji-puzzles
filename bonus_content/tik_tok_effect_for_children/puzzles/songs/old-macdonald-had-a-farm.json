@@ -1,0 +1,31 @@
+{
+    "type": "Song",
+    "title": "Old MacDonald Had a Farm",
+    "release_year": "1925",
+    "genre_1": "Children's",
+    "genre_2": "Nursery Rhyme",
+    "emoji": "👴🚜🐄🐖🐔",
+    "short_plot_summary": "A song about Old MacDonald and his farm, where he keeps various animals and takes care of them.",
+    "explanation": [
+        [
+            "👴",
+            "An old man, representing Old MacDonald, the main character in the song"
+        ],
+        [
+            "🚜",
+            "A tractor, symbolizing the farm setting and the work done by Old MacDonald to maintain it"
+        ],
+        [
+            "🐄",
+            "A cow, illustrating one of the many animals that Old MacDonald has on his farm"
+        ],
+        [
+            "🐖",
+            "A pig, showing another type of animal found on Old MacDonald's farm"
+        ],
+        [
+            "🐔",
+            "A chicken, representing yet another animal Old MacDonald takes care of on his farm"
+        ]
+    ]
+}
