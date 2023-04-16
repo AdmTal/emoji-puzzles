@@ -1,0 +1,44 @@
+{
+	"name": "Get Visibility",
+	"id": "cfeddcf4-f11a-8907-cb1c-d45548103bc4",
+	"inputs": [
+		{
+			"name": "Target",
+			"type": "Entity",
+			"item_type": "",
+			"description": "The Scene Object to get the visibility status",
+			"displayType": "Scene Object",
+			"nameKey": "graph_get_visibility_input_target",
+			"descriptionKey": "graph_get_visibility_input_target_description",
+			"displayTypeKey": "graph_type_sceneobject"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Visibility",
+			"type": "Bool",
+			"item_type": "",
+			"description": "The visibility status, true for visible, false for invisible",
+			"displayType": "Boolean",
+			"nameKey": "graph_get_visibility_output_visibility",
+			"descriptionKey": "graph_get_visibility_output_visibility_description",
+			"displayTypeKey": "graph_type_boolean"
+		}
+	],
+	"lua": "CGEntityGetVisible.lua",
+	"js": "CGEntityGetVisible.js",
+	"version": "1.1.0",
+	"amazingVersion": "10.40.0",
+	"luaFuncName": "CGEntityGetVisible",
+	"category": "Utility",
+	"description": "Get the visibility status of a Scene Object.",
+	"productTypes": [
+		"TTEH",
+		"DYEH",
+		"EHI"
+	],
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Utility/Get-Visibility",
+	"nameKey": "graph_get_visibility_name",
+	"categoryKey": "graph_category_utility",
+	"descriptionKey": "graph_get_visibility_description"
+}

@@ -1,0 +1,45 @@
+%YAML 1.1
+--- !Material &1
+name: Default
+guid: {a: 4921196907512454569, b: 11371419010544877697}
+xshader: {localId: 1, path: 00000000-0000-0000-0000-00000000000c--00000000-0000-0000-0000-00000000000c.xshader}
+properties:
+  __class: PropertySheet
+  name: ""
+  guid: {a: 12629341796189825199, b: 15180194383870045359}
+  floatmap:
+    __class: Map
+    _AmbientIntensity: 1
+    _AmbientRotation: 0
+    _EmissiveIntensity: 0
+    _Metallic: 0
+    _NormalIntensity: 1
+    _Occlusion: 1
+    _Rotation: 0
+    _Roughness: 0.5
+  vec4map:
+    __class: Map
+    _AlbedoColor: {x: 1, y: 1, z: 1, w: 1}
+    _EmissiveColor: {x: 1, y: 1, z: 1, w: 1}
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+    _Offset: {x: 0, y: 0}
+    _Tiling: {x: 1, y: 1}
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    _AlbedoTexture: {localId: 1, path: 00000000-0000-0000-0000-000000000021--00000000-0000-0000-0000-000000000021.png}
+    _AmbientTexture: {localId: 1, path: 00000000-0000-0000-0000-000000000020--00000000-0000-0000-0000-000000000020.png}
+    _EmissiveTexture: {localId: 1, path: 00000000-0000-0000-0000-00000000001c--00000000-0000-0000-0000-00000000001c.png}
+    _MRAOTexture: {localId: 1, path: 00000000-0000-0000-0000-00000000001c--00000000-0000-0000-0000-00000000001c.png}
+    _NormalTexture: {localId: 1, path: 00000000-0000-0000-0000-00000000001f--00000000-0000-0000-0000-00000000001f.png}
+  intmap:
+    __class: Map
+renderQueue: -1
+enabledMacros:
+  __class: Map
+mshaderPath: ""
+instanceCount: 0

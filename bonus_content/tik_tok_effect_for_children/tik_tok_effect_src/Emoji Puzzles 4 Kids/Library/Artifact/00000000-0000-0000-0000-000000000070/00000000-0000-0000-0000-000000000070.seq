@@ -1,0 +1,51 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: Default TexSeq
+guid: {a: 4993259503088975330, b: 9716984136248249528}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--0.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--1.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--2.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--3.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--4.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--5.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--6.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--7.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--8.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--9.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--10.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--11.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--12.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--13.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--14.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--15.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--16.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--17.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--18.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--19.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--20.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--21.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--22.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--23.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--24.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--25.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--26.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--27.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--28.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--29.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--30.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--31.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--32.imageatlas}
+  - {localId: 1, path: 00000000-0000-0000-0000-000000000070--33.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

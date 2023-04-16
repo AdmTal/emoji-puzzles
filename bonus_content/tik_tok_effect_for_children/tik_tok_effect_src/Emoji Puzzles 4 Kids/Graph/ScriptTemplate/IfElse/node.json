@@ -1,0 +1,67 @@
+{
+	"name": "If",
+	"id": "7eaad5a9-8153-652d-56be-bc67929c2336",
+	"inputs": [
+		{
+			"name": "Enter",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "The input execution that triggers this node",
+			"displayType": "Exec",
+			"nameKey": "graph_if_input_enter",
+			"descriptionKey": "graph_if_input_enter_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Condition",
+			"type": "Bool",
+			"item_type": "",
+			"default_value": "1",
+			"description": "A boolean value that determines which output execution to be taken. Select it to pass the true value only.",
+			"displayType": "Boolean",
+			"nameKey": "graph_if_input_condition",
+			"descriptionKey": "graph_if_input_condition_description",
+			"displayTypeKey": "graph_type_boolean"
+		}
+	],
+	"outputs": [
+		{
+			"name": "True",
+			"type": "Pulse",
+			"item_type": "",
+			"default_value": "0",
+			"description": "Execute the next node if condition is true",
+			"displayType": "Exec",
+			"nameKey": "graph_if_output_true",
+			"descriptionKey": "graph_if_output_true_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "False",
+			"type": "Pulse",
+			"item_type": "",
+			"default_value": "0",
+			"description": "Execute the next node if condition is false",
+			"displayType": "Exec",
+			"nameKey": "graph_if_output_false",
+			"descriptionKey": "graph_if_output_false_description",
+			"displayTypeKey": "graph_type_exec"
+		}
+	],
+	"js": "CGIfElse.js",
+	"lua": "CGIfElse.lua",
+	"version": "1.0.1",
+	"amazingVersion": "10.40.0",
+	"luaFuncName": "CGIfElse",
+	"category": "Control",
+	"description": "Take different executions based on conditions.",
+	"productTypes": [
+		"TTEH",
+		"DYEH",
+		"EHI"
+	],
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Control/If",
+	"nameKey": "graph_if_name",
+	"categoryKey": "graph_category_control",
+	"descriptionKey": "graph_if_description"
+}

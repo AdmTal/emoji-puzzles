@@ -1,0 +1,102 @@
+%YAML 1.1
+--- !AnimSeq &1
+name: The-Simpsons_puzzle_page
+guid: {a: 18322588264878813736, b: 3095038918314385565}
+assettype:
+  __class: SeqAssetType
+  value: atlas
+assetfilename: ""
+fps: 1
+lazyload: true
+cache: false
+atlases:
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--0.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--1.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--2.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--3.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--4.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--5.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--6.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--7.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--8.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--9.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--10.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--11.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--12.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--13.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--14.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--15.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--16.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--17.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--18.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--19.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--20.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--21.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--22.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--23.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--24.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--25.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--26.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--27.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--28.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--29.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--30.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--31.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--32.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--33.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--34.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--35.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--36.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--37.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--38.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--39.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--40.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--41.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--42.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--43.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--44.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--45.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--46.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--47.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--48.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--49.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--50.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--51.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--52.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--53.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--54.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--55.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--56.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--57.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--58.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--59.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--60.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--61.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--62.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--63.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--64.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--65.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--66.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--67.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--68.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--69.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--70.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--71.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--72.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--73.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--74.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--75.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--76.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--77.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--78.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--79.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--80.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--81.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--82.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--83.imageatlas}
+  - {localId: 1, path: 7bc884c8-642c-0347-1f9d-e03e0e0381b1--84.imageatlas}
+memoryLimit: 0
+preload: false
+indexAction:
+  __class: Map
+preloadCount: 0

@@ -1,0 +1,73 @@
+{
+	"name": "Sequence",
+	"id": "476964aa-2b3f-501a-724a-c92ce4391ce3",
+	"inputs": [
+		{
+			"name": "Enter",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "The input execution that triggers this node",
+			"displayType": "Exec",
+			"nameKey": "graph_sequence_input_enter",
+			"descriptionKey": "graph_sequence_input_enter_description",
+			"displayTypeKey": "graph_type_exec"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Procedure 1",
+			"type": "Pulse",
+			"item_type": "",
+			"default_value": "0",
+			"description": "Execute the next node as the first procedure",
+			"displayType": "Exec",
+			"nameKey": "graph_sequence_output_procedure1",
+			"descriptionKey": "graph_sequence_output_procedure1_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Procedure 2",
+			"type": "Pulse",
+			"item_type": "",
+			"default_value": "0",
+			"description": "Execute the next node as the second procedure",
+			"displayType": "Exec",
+			"nameKey": "graph_sequence_output_procedure2",
+			"descriptionKey": "graph_sequence_output_procedure2_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Procedure 3",
+			"type": "Pulse",
+			"item_type": "",
+			"default_value": "0",
+			"description": "Execute the next node as the last procedure",
+			"displayType": "Exec",
+			"nameKey": "graph_sequence_output_procedure3",
+			"descriptionKey": "graph_sequence_output_procedure3_description",
+			"displayTypeKey": "graph_type_exec"
+		}
+	],
+	"lua": "CGSequence.lua",
+	"js": "CGSequence.js",
+	"version": "1.0.1",
+	"amazingVersion": "10.40.0",
+	"luaFuncName": "CGSequence",
+	"category": "Control",
+	"description": "Execute procedures one by one. You can click \"+\" to add more outputs.",
+	"productTypes": [
+		"TTEH",
+		"DYEH",
+		"EHI"
+	],
+	"addableOutput": {
+		"index": 2,
+		"baseName": "Procedure ",
+		"baseNameKey": "graph_port_addable_procedure",
+		"increaseStartIndex": 4
+	},
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Control/Sequence",
+	"nameKey": "graph_sequence_name",
+	"categoryKey": "graph_category_control",
+	"descriptionKey": "graph_sequence_description"
+}

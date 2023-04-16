@@ -1,0 +1,39 @@
+{
+	"name": "Screen Tap",
+	"id": "84ab3541-edc9-e87e-32b1-ab9c4097c856",
+	"inputs": [],
+	"outputs": [
+		{
+			"name": "Next",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "Execute the next node when tap happened",
+			"displayType": "Exec"
+		},
+		{
+			"name": "Position",
+			"type": "Vector2f",
+			"item_type": "",
+			"description": "2D position of touch point",
+			"displayType": "Vec2"
+		}
+	],
+	"lua": "CGScreenTap.lua",
+	"js": "CGScreenTap.js",
+	"version": "1.0",
+	"amazingVersion": "10.40.0",
+	"luaFuncName": "CGScreenTap",
+	"nodeEvent": "onEvent",
+	"category": "Event",
+	"subCategory": "Input",
+	"graphAlgorithms": [
+		"TouchGes"
+	],
+	"description": "Execute the next node when the device screen is tapped. It triggers as soon as the finger touches the screen.",
+	"productTypes": [
+		"InHouse",
+		"Domestic",
+		"TTEH"
+	],
+	"TTEHVer": "1.0.1"
+}
