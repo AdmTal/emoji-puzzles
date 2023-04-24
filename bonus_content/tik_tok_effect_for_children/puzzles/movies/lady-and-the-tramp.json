@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Lady and the Tramp",
+    "release_year": "1955",
+    "genre_1": "Animation",
+    "genre_2": "Romance",
+    "emoji": "🐶🍝🐾💞🏙️",
+    "short_plot_summary": "An upper-class Cocker Spaniel named Lady meets a streetwise mongrel named Tramp, and they embark on a romantic adventure.",
+    "explanation": [
+        [
+            "🐶",
+            "A dog, representing both Lady and Tramp, the main characters of the movie"
+        ],
+        [
+            "🍝",
+            "A plate of spaghetti, symbolizing the iconic scene where Lady and Tramp share a romantic meal"
+        ],
+        [
+            "🐾",
+            "Paw prints, illustrating the adventures and journey Lady and Tramp go on together"
+        ],
+        [
+            "💞",
+            "A heart with a ribbon, signifying the growing love and bond between Lady and Tramp"
+        ],
+        [
+            "🏙️",
+            "A cityscape, representing the urban setting where Lady and Tramp's story takes place"
+        ]
+    ]
+}

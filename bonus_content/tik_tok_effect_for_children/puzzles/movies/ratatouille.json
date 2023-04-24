@@ -1,0 +1,31 @@
+{
+    "type": "Movie",
+    "title": "Ratatouille",
+    "release_year": "2007",
+    "genre_1": "Animation",
+    "genre_2": "Comedy",
+    "emoji": "🐀👨‍🍳🍲🇫🇷🍽️",
+    "short_plot_summary": "A rat named Remy dreams of becoming a chef and tries to achieve his goal by forming an alliance with a Parisian restaurant's garbage boy.",
+    "explanation": [
+        [
+            "🐀",
+            "A rat, representing Remy, the main character of the story"
+        ],
+        [
+            "👨‍🍳",
+            "A chef, symbolizing Remy's dream of becoming a chef and his alliance with Linguini"
+        ],
+        [
+            "🍲",
+            "A pot of food, illustrating the cooking and gourmet meals in the movie"
+        ],
+        [
+            "🇫🇷",
+            "The French flag, representing the Parisian setting of the story"
+        ],
+        [
+            "🍽️",
+            "A plate with utensils, signifying the restaurant environment and fine dining aspect of the plot"
+        ]
+    ]
+}

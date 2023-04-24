@@ -1,0 +1,31 @@
+{
+    "type": "Book",
+    "title": "Winnie the Pooh",
+    "release_year": "1926",
+    "genre_1": "Children's",
+    "genre_2": "Adventure",
+    "emoji": "🐻🍯🐷🐯🐴",
+    "short_plot_summary": "Winnie the Pooh, a lovable bear, goes on adventures with his friends in the Hundred Acre Wood, often in search of honey.",
+    "explanation": [
+        [
+            "🐻",
+            "A bear, representing the main character, Winnie the Pooh"
+        ],
+        [
+            "🍯",
+            "A honey pot, symbolizing Pooh's love for honey and his frequent quests to find it"
+        ],
+        [
+            "🐷",
+            "A pig, representing Pooh's friend, Piglet"
+        ],
+        [
+            "🐯",
+            "A tiger, signifying another one of Pooh's friends, Tigger"
+        ],
+        [
+            "🐴",
+            "A donkey, illustrating Pooh's friend, Eeyore"
+        ]
+    ]
+}
