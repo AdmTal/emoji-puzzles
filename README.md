@@ -10,8 +10,6 @@ Feel free to use this as a resource for creating your own books! 😊
 
 Looking forward to connecting with you and exploring more ways to apply AI in our lives! 💡
 
-https://emojipuzzlebook.com/
-
 <a href="https://www.amazon.com/dp/B0BZZ7S6JQ">
   <img src="static/ebook-cover.jpg" width="200" />
 <a/>
